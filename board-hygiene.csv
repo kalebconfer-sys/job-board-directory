@@ -13,4 +13,4 @@ recruitee,testing,template,1,Senior Marketer (Sample),Account name “Testing”
 ashby,playground,employer,8,VP of SMB Sales,Reads as a sandbox and is not one. Real roles in New York and Denver for a real company. Blocking this token deletes live jobs.
 recruitee,yourcompany,employer,23,Pflegefachkraft | 1:1 Intensivpflege,"Account name is the unedited default, “Your Company”, but the 23 postings are real German nursing and logistics roles. The defect is an employer who never renamed the account -- any aggregator reading it publishes a company called “Your Company”."
 greenhouse,example,unresolved,21,App Platform Software Engineer,"Twenty-one coherent roles across New York, San Francisco and Toronto. Reads like one real company on a placeholder token, but nothing observed proves which, so it is neither blocked nor vouched for."
-greenhouse,staging,unresolved,2,TEST,"Two postings: one named TEST, one a plausible operations role in Pune. Too little to decide."
+greenhouse,staging,unresolved,1,TEST,"Two postings: one named TEST, one a plausible operations role in Pune. Too little to decide."
