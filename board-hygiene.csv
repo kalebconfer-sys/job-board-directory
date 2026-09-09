@@ -2,15 +2,16 @@ ats,token,verdict,postings,evidence,note
 lever,leverdemo-8,template,429,***POSTING TEMPLATE - ENGINEERING,"Board's own name is “Lever Implementation Training Environment”. Also posts Dolphin Trainer, Dog Groomer and Farmer. 55 postings say Austin, TX."
 lever,leverdemo-7,template,205,,Same demo family as leverdemo-8.
 lever,leverdemo-2,template,79,,Same demo family as leverdemo-8.
-lever,leverdemo,template,12,Customer Success Manager AH Test,Lever's original public demo board.
+lever,leverdemo,template,13,Customer Success Manager AH Test,Lever's original public demo board.
 lever,leverdemo-6,template,10,,Same demo family as leverdemo-8.
+lever,leverdemo956,template,15,,"The board's own name is “Sales Demo - Melody Tsukahara”, but not one of its 15 postings says so: Account Executive, Director of IT & Security, Senior Backend Engineer and the rest read as ordinary San Francisco, Toronto and Montreal roles. A pipeline that flags demo boards by looking for TEST in a job title misses this one entirely. ZipRecruiter carries it as an employer named “Melody Tsukahara”."
 greenhouse,testing,template,6,0. TEST JOB,Several postings give their location as “z-Test & Templates Only”.
 greenhouse,sample,template,8,Forklift Operator (KT),"Twelve postings spanning Oxford, Bordeaux, Bahrain and Clairton PA with no shared employer -- vendor sample data."
 ashby,companyname,template,7,Sales Template,Token is the literal placeholder; posts the same “Senior Software Engineer” repeatedly.
 ashby,testing,template,1,External job ad template Finland,"Single posting, names itself a template."
 recruitee,test,template,1,Senior Marketer (Sample),Account name “Test”; the one posting names itself a sample.
 recruitee,testing,template,1,Senior Marketer (Sample),Account name “Testing”; same sample posting.
-ashby,playground,employer,8,VP of SMB Sales,Reads as a sandbox and is not one. Real roles in New York and Denver for a real company. Blocking this token deletes live jobs.
+ashby,playground,employer,9,VP of SMB Sales,Reads as a sandbox and is not one. Real roles in New York and Denver for a real company. Blocking this token deletes live jobs.
 recruitee,yourcompany,employer,23,Pflegefachkraft | 1:1 Intensivpflege,"Account name is the unedited default, “Your Company”, but the 23 postings are real German nursing and logistics roles. The defect is an employer who never renamed the account -- any aggregator reading it publishes a company called “Your Company”."
 greenhouse,example,unresolved,21,App Platform Software Engineer,"Twenty-one coherent roles across New York, San Francisco and Toronto. Reads like one real company on a placeholder token, but nothing observed proves which, so it is neither blocked nor vouched for."
 greenhouse,staging,unresolved,1,TEST,"Two postings: one named TEST, one a plausible operations role in Pune. Too little to decide."
