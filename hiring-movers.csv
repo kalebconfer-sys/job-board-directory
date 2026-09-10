@@ -32,19 +32,19 @@ BridgeBio Pharma,-17,3,20,23,2026-09-03,2026-09-10,all events except coverage ro
 Helion,-17,1,18,19,2026-09-03,2026-09-10,all events except coverage rows
 Public Storage,-17,91,108,199,2026-09-03,2026-09-10,all events except coverage rows
 Ultragenyx Pharmaceutical,-17,4,21,25,2026-09-03,2026-09-10,all events except coverage rows
+Genesis,16,16,0,16,2026-09-03,2026-09-10,all events except coverage rows
 Kelso Building Services,-16,14,30,44,2026-09-03,2026-09-10,all events except coverage rows
 OpenAI,16,75,59,134,2026-09-03,2026-09-10,all events except coverage rows
 SpaceXAI,16,26,10,36,2026-09-03,2026-09-10,all events except coverage rows
 Zscaler,16,48,32,80,2026-09-03,2026-09-10,all events except coverage rows
 Aumovio,-15,45,60,105,2026-09-03,2026-09-10,all events except coverage rows
 Divergent,15,19,4,23,2026-09-03,2026-09-10,all events except coverage rows
-GENESIS ENERGY,15,16,1,17,2026-09-03,2026-09-10,all events except coverage rows
 Revolution Medicines,-15,23,38,61,2026-09-03,2026-09-10,all events except coverage rows
 Twilio,15,33,18,51,2026-09-03,2026-09-10,all events except coverage rows
 Vast,15,26,11,37,2026-09-03,2026-09-10,all events except coverage rows
 EXTREME NETWORKS,14,17,3,20,2026-09-03,2026-09-10,all events except coverage rows
 Databricks,13,63,50,113,2026-09-03,2026-09-10,all events except coverage rows
-Green Thumb Industries,-13,29,42,71,2026-09-03,2026-09-10,all events except coverage rows
+Green Thumb,-13,29,42,71,2026-09-03,2026-09-10,all events except coverage rows
 Snowflake,-13,26,39,65,2026-09-03,2026-09-10,all events except coverage rows
 Replimune,-12,4,16,20,2026-09-03,2026-09-10,all events except coverage rows
 Verra Mobility,12,17,5,22,2026-09-03,2026-09-10,all events except coverage rows
@@ -106,13 +106,13 @@ IDT,-7,7,14,21,2026-09-03,2026-09-10,all events except coverage rows
 Intuitive,7,108,101,209,2026-09-03,2026-09-10,all events except coverage rows
 IonQ,-7,5,12,17,2026-09-03,2026-09-10,all events except coverage rows
 Oklo,7,12,5,17,2026-09-03,2026-09-10,all events except coverage rows
-Otter ai,-7,2,9,11,2026-09-03,2026-09-10,all events except coverage rows
+Otter,-7,2,9,11,2026-09-03,2026-09-10,all events except coverage rows
 Quanta,7,7,0,7,2026-09-03,2026-09-10,all events except coverage rows
 Relativity Space,-7,41,48,89,2026-09-03,2026-09-10,all events except coverage rows
 TAL,7,16,9,25,2026-09-03,2026-09-10,all events except coverage rows
-Together AI,7,12,5,17,2026-09-03,2026-09-10,all events except coverage rows
 mobileye,7,29,22,51,2026-09-03,2026-09-10,all events except coverage rows
 Armada,-6,5,11,16,2026-09-03,2026-09-10,all events except coverage rows
+Astera Labs,6,12,6,18,2026-09-03,2026-09-10,all events except coverage rows
 Axon,6,49,43,92,2026-09-03,2026-09-10,all events except coverage rows
 Betterment,-6,1,7,8,2026-09-03,2026-09-10,all events except coverage rows
 Block,6,21,15,36,2026-09-03,2026-09-10,all events except coverage rows
@@ -137,7 +137,6 @@ Tailscale,-6,2,8,10,2026-09-03,2026-09-10,all events except coverage rows
 Thatch,6,9,3,12,2026-09-03,2026-09-10,all events except coverage rows
 UiPath,-6,13,19,32,2026-09-03,2026-09-10,all events except coverage rows
 Upstart,-6,9,15,24,2026-09-03,2026-09-10,all events except coverage rows
-Wise,-6,77,83,160,2026-09-03,2026-09-10,all events except coverage rows
 Xometry,6,8,2,10,2026-09-03,2026-09-10,all events except coverage rows
 Zeta Global,-6,4,10,14,2026-09-03,2026-09-10,all events except coverage rows
 Zoox,6,23,17,40,2026-09-03,2026-09-10,all events except coverage rows
@@ -146,10 +145,9 @@ jacquemus,-6,2,8,10,2026-09-03,2026-09-10,all events except coverage rows
 Adyen,5,53,48,101,2026-09-03,2026-09-10,all events except coverage rows
 AirSculpt,-5,3,8,11,2026-09-03,2026-09-10,all events except coverage rows
 Alarm.com,5,7,2,9,2026-09-03,2026-09-10,all events except coverage rows
-Astera Labs,5,14,9,23,2026-09-03,2026-09-10,all events except coverage rows
 BENCHMARK ELECTRONICS,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
+BRAVO - A Cooperative Company,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
 Brady Services,-5,1,6,7,2026-09-03,2026-09-10,all events except coverage rows
-Bravo Multinational,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
 BuildOps,5,7,2,9,2026-09-03,2026-09-10,all events except coverage rows
 CarGurus,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
 "Ceribell, Inc",5,6,1,7,2026-09-03,2026-09-10,all events except coverage rows
@@ -171,8 +169,10 @@ Omada Health,-5,1,6,7,2026-09-03,2026-09-10,all events except coverage rows
 Planet,5,17,12,29,2026-09-03,2026-09-10,all events except coverage rows
 Radiant,-5,5,10,15,2026-09-03,2026-09-10,all events except coverage rows
 Reformation,5,27,22,49,2026-09-03,2026-09-10,all events except coverage rows
-Rubrik Job Board,5,21,16,37,2026-09-03,2026-09-10,all events except coverage rows
+Rubrik,5,21,16,37,2026-09-03,2026-09-10,all events except coverage rows
+Sonic Automotive,5,84,79,163,2026-09-03,2026-09-10,all events except coverage rows
 Sysdig Secure,5,5,0,5,2026-09-03,2026-09-10,all events except coverage rows
+Together,5,8,3,11,2026-09-03,2026-09-10,all events except coverage rows
 Vaxcyte,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
 Vor Bio,-5,0,5,5,2026-09-03,2026-09-10,all events except coverage rows
 abzena,5,6,1,7,2026-09-03,2026-09-10,all events except coverage rows
@@ -219,7 +219,6 @@ Raft Company Website,-4,1,5,6,2026-09-03,2026-09-10,all events except coverage r
 Reddit,-4,18,22,40,2026-09-03,2026-09-10,all events except coverage rows
 Relay Therapeutics,-4,0,4,4,2026-09-03,2026-09-10,all events except coverage rows
 Riskified,-4,1,5,6,2026-09-03,2026-09-10,all events except coverage rows
-SONIC AUTOMOTIVE,4,89,85,174,2026-09-03,2026-09-10,all events except coverage rows
 Sanity,4,5,1,6,2026-09-03,2026-09-10,all events except coverage rows
 Skillsoft,-4,1,5,6,2026-09-03,2026-09-10,all events except coverage rows
 Smith Douglas Homes,4,4,0,4,2026-09-03,2026-09-10,all events except coverage rows
@@ -259,9 +258,8 @@ Extend,-3,0,3,3,2026-09-03,2026-09-10,all events except coverage rows
 Figma,-3,6,9,15,2026-09-03,2026-09-10,all events except coverage rows
 Figure Lending,-3,1,4,5,2026-09-03,2026-09-10,all events except coverage rows
 Filevine,-3,6,9,15,2026-09-03,2026-09-10,all events except coverage rows
-Generate Biomedicines,3,5,2,7,2026-09-03,2026-09-10,all events except coverage rows
+Generate,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
 Glossier,3,6,3,9,2026-09-03,2026-09-10,all events except coverage rows
-Grand Canyon Education,-3,1,4,5,2026-09-03,2026-09-10,all events except coverage rows
 Halcyon,-3,0,3,3,2026-09-03,2026-09-10,all events except coverage rows
 HawkEye 360,-3,0,3,3,2026-09-03,2026-09-10,all events except coverage rows
 Hightouch,3,8,5,13,2026-09-03,2026-09-10,all events except coverage rows
@@ -279,6 +277,7 @@ MDA Space,3,5,2,7,2026-09-03,2026-09-10,all events except coverage rows
 Nuro,3,9,6,15,2026-09-03,2026-09-10,all events except coverage rows
 Obsidian Therapeutics,3,3,0,3,2026-09-03,2026-09-10,all events except coverage rows
 Odin,-3,1,4,5,2026-09-03,2026-09-10,all events except coverage rows
+Orchard,3,3,0,3,2026-09-03,2026-09-10,all events except coverage rows
 Outreach,-3,3,6,9,2026-09-03,2026-09-10,all events except coverage rows
 PandaDoc,-3,0,3,3,2026-09-03,2026-09-10,all events except coverage rows
 "Pathward, N.A.",3,14,11,25,2026-09-03,2026-09-10,all events except coverage rows
@@ -302,14 +301,14 @@ Veracyte,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
 Very Good Security,3,3,0,3,2026-09-03,2026-09-10,all events except coverage rows
 Virtu Financial,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
 Weave,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
+Wise,-3,76,79,155,2026-09-03,2026-09-10,all events except coverage rows
+Wise Worksite Field Sales,-3,1,4,5,2026-09-03,2026-09-10,all events except coverage rows
 Zocdoc,3,8,5,13,2026-09-03,2026-09-10,all events except coverage rows
 csmcy,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
 e l f Beauty,3,10,7,17,2026-09-03,2026-09-10,all events except coverage rows
 engelvoelkers,3,7,4,11,2026-09-03,2026-09-10,all events except coverage rows
 objectway,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
 olx,-3,5,8,13,2026-09-03,2026-09-10,all events except coverage rows
-orchard,3,4,1,5,2026-09-03,2026-09-10,all events except coverage rows
-pulse,3,14,11,25,2026-09-03,2026-09-10,all events except coverage rows
 seb,-3,32,35,67,2026-09-03,2026-09-10,all events except coverage rows
 visionrt,-3,0,3,3,2026-09-03,2026-09-10,all events except coverage rows
 Ōura,-3,15,18,33,2026-09-03,2026-09-10,all events except coverage rows
@@ -364,13 +363,13 @@ Expana,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 FIRY,2,9,7,16,2026-09-03,2026-09-10,all events except coverage rows
 Factorial Energy,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 Faire,-2,2,4,6,2026-09-03,2026-09-10,all events except coverage rows
-Firsthand Technology Value,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 FiscalNote,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 Flint,-2,1,3,4,2026-09-03,2026-09-10,all events except coverage rows
 Freenome,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 GCM Grosvenor,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 Galileo,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 GoDaddy,-2,13,15,28,2026-09-03,2026-09-10,all events except coverage rows
+Grand Intelligence,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 Groupon,2,4,2,6,2026-09-03,2026-09-10,all events except coverage rows
 "Gusto, Inc.",-2,17,19,36,2026-09-03,2026-09-10,all events except coverage rows
 Handshake,2,17,15,32,2026-09-03,2026-09-10,all events except coverage rows
@@ -416,6 +415,7 @@ Picard Medical,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 Prefect,2,3,1,4,2026-09-03,2026-09-10,all events except coverage rows
 Proto Labs,-2,8,10,18,2026-09-03,2026-09-10,all events except coverage rows
 PubMatic,2,4,2,6,2026-09-03,2026-09-10,all events except coverage rows
+Pulse Healthcare,2,13,11,24,2026-09-03,2026-09-10,all events except coverage rows
 Quince,-2,20,22,42,2026-09-03,2026-09-10,all events except coverage rows
 Rain,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 Recursion,-2,1,3,4,2026-09-03,2026-09-10,all events except coverage rows
@@ -442,6 +442,7 @@ Supabase,2,3,1,4,2026-09-03,2026-09-10,all events except coverage rows
 Talkspace,2,3,1,4,2026-09-03,2026-09-10,all events except coverage rows
 Telesat,-2,4,6,10,2026-09-03,2026-09-10,all events except coverage rows
 The Dermatology Group,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
+Together AI,2,4,2,6,2026-09-03,2026-09-10,all events except coverage rows
 Twenty,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 Universal,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 Unusual Machines,-2,5,7,12,2026-09-03,2026-09-10,all events except coverage rows
@@ -461,6 +462,7 @@ cirrus,2,4,2,6,2026-09-03,2026-09-10,all events except coverage rows
 coretechsecurity,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 easol,-2,0,2,2,2026-09-03,2026-09-10,all events except coverage rows
 efficioconsulting,-2,1,3,4,2026-09-03,2026-09-10,all events except coverage rows
+firsthand Health,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 karllagerfeld,2,2,0,2,2026-09-03,2026-09-10,all events except coverage rows
 opencast,2,3,1,4,2026-09-03,2026-09-10,all events except coverage rows
 pnlfin,2,5,3,8,2026-09-03,2026-09-10,all events except coverage rows
@@ -479,7 +481,7 @@ AERO ENERGY,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 AIM,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Access Destination Services,-1,3,4,7,2026-09-03,2026-09-10,all events except coverage rows
 Acumen,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
-Adaptive Biotechnologies,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
+Adaptive,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 Agilysys,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Airbnb,-1,22,23,45,2026-09-03,2026-09-10,all events except coverage rows
 Akebia Therapeutics,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
@@ -492,6 +494,9 @@ AppLovin,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
 Artemis,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Artisan,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Ashby,1,12,11,23,2026-09-03,2026-09-10,all events except coverage rows
+Assured,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
+Assured Guaranty,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
+Astera Institute,-1,2,3,5,2026-09-03,2026-09-10,all events except coverage rows
 Astra,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Astronomer,-1,2,3,5,2026-09-03,2026-09-10,all events except coverage rows
 Atlas,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
@@ -518,6 +523,8 @@ CTS Cloud Trading Solutions LTD,-1,0,1,1,2026-09-03,2026-09-10,all events except
 Calendly,-1,2,3,5,2026-09-03,2026-09-10,all events except coverage rows
 Canopy Works,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 "Carbon, Inc.",-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
+Change Agents,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
+Change.org,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 CircleCI,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Climatiq,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 Collective,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
@@ -553,8 +560,10 @@ Fox Creek Veterinary Hospital - Wildwood,-1,0,1,1,2026-09-03,2026-09-10,all even
 Fubo,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Fullstory,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Future,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
+GENESIS ENERGY,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 Gen Digital Inc.,-1,5,6,11,2026-09-03,2026-09-10,all events except coverage rows
 GetScale,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
+Grand Canyon Education,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
 Gravity,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 GreenLight Metals,1,3,2,5,2026-09-03,2026-09-10,all events except coverage rows
 Hazel Health,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
@@ -623,11 +632,12 @@ Plaid,-1,6,7,13,2026-09-03,2026-09-10,all events except coverage rows
 PlanetScale,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
 Polaris,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Postscript,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
-Praxis Precision Medicines,1,3,2,5,2026-09-03,2026-09-10,all events except coverage rows
+"Praxis Precision Medicines, Inc.",1,3,2,5,2026-09-03,2026-09-10,all events except coverage rows
 Prime Medicine,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
 Primo Brands,-1,2,3,5,2026-09-03,2026-09-10,all events except coverage rows
 Prismic,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
-Prophet Security,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
+Prophet,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
+Pulse,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Pulse Biosciences,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 QuinStreet,1,5,4,9,2026-09-03,2026-09-10,all events except coverage rows
 Real REMAX Group,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
@@ -645,6 +655,7 @@ SmartRent,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
 SoFi,-1,8,9,17,2026-09-03,2026-09-10,all events except coverage rows
 Solid Power,-1,2,3,5,2026-09-03,2026-09-10,all events except coverage rows
 Sonatype,1,6,5,11,2026-09-03,2026-09-10,all events except coverage rows
+Sonic Internet + Phone,-1,5,6,11,2026-09-03,2026-09-10,all events except coverage rows
 SpotOn,-1,14,15,29,2026-09-03,2026-09-10,all events except coverage rows
 Spotify,1,16,15,31,2026-09-03,2026-09-10,all events except coverage rows
 Sylvera,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
@@ -663,6 +674,7 @@ Truv,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Unify,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
 Unit,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 Vantage,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
+Vega,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 Vesta Innovations Inc.,1,2,1,3,2026-09-03,2026-09-10,all events except coverage rows
 Viaduct,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
 Vital Farms,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
@@ -692,8 +704,6 @@ prosus,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
 quadcode,-1,1,2,3,2026-09-03,2026-09-10,all events except coverage rows
 silverfin,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
 tldraw,1,1,0,1,2026-09-03,2026-09-10,all events except coverage rows
-vega,-1,0,1,1,2026-09-03,2026-09-10,all events except coverage rows
-ASSURED GUARANTY,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 "Activate Global, Inc",0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Affirm,0,9,9,18,2026-09-03,2026-09-10,all events except coverage rows
 Airbyte,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
@@ -705,9 +715,7 @@ Axiom,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Blue Moon Metals,0,5,5,10,2026-09-03,2026-09-10,all events except coverage rows
 C1,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 CGS Nexus,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
-Cambium Networks,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
-Careers at Tide,0,5,5,10,2026-09-03,2026-09-10,all events except coverage rows
-Change Agents,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
+Cambium,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Cognism,0,3,3,6,2026-09-03,2026-09-10,all events except coverage rows
 Commvault,0,11,11,22,2026-09-03,2026-09-10,all events except coverage rows
 Corcept Therapeutics,0,4,4,8,2026-09-03,2026-09-10,all events except coverage rows
@@ -721,6 +729,7 @@ Five9,0,23,23,46,2026-09-03,2026-09-10,all events except coverage rows
 Flash,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 FourKites,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Fulcrum,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
+Generate Biomedicines,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Ghost,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Ginkgo Bioworks Inc.,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Glimpse,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
@@ -747,10 +756,11 @@ Mixpanel,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Modal,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Moss,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Novo,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
-Nudge Security,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
+Nudge,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 OH.io,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Omnidian,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Oportun,0,6,6,12,2026-09-03,2026-09-10,all events except coverage rows
+Orchard Robotics,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Orchestra,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Pagaya,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Paid,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
@@ -771,6 +781,7 @@ Snorkel AI,0,2,2,4,2026-09-03,2026-09-10,all events except coverage rows
 Synthesia,0,4,4,8,2026-09-03,2026-09-10,all events except coverage rows
 Taboola,0,9,9,18,2026-09-03,2026-09-10,all events except coverage rows
 Tempo,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
+Tide,0,5,5,10,2026-09-03,2026-09-10,all events except coverage rows
 Tripadvisor,0,7,7,14,2026-09-03,2026-09-10,all events except coverage rows
 VIDA Global,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows
 Verisign,0,1,1,2,2026-09-03,2026-09-10,all events except coverage rows

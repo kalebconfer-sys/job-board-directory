@@ -1,0 +1,278 @@
+<title>Provable Hiring Data</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Spectral:wght@400;600&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4; --card:#FBFCFC; --ink:#0E1518; --ink-2:#3C4A4D; --muted:#67777A;
+  --rule:#D2DBD9; --rule-soft:#E3E9E7;
+  --proven:#12655A; --proven-bg:#DDECE8; --unproven:#8E6410; --unproven-bg:#F2E8D4;
+  --shadow:0 1px 0 rgba(14,21,24,.04);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0B1113; --card:#111A1D; --ink:#E7EDEB; --ink-2:#B4C1C0; --muted:#849593;
+    --rule:#24322F; --rule-soft:#1A2528;
+    --proven:#57B9A6; --proven-bg:#12312D; --unproven:#D2A44F; --unproven-bg:#332813;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0B1113; --card:#111A1D; --ink:#E7EDEB; --ink-2:#B4C1C0; --muted:#849593;
+  --rule:#24322F; --rule-soft:#1A2528;
+  --proven:#57B9A6; --proven-bg:#12312D; --unproven:#D2A44F; --unproven-bg:#332813;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:"IBM Plex Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1020px;margin:0 auto;padding:0 24px 96px}
+.mast{border-bottom:1px solid var(--rule);padding:56px 0 28px;display:flex;flex-direction:column;gap:18px}
+.eyebrow{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}
+h1{font-family:Spectral,Georgia,serif;font-weight:600;font-size:clamp(2.3rem,6vw,3.5rem);line-height:1.04;letter-spacing:-.015em;margin:0;text-wrap:balance}
+.standfirst{font-family:Spectral,Georgia,serif;font-size:clamp(1.05rem,2.4vw,1.32rem);line-height:1.5;color:var(--ink-2);max-width:60ch;margin:0}
+.stamp{display:flex;flex-wrap:wrap;gap:8px 26px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--muted);padding-top:6px}
+.stamp b{color:var(--ink);font-weight:500}
+section{padding-top:52px}
+h2{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 20px;padding-bottom:9px;border-bottom:1px solid var(--rule-soft)}
+h3{font-family:Spectral,Georgia,serif;font-weight:600;font-size:1.42rem;line-height:1.24;margin:0 0 10px;text-wrap:balance}
+p{margin:0 0 16px;max-width:66ch}
+p:last-child{margin-bottom:0}
+strong{font-weight:600}
+.lede{font-size:1.06rem}
+.readings{display:grid;gap:1px;grid-template-columns:repeat(auto-fit,minmax(206px,1fr));background:var(--rule-soft);border:1px solid var(--rule-soft);border-radius:2px;overflow:hidden}
+.reading{background:var(--card);padding:20px 20px 18px}
+.reading .v{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:1.85rem;font-weight:500;letter-spacing:-.02em;font-variant-numeric:tabular-nums;line-height:1.1;display:block}
+.reading .k{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;letter-spacing:.11em;text-transform:uppercase;color:var(--muted);display:block;margin-top:9px}
+.reading .b{font-size:13px;color:var(--ink-2);display:block;margin-top:7px;line-height:1.45}
+.split{border:1px solid var(--rule);border-radius:2px;background:var(--card);padding:26px;box-shadow:var(--shadow)}
+.bar{display:flex;height:46px;border-radius:2px;overflow:hidden;border:1px solid var(--rule);margin:18px 0 14px}
+.bar span{display:flex;align-items:center;justify-content:center;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:500;font-variant-numeric:tabular-nums}
+.bar .p{background:var(--proven-bg);color:var(--proven);flex:6459}
+.bar .u{background:var(--unproven-bg);color:var(--unproven);flex:1721}
+.legend{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:13.5px;color:var(--ink-2)}
+.legend div{display:flex;gap:9px;align-items:flex-start;max-width:38ch}
+.dot{width:9px;height:9px;border-radius:50%;flex:none;margin-top:7px}
+.dot.p{background:var(--proven)} .dot.u{background:var(--unproven)}
+.scroll{overflow-x:auto;border:1px solid var(--rule);border-radius:2px;background:var(--card)}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:11px 15px;border-bottom:1px solid var(--rule-soft);white-space:nowrap}
+th{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:500;border-bottom:1px solid var(--rule)}
+tr:last-child td{border-bottom:none}
+td.num{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+td.co{font-weight:500}
+.tag{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:2px;white-space:nowrap}
+.tag.p{background:var(--proven-bg);color:var(--proven)} .tag.u{background:var(--unproven-bg);color:var(--unproven)}
+.up{color:var(--proven);font-weight:500} .down{color:var(--unproven);font-weight:500}
+.note{border-left:2px solid var(--rule);padding:2px 0 2px 18px;color:var(--ink-2);font-size:14.5px;max-width:64ch}
+.gaps{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:16px}
+.gaps li{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;max-width:70ch;font-size:15px;color:var(--ink-2)}
+.gaps .n{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:11px;color:var(--muted);padding-top:5px;letter-spacing:.06em}
+.gaps b{color:var(--ink)}
+code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.88em;background:var(--rule-soft);padding:1px 5px;border-radius:2px}
+.schema{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;line-height:1.85;color:var(--ink-2);background:var(--card);border:1px solid var(--rule);border-radius:2px;padding:20px 22px;overflow-x:auto}
+.schema b{color:var(--ink);font-weight:500}
+footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--muted);line-height:1.7}
+@media (max-width:560px){body{font-size:16px} th,td{padding:10px 12px}}
+</style>
+
+<div class="wrap">
+
+  <header class="mast">
+    <div class="eyebrow">Job postings from public ATS boards</div>
+    <h1>Provable Hiring Data</h1>
+    <p class="standfirst">Every job scraper hands you rows and lets you assume they are all there. This one checks each board against the vendor&rsquo;s own published record count, and tells you which half of the feed it can prove.</p>
+    <div class="stamp">
+      <span>Measured <b>2026-09-10</b></span>
+      <span>Index <b>1,200 boards</b> across 7 ATS platforms</span>
+      <span>703 count-checked, all matched</span>
+      <span>Hospital nursing index <b>123 boards</b></span>
+      <span>Rebuilt daily 06:23 and 06:50</span>
+    </div>
+  </header>
+
+  <section>
+    <h2>The index, as measured</h2>
+    <div class="readings">
+      <div class="reading"><span class="v">60,767</span><span class="k">Unique roles</span><span class="b">64,411 postings before deduplication.</span></div>
+      <div class="reading"><span class="v">3,644</span><span class="k">Duplicates removed</span><span class="b">5.7% of the corpus, deduplicated across platforms.</span></div>
+      <div class="reading"><span class="v">703</span><span class="k">Boards count-checked</span><span class="b">Every board that publishes a total matched it. 0 mismatches.</span></div>
+      <div class="reading"><span class="v">189s</span><span class="k">Full rebuild</span><span class="b">9 boards errored out of 1,235 listed.</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Why completeness is the whole argument</h2>
+    <h3>Duplicates and missing records are the same failure</h3>
+    <p class="lede">Look at the open issues on any job-data API and the same two complaints repeat: duplicates, and jobs missing from the database. Both are completeness failures, and both are handled structurally here rather than by effort.</p>
+    <p><strong>Missing records.</strong> Greenhouse, SmartRecruiters and Workday publish a record count alongside the board. Every fetch is compared against it. A board that comes up short is flagged, not quietly included.</p>
+    <p><strong>Duplicates.</strong> A company migrating between platforms runs two live boards at once &mdash; the same role, two job IDs, two vendors. A vendor&rsquo;s ID cannot see across vendors, so deduplication is on <code>(company, title, location)</code> instead.</p>
+    <p class="note">Measured example: Shield AI&rsquo;s requisition <em>Manager, Propulsion (Fuel System) (R5088)</em> is live as <strong>eight listings across two platforms</strong>. Billed per result, that one job charges eight times. Here it is one row.</p>
+  </section>
+
+  <section>
+    <h2>What the change feed can and cannot prove</h2>
+    <div class="split">
+      <h3>An opening needs one observation. A closure needs all of them.</h3>
+      <p>Seeing a posting is enough to report that it opened. Reporting that it <em>closed</em> requires having seen the entire board &mdash; otherwise a missed page is indistinguishable from a company pulling twelve roles. So every closure carries a grade, and the grade is stated on the row.</p>
+      <div class="bar" role="img" aria-label="6,459 of 8,180 closures came from a board whose count was verified; 1,721 did not.">
+        <span class="p">6,459 provable</span>
+        <span class="u">1,721 credible</span>
+      </div>
+      <div class="legend">
+        <div><span class="dot p"></span><span><strong>Provable.</strong> The vendor published a count and the fetch matched it exactly.</span></div>
+        <div><span class="dot u"></span><span><strong>Credible, not proven.</strong> One call returns the whole board, so nothing can truncate &mdash; but no count exists to check it against.</span></div>
+      </div>
+      <p style="margin-top:20px">Across the first 12 days of diffs: <strong>27,830 events &mdash; 15,309 opened, 12,521 closed.</strong> 2,943 of them are one requisition changing where it is advertised and 5,765 are coverage changes; both are graded <code>low</code> and excluded from every figure on this page. Of the remaining 8,180 closures, <strong>79%</strong> are provable. Every competitor shipping a &ldquo;new since last run&rdquo; mode is estimating the closed half and not saying so.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Coverage by platform</h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Platform</th><th>Completeness</th><th>Basis</th></tr></thead>
+        <tbody>
+          <tr><td class="co">Greenhouse</td><td><span class="tag p">Provable</span></td><td>Publishes <code>meta.total</code></td></tr>
+          <tr><td class="co">SmartRecruiters</td><td><span class="tag p">Provable</span></td><td>Publishes <code>totalFound</code></td></tr>
+          <tr><td class="co">Workday</td><td><span class="tag p">Provable</span></td><td>Publishes a <code>total</code> for every query, capped at 2,000</td></tr>
+          <tr><td class="co">Ashby</td><td><span class="tag u">Credible</span></td><td>Whole board in one call, no count published</td></tr>
+          <tr><td class="co">Lever</td><td><span class="tag u">Credible</span></td><td>Whole board in one call, no count published</td></tr>
+          <tr><td class="co">Workable</td><td><span class="tag u">Credible</span></td><td>Whole board in one call, no count published</td></tr>
+          <tr><td class="co">Recruitee</td><td><span class="tag u">Credible</span></td><td>Whole board in one call, no count published</td></tr>
+          <tr><td class="co">Rippling</td><td><span class="tag u">Credible</span></td><td>Whole board in one call, no count published</td></tr>
+          <tr><td class="co">Personio</td><td><span class="tag u">Credible</span></td><td>Whole board in one call; rate-limits aggressively</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:18px">Today&rsquo;s index holds boards on 7 of the nine platforms the code reads; Workday and Personio have none fetched in it today. Workday was measured on 2026-09-10 across 123 hospital nursing boards: <strong>every fetch matched the vendor&rsquo;s own total for that exact query.</strong> Workday never reports a total above 2,000 but keeps serving pages past it, so a board that would exceed the cap is split by state and each state is verified on its own.</p>
+  </section>
+
+  <section>
+    <h2>Hospital nursing coverage</h2>
+    <h3>A second index, read from the hospitals&rsquo; own Workday boards</h3>
+    <p class="lede">A permanent nursing requisition opens on the hospital&rsquo;s own careers site and closes there. Each health system&rsquo;s nursing job family is fetched with that filter applied and checked against Workday&rsquo;s total for the same filter, so the count is the hospital&rsquo;s, not an estimate.</p>
+    <div class="readings">
+      <div class="reading"><span class="v">56</span><span class="k">Health systems</span><span class="b">Every one on its own Workday tenant, found by reading the public web index rather than a bought list.</span></div>
+      <div class="reading"><span class="v">123</span><span class="k">Nursing boards</span><span class="b">123 of 123 matched the vendor total. 0 mismatches.</span></div>
+      <div class="reading"><span class="v">21,180</span><span class="k">Open nursing requisitions</span><span class="b">16,409 after collapsing identical title-and-site requisitions.</span></div>
+      <div class="reading"><span class="v">9</span><span class="k">Days of history</span><span class="b">Diffing daily since 2026-09-03.</span></div>
+    </div>
+    <div class="scroll" style="margin-top:18px">
+      <table>
+        <thead><tr><th>Health system</th><th>Open nursing requisitions</th><th>Boards</th><th>Count-checked</th></tr></thead>
+        <tbody>
+          <tr><td class="co">Trinity Health</td><td class="num">3,070</td><td class="num">21</td><td><span class="tag p">all 21</span></td></tr>
+          <tr><td class="co">AdventHealth</td><td class="num">1,875</td><td class="num">7</td><td><span class="tag p">all 7</span></td></tr>
+          <tr><td class="co">Cleveland Clinic</td><td class="num">1,125</td><td class="num">4</td><td><span class="tag p">all 4</span></td></tr>
+          <tr><td class="co">Sentara Health</td><td class="num">1,052</td><td class="num">2</td><td><span class="tag p">all 2</span></td></tr>
+          <tr><td class="co">WVU Medicine</td><td class="num">884</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">Beth Israel Lahey Health</td><td class="num">755</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">Mercy (St. Louis)</td><td class="num">747</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">Avera Health</td><td class="num">619</td><td class="num">4</td><td><span class="tag p">all 4</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:18px">Requisitions are the number a hospital counts, and the number quoted here. A hospital that posts the same title at the same site as separate requisitions collapses to one deduplicated role, which is why both figures are given. The largest systems were split by state to stay under Workday&rsquo;s cap; Trinity Health&rsquo;s nursing group alone runs as 20 state boards. Coverage was expanded on 2026-09-03 from 6,975 to 16,466 unique roles when systems found in the public web index were adopted; the 9,098 openings that produced are graded <code>low</code> as coverage, not hiring, and the expansion day is recorded in the history.</p>
+  </section>
+
+  <section>
+    <h3>What that index shows that a job board does not</h3>
+    <p class="lede">Health systems are staffing their own flexible labour and publishing it on their own careers sites. Read across the 123 nursing boards on 2026-09-10, these are requisitions the hospital is filling without an agency.</p>
+    <div class="readings">
+      <div class="reading"><span class="v">342</span><span class="k">Travel-titled nursing requisitions</span><span class="b">Posted by the health system itself, across 12 systems.</span></div>
+      <div class="reading"><span class="v">1,645</span><span class="k">Per-diem, PRN or float-pool nursing requisitions</span><span class="b">Across 52 systems.</span></div>
+    </div>
+    <div class="scroll" style="margin-top:18px">
+      <table>
+        <thead><tr><th>Health system</th><th>Travel-titled nursing requisitions</th></tr></thead>
+        <tbody>
+          <tr><td class="co">Trinity Health</td><td class="num">220</td></tr>
+          <tr><td class="co">Sentara Health</td><td class="num">63</td></tr>
+          <tr><td class="co">Saint Francis Health System</td><td class="num">21</td></tr>
+          <tr><td class="co">Intermountain Health</td><td class="num">10</td></tr>
+          <tr><td class="co">Baptist Health Jacksonville</td><td class="num">8</td></tr>
+          <tr><td class="co">HonorHealth</td><td class="num">7</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:18px">Matched on the requisition title, which is how the hospital labels the role; a travel assignment titled some other way is not counted here. These are open requisitions read on 2026-09-10, not change events. The commercial point is not the number but the absence: <strong>&ldquo;this system has no open travel nursing need&rdquo; is worth something only when the board was checked against the vendor&rsquo;s own record count</strong>, which is why 123 of 123 matching is the figure that carries the claim.</p>
+  </section>
+
+  <section>
+    <h2>Sample day &mdash; net movement, 2026-09-10</h2>
+    <div class="scroll">
+      <table>
+        <thead><tr><th>Company</th><th>Net roles</th><th>Direction</th></tr></thead>
+        <tbody>
+          <tr><td class="co">ivcevidensia</td><td class="num up">+471</td><td>Accelerating</td></tr>
+          <tr><td class="co">AbbVie</td><td class="num up">+22</td><td>Accelerating</td></tr>
+          <tr><td class="co">Shield AI</td><td class="num up">+22</td><td>Accelerating</td></tr>
+          <tr><td class="co">Carvana</td><td class="num up">+19</td><td>Accelerating</td></tr>
+          <tr><td class="co">Cloudflare</td><td class="num up">+18</td><td>Accelerating</td></tr>
+          <tr><td class="co">Aumovio</td><td class="num down">&minus;15</td><td>Contracting</td></tr>
+          <tr><td class="co">Mineralys Therapeutics</td><td class="num down">&minus;12</td><td>Contracting</td></tr>
+          <tr><td class="co">Mesh</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
+          <tr><td class="co">Brex</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
+          <tr><td class="co">Axsome Therapeutics</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" style="margin-top:18px">Relocations and coverage changes are excluded, so a company appears here only for roles it opened or closed on its own board that day.</p>
+  </section>
+
+  <section>
+    <h2>Event schema</h2>
+    <div class="schema">
+<b>day</b>              the day the change was observed<br>
+<b>event</b>            opened | closed<br>
+<b>company</b>          identity used for deduplication, stable over time<br>
+<b>company_display</b>  the employer&rsquo;s own name for itself, taken from its board<br>
+<b>name_review</b>     disputed, where the vendor name and the indexed name are<br>                 two different companies &mdash; see gap 3<br>
+<b>employer_type</b>    agency | unverified &mdash; see gap 4 below<br>
+<b>ats</b>              greenhouse | ashby | lever | smartrecruiters | recruitee |<br>
+                 workable | workday | rippling | personio<br>
+<b>title</b>            as published by the employer<br>
+<b>role_family</b>      engineering | data | sales | clinical | operations | &hellip;<br>
+<b>seniority</b>        intern | junior | senior | staff | principal | director | vp<br>
+<b>is_management</b>    people-management track, resolved separately from level<br>
+<b>location</b>         as published<br>
+<b>department</b>       as published<br>
+<b>first_seen</b>       first day this role appeared in the index<br>
+<b>last_seen</b>        last day it was observed live<br>
+<b>same_role_elsewhere</b>  this requisition is live at another location &mdash; see gap 2<br>
+<b>coverage</b>         board first seen | board went empty &mdash; see gap 7<br>
+<b>confidence</b>       high | medium | low<br>
+<b>basis</b>            the sentence explaining that confidence grade<br>
+<b>url</b>              the employer&rsquo;s own posting
+    </div>
+  </section>
+
+  <section>
+    <h2>What is not proven</h2>
+    <ul class="gaps">
+      <li><span class="n">01</span><span><b>History is 12 days old.</b> The daily diff began 2026-08-30. Hiring-velocity comparisons need roughly two weeks before they mean anything, and nothing here claims otherwise.</span></li>
+      <li><span class="n">02</span><span><b>One requisition advertised in several places looks like churn.</b> Deduplication keys on <code>(company, title, location)</code>, and boards rotate which locations they surface, so the same job reads as closing in Midland and opening in Allentown on one morning. Measured on 2026-09-01: <strong>272 of 1,437 openings and 280 of 1,495 closures</strong> already had the same company and title live elsewhere. Those events are graded <code>low</code>, flagged <code>same_role_elsewhere</code>, and can be dropped outright &mdash; 2,943 of 27,830 events so far.</span></li>
+      <li><span class="n">03</span><span><b>Twelve company names are still disputed, and say so.</b> Boards discovered by matching a public-filings name to a short URL token collected some confidently wrong ones: one labelled with a mining company was the fitness chain, another labelled a space company was the surgical-robotics firm. Every resolvable board was audited against the name published on the board itself, and <strong>497 adopted the employer&rsquo;s own name</strong> &mdash; 20,120 roles re-identified with <strong>zero fabricated events</strong>, because the change history was migrated in the same pass. The remaining twelve are ambiguous and are left labelled <code>disputed</code> for a human rather than guessed.</span></li>
+      <li><span class="n">04</span><span><b>Staffing agencies are labelled by review, not detection.</b> One is confirmed: a UK healthcare agency running 2,658 locum ads, which would otherwise read as one enormous employer. The obvious automatic test &mdash; one title across many locations &mdash; was measured and failed: it ranks ordinary multi-office employers first and misses the agency entirely. Everything unreviewed is labelled <code>unverified</code> rather than assumed direct.</span></li>
+      <li><span class="n">05</span><span><b>Six of the nine platforms the code reads cannot be proven complete.</b> They return the whole board in a single call, which leaves nothing to truncate, but publish no count to check against. Those rows are graded <code>medium</code>, never dressed up.</span></li>
+      <li><span class="n">06</span><span><b>Coverage is 1,200 boards plus 123 hospital nursing boards.</b> That is a defined universe, not the whole market. It is listed per board rather than described as global.</span></li>
+      <li><span class="n">07</span><span><b>Adding coverage looks exactly like hiring, and until 2026-09-02 it was graded that way.</b> Measured that morning: 288 of the day&rsquo;s 1,980 openings were boards added to the index the same day, and 104 of its closures were one board that came back empty. Both patterns are now detected per company at export time and graded <code>low</code> with the reason on the row &mdash; 2,885 openings and 2,880 closures across the whole history. The index-wide circuit breaker that refuses a broken day cannot see one board arrive or vanish; this check does.</span></li>
+      <li><span class="n">08</span><span><b>The hospital index is 9 day(s) old.</b> Its baseline was taken 2026-09-02 and it has diffed daily since 2026-09-03. It has produced 4,467 graded events so far. Until a second week of diffs exists it proves open requisitions, not turnover.</span></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Sourcing and legal posture</h2>
+    <p>Every endpoint is the ATS vendor&rsquo;s own documented public API. No login, no session cookie, no terms accepted, no CAPTCHA, no IP-block circumvention. A board token either resolves or returns 404. Postings carry company data, not personal data of private individuals.</p>
+    <p class="note">LinkedIn was measured and excluded rather than assumed. Its public guest endpoint returns 30 unique postings for a broad query and goes empty at offset 600, with no total anywhere in the response. A corpus cannot be proven complete against a source that will not say how big it is.</p>
+  </section>
+
+  <footer>
+    Index rebuilt daily at 06:23, hospital index at 06:50 &middot; 165 automated checks, all passing &middot; 12 days of change history &middot; sourced from public ATS APIs<br>
+    Raw postings available on the Apify Store at $1.50 per 1,000 unique deduplicated results &middot; the graded event feed is delivered as daily CSV
+  </footer>
+
+</div>
