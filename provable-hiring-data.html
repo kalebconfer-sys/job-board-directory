@@ -1,5 +1,5 @@
-<title>What 1,200 job boards prove, and what they do not</title>
-<meta name="description" content="60,767 unique roles across 1,200 company career boards, 703 of them checked against the vendor&rsquo;s own published count. Per-board coverage, and the cases completeness cannot be proven. Free, no signup.">
+<title>What 1,198 job boards prove, and what they do not</title>
+<meta name="description" content="60,974 unique roles across 1,198 company career boards, 703 of them checked against the vendor&rsquo;s own published count. Per-board coverage, and the cases completeness cannot be proven. Free, no signup.">
 <link rel="canonical" href="https://kalebconfer-sys.github.io/job-board-directory/provable-hiring-data.html">
 <meta name="robots" content="index,follow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,8 +53,8 @@ strong{font-weight:600}
 .split{border:1px solid var(--rule);border-radius:2px;background:var(--card);padding:26px;box-shadow:var(--shadow)}
 .bar{display:flex;height:46px;border-radius:2px;overflow:hidden;border:1px solid var(--rule);margin:18px 0 14px}
 .bar span{display:flex;align-items:center;justify-content:center;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:500;font-variant-numeric:tabular-nums}
-.bar .p{background:var(--proven-bg);color:var(--proven);flex:6459}
-.bar .u{background:var(--unproven-bg);color:var(--unproven);flex:1721}
+.bar .p{background:var(--proven-bg);color:var(--proven);flex:7192}
+.bar .u{background:var(--unproven-bg);color:var(--unproven);flex:1953}
 .legend{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:13.5px;color:var(--ink-2)}
 .legend div{display:flex;gap:9px;align-items:flex-start;max-width:38ch}
 .dot{width:9px;height:9px;border-radius:50%;flex:none;margin-top:7px}
@@ -92,8 +92,8 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <h1>Provable Hiring Data</h1>
     <p class="standfirst">Every job scraper hands you rows and lets you assume they are all there. This one checks each board against the vendor&rsquo;s own published record count, and tells you which half of the feed it can prove.</p>
     <div class="stamp">
-      <span>Measured <b>2026-09-10</b></span>
-      <span>Index <b>1,200 boards</b> across 7 ATS platforms</span>
+      <span>Measured <b>2026-09-11</b></span>
+      <span>Index <b>1,198 boards</b> across 7 ATS platforms</span>
       <span>703 count-checked, all matched</span>
       <span>Hospital nursing index <b>123 boards</b></span>
       <span>Rebuilt daily 06:23 and 06:50</span>
@@ -103,10 +103,10 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   <section>
     <h2>The index, as measured</h2>
     <div class="readings">
-      <div class="reading"><span class="v">60,767</span><span class="k">Unique roles</span><span class="b">64,411 postings before deduplication.</span></div>
-      <div class="reading"><span class="v">3,644</span><span class="k">Duplicates removed</span><span class="b">5.7% of the corpus, deduplicated across platforms.</span></div>
+      <div class="reading"><span class="v">60,974</span><span class="k">Unique roles</span><span class="b">64,623 postings before deduplication.</span></div>
+      <div class="reading"><span class="v">3,649</span><span class="k">Duplicates removed</span><span class="b">5.6% of the corpus, deduplicated across platforms.</span></div>
       <div class="reading"><span class="v">703</span><span class="k">Boards count-checked</span><span class="b">Every board that publishes a total matched it. 0 mismatches.</span></div>
-      <div class="reading"><span class="v">189s</span><span class="k">Full rebuild</span><span class="b">9 boards errored out of 1,235 listed.</span></div>
+      <div class="reading"><span class="v">190s</span><span class="k">Full rebuild</span><span class="b">9 boards errored out of 1,235 listed.</span></div>
     </div>
   </section>
 
@@ -124,15 +124,15 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <div class="split">
       <h3>An opening needs one observation. A closure needs all of them.</h3>
       <p>Seeing a posting is enough to report that it opened. Reporting that it <em>closed</em> requires having seen the entire board &mdash; otherwise a missed page is indistinguishable from a company pulling twelve roles. So every closure carries a grade, and the grade is stated on the row.</p>
-      <div class="bar" role="img" aria-label="6,459 of 8,180 closures came from a board whose count was verified; 1,721 did not.">
-        <span class="p">6,459 provable</span>
-        <span class="u">1,721 credible</span>
+      <div class="bar" role="img" aria-label="7,192 of 9,145 closures came from a board whose count was verified; 1,953 did not.">
+        <span class="p">7,192 provable</span>
+        <span class="u">1,953 credible</span>
       </div>
       <div class="legend">
         <div><span class="dot p"></span><span><strong>Provable.</strong> The vendor published a count and the fetch matched it exactly.</span></div>
         <div><span class="dot u"></span><span><strong>Credible, not proven.</strong> One call returns the whole board, so nothing can truncate &mdash; but no count exists to check it against.</span></div>
       </div>
-      <p style="margin-top:20px">Across the first 12 days of diffs: <strong>27,830 events &mdash; 15,309 opened, 12,521 closed.</strong> 2,943 of them are one requisition changing where it is advertised and 5,765 are coverage changes; both are graded <code>low</code> and excluded from every figure on this page. Of the remaining 8,180 closures, <strong>79%</strong> are provable. Every competitor shipping a &ldquo;new since last run&rdquo; mode is estimating the closed half and not saying so.</p>
+      <p style="margin-top:20px">Across the first 13 days of diffs: <strong>30,321 events &mdash; 16,654 opened, 13,667 closed.</strong> 3,312 of them are one requisition changing where it is advertised and 5,765 are coverage changes; both are graded <code>low</code> and excluded from every figure on this page. Of the remaining 9,145 closures, <strong>79%</strong> are provable. Every competitor shipping a &ldquo;new since last run&rdquo; mode is estimating the closed half and not saying so.</p>
     </div>
   </section>
 
@@ -209,21 +209,21 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   </section>
 
   <section>
-    <h2>Sample day &mdash; net movement, 2026-09-10</h2>
+    <h2>Sample day &mdash; net movement, 2026-09-11</h2>
     <div class="scroll">
       <table>
         <thead><tr><th>Company</th><th>Net roles</th><th>Direction</th></tr></thead>
         <tbody>
-          <tr><td class="co">ivcevidensia</td><td class="num up">+471</td><td>Accelerating</td></tr>
-          <tr><td class="co">AbbVie</td><td class="num up">+22</td><td>Accelerating</td></tr>
-          <tr><td class="co">Shield AI</td><td class="num up">+22</td><td>Accelerating</td></tr>
-          <tr><td class="co">Carvana</td><td class="num up">+19</td><td>Accelerating</td></tr>
-          <tr><td class="co">Cloudflare</td><td class="num up">+18</td><td>Accelerating</td></tr>
-          <tr><td class="co">Aumovio</td><td class="num down">&minus;15</td><td>Contracting</td></tr>
-          <tr><td class="co">Mineralys Therapeutics</td><td class="num down">&minus;12</td><td>Contracting</td></tr>
-          <tr><td class="co">Mesh</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
-          <tr><td class="co">Brex</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
-          <tr><td class="co">Axsome Therapeutics</td><td class="num down">&minus;11</td><td>Contracting</td></tr>
+          <tr><td class="co">Sonic Automotive</td><td class="num up">+20</td><td>Accelerating</td></tr>
+          <tr><td class="co">Lucid Motors</td><td class="num up">+15</td><td>Accelerating</td></tr>
+          <tr><td class="co">Boyd Gaming</td><td class="num up">+14</td><td>Accelerating</td></tr>
+          <tr><td class="co">Rocket Lab Corporation</td><td class="num up">+14</td><td>Accelerating</td></tr>
+          <tr><td class="co">Carvana</td><td class="num up">+13</td><td>Accelerating</td></tr>
+          <tr><td class="co">Alnylam</td><td class="num down">&minus;12</td><td>Contracting</td></tr>
+          <tr><td class="co">AbbVie</td><td class="num down">&minus;9</td><td>Contracting</td></tr>
+          <tr><td class="co">Mineralys Therapeutics</td><td class="num down">&minus;8</td><td>Contracting</td></tr>
+          <tr><td class="co">Covista</td><td class="num down">&minus;7</td><td>Contracting</td></tr>
+          <tr><td class="co">Axle</td><td class="num down">&minus;7</td><td>Contracting</td></tr>
         </tbody>
       </table>
     </div>
@@ -260,12 +260,12 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   <section>
     <h2>What is not proven</h2>
     <ul class="gaps">
-      <li><span class="n">01</span><span><b>History is 12 days old.</b> The daily diff began 2026-08-30. Hiring-velocity comparisons need roughly two weeks before they mean anything, and nothing here claims otherwise.</span></li>
-      <li><span class="n">02</span><span><b>One requisition advertised in several places looks like churn.</b> Deduplication keys on <code>(company, title, location)</code>, and boards rotate which locations they surface, so the same job reads as closing in Midland and opening in Allentown on one morning. Measured on 2026-09-01: <strong>272 of 1,437 openings and 280 of 1,495 closures</strong> already had the same company and title live elsewhere. Those events are graded <code>low</code>, flagged <code>same_role_elsewhere</code>, and can be dropped outright &mdash; 2,943 of 27,830 events so far.</span></li>
+      <li><span class="n">01</span><span><b>History is 13 days old.</b> The daily diff began 2026-08-30. Hiring-velocity comparisons need roughly two weeks before they mean anything, and nothing here claims otherwise.</span></li>
+      <li><span class="n">02</span><span><b>One requisition advertised in several places looks like churn.</b> Deduplication keys on <code>(company, title, location)</code>, and boards rotate which locations they surface, so the same job reads as closing in Midland and opening in Allentown on one morning. Measured on 2026-09-01: <strong>272 of 1,437 openings and 280 of 1,495 closures</strong> already had the same company and title live elsewhere. Those events are graded <code>low</code>, flagged <code>same_role_elsewhere</code>, and can be dropped outright &mdash; 3,312 of 30,321 events so far.</span></li>
       <li><span class="n">03</span><span><b>Twelve company names are still disputed, and say so.</b> Boards discovered by matching a public-filings name to a short URL token collected some confidently wrong ones: one labelled with a mining company was the fitness chain, another labelled a space company was the surgical-robotics firm. Every resolvable board was audited against the name published on the board itself, and <strong>497 adopted the employer&rsquo;s own name</strong> &mdash; 20,120 roles re-identified with <strong>zero fabricated events</strong>, because the change history was migrated in the same pass. The remaining twelve are ambiguous and are left labelled <code>disputed</code> for a human rather than guessed.</span></li>
       <li><span class="n">04</span><span><b>Staffing agencies are labelled by review, not detection.</b> One is confirmed: a UK healthcare agency running 2,658 locum ads, which would otherwise read as one enormous employer. The obvious automatic test &mdash; one title across many locations &mdash; was measured and failed: it ranks ordinary multi-office employers first and misses the agency entirely. Everything unreviewed is labelled <code>unverified</code> rather than assumed direct.</span></li>
       <li><span class="n">05</span><span><b>Six of the nine platforms the code reads cannot be proven complete.</b> They return the whole board in a single call, which leaves nothing to truncate, but publish no count to check against. Those rows are graded <code>medium</code>, never dressed up.</span></li>
-      <li><span class="n">06</span><span><b>Coverage is 1,200 boards plus 123 hospital nursing boards.</b> That is a defined universe, not the whole market. It is listed per board rather than described as global.</span></li>
+      <li><span class="n">06</span><span><b>Coverage is 1,198 boards plus 123 hospital nursing boards.</b> That is a defined universe, not the whole market. It is listed per board rather than described as global.</span></li>
       <li><span class="n">07</span><span><b>Adding coverage looks exactly like hiring, and until 2026-09-02 it was graded that way.</b> Measured that morning: 288 of the day&rsquo;s 1,980 openings were boards added to the index the same day, and 104 of its closures were one board that came back empty. Both patterns are now detected per company at export time and graded <code>low</code> with the reason on the row &mdash; 2,885 openings and 2,880 closures across the whole history. The index-wide circuit breaker that refuses a broken day cannot see one board arrive or vanish; this check does.</span></li>
       <li><span class="n">08</span><span><b>The hospital index is 9 day(s) old.</b> Its baseline was taken 2026-09-02 and it has diffed daily since 2026-09-03. It has produced 4,467 graded events so far. Until a second week of diffs exists it proves open requisitions, not turnover.</span></li>
     </ul>
@@ -290,7 +290,7 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   </section>
 
   <footer>
-    Index rebuilt daily at 06:23, hospital index at 06:50 &middot; 165 automated checks, all passing &middot; 12 days of change history &middot; sourced from public ATS APIs<br>
+    Index rebuilt daily at 06:23, hospital index at 06:50 &middot; 165 automated checks, all passing &middot; 13 days of change history &middot; sourced from public ATS APIs<br>
     Raw postings available on the Apify Store at $1.50 per 1,000 unique deduplicated results &middot; the graded event feed is delivered as daily CSV
   </footer>
 
