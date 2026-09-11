@@ -74,6 +74,10 @@ td.co{font-weight:500}
 code{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.88em;background:var(--rule-soft);padding:1px 5px;border-radius:2px}
 .schema{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:13px;line-height:1.85;color:var(--ink-2);background:var(--card);border:1px solid var(--rule);border-radius:2px;padding:20px 22px;overflow-x:auto}
 .schema b{color:var(--ink);font-weight:500}
+.ask{margin-top:8px;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:15px}
+.ask a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--ink);padding-bottom:1px}
+.ask a:hover{background:var(--rule-soft)}
+a{color:inherit}
 footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;color:var(--muted);line-height:1.7}
 @media (max-width:560px){body{font-size:16px} th,td{padding:10px 12px}}
 </style>
@@ -268,6 +272,18 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <h2>Sourcing and legal posture</h2>
     <p>Every endpoint is the ATS vendor&rsquo;s own documented public API. No login, no session cookie, no terms accepted, no CAPTCHA, no IP-block circumvention. A board token either resolves or returns 404. Postings carry company data, not personal data of private individuals.</p>
     <p class="note">LinkedIn was measured and excluded rather than assumed. Its public guest endpoint returns 30 unique postings for a broad query and goes empty at offset 600, with no total anywhere in the response. A corpus cannot be proven complete against a source that will not say how big it is.</p>
+  </section>
+
+  <section>
+    <h2>Getting the data</h2>
+    <p>Two routes, both live today.</p>
+    <ul class="gaps">
+      <li><span class="n">01</span><span><b>Raw postings, self-serve.</b> The readers behind this index are public on the Apify Store at <strong>$1.50 per 1,000 unique deduplicated results</strong> &mdash; one per ATS platform, plus a
+      <a href="https://apify.com/blooming_gator/verified-job-boards">verified-boards reader</a> that returns only the boards whose count this page can prove. No conversation needed; the input schema is the whole contract.</span></li>
+      <li><span class="n">02</span><span><b>The graded event feed.</b> The opened and closed rows behind every number above, each carrying its grade and the reason for it &mdash; including the ones graded <code>low</code> because they are coverage changes or the same role advertised elsewhere. Delivered as daily CSV. Scope decides the price, so it starts with an email.</span></li>
+    </ul>
+    <p class="ask"><a href="mailto:kalebconfer@gmail.com?subject=Graded%20hiring%20event%20feed">kalebconfer@gmail.com</a></p>
+    <p class="note">Name the employers or the ATS platforms that matter to you and the answer comes back plainly, including when it is no: the coverage table above is the entire universe this index reads, and a board that is not in it will not be claimed as if it were.</p>
   </section>
 
   <footer>
