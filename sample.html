@@ -1,0 +1,164 @@
+<title>Hiring data sample pack</title>
+<meta name="description" content="The full buyer sample for the provable hiring index: every board&rsquo;s completeness verdict, graded change events, and the delivery schema on real rows. Free, no signup, no order.">
+<link rel="canonical" href="https://kalebconfer-sys.github.io/job-board-directory/sample.html">
+<meta name="robots" content="index,follow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Spectral:wght@400;600&display=swap">
+
+<style>
+:root{
+  --paper:#F2F5F4; --card:#FBFCFC; --ink:#0E1518; --ink-2:#3C4A4D; --muted:#67777A;
+  --rule:#D2DBD9; --rule-soft:#E3E9E7;
+  --proven:#12655A; --proven-bg:#DDECE8;
+  --shadow:0 1px 0 rgba(14,21,24,.04);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#0B1113; --card:#111A1D; --ink:#E7EDEB; --ink-2:#B4C1C0; --muted:#849593;
+    --rule:#24322F; --rule-soft:#1A2528;
+    --proven:#57B9A6; --proven-bg:#12312D;
+    --shadow:none;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0B1113; --card:#111A1D; --ink:#E7EDEB; --ink-2:#B4C1C0; --muted:#849593;
+  --rule:#24322F; --rule-soft:#1A2528;
+  --proven:#57B9A6; --proven-bg:#12312D;
+  --shadow:none;
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);
+  font:400 16px/1.62 "IBM Plex Sans",-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif;
+  margin:0}
+.wrap{max-width:52rem;margin:0 auto;padding-block:3.5rem 5rem;padding-left:1.25rem;padding-right:1.25rem}
+h1{font:600 2.1rem/1.18 Spectral,Georgia,serif;margin:0 0 .6rem;text-wrap:balance;letter-spacing:-.01em}
+h2{font:600 1.18rem/1.3 "IBM Plex Sans",sans-serif;margin:0 0 1rem;text-wrap:balance}
+h3{font:500 1rem/1.35 "IBM Plex Mono",ui-monospace,monospace;margin:0 0 .35rem}
+h3 a{color:var(--proven);text-decoration:none;border-bottom:1px solid var(--rule)}
+h3 a:hover{border-bottom-color:var(--proven)}
+a:focus-visible,li:focus-visible{outline:2px solid var(--proven);outline-offset:3px}
+p{margin:0 0 .8rem;color:var(--ink-2)}
+.sub{font-size:1.02rem;color:var(--ink-2);max-width:42rem;margin-bottom:2.2rem}
+section{border-top:1px solid var(--rule);padding-top:1.6rem;margin-top:2.4rem}
+.figs{display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));gap:1px;
+  background:var(--rule-soft);border:1px solid var(--rule-soft);margin:0 0 2.2rem}
+.figs div{background:var(--card);padding:.9rem 1rem}
+.figs b{display:block;font:500 1.35rem/1.1 "IBM Plex Mono",monospace;
+  font-variant-numeric:tabular-nums;color:var(--ink);margin-bottom:.15rem}
+.figs span{font-size:.78rem;color:var(--muted);letter-spacing:.03em;text-transform:uppercase}
+ul.files{list-style:none;margin:0;padding:0;display:grid;gap:1px;
+  background:var(--rule-soft);border:1px solid var(--rule-soft)}
+ul.files li{background:var(--card);padding:1.15rem 1.25rem;box-shadow:var(--shadow)}
+.lede{color:var(--ink);font-weight:500;margin-bottom:.4rem}
+.meta{font:400 .8rem/1.4 "IBM Plex Mono",monospace;color:var(--muted);
+  font-variant-numeric:tabular-nums;margin:.5rem 0 0}
+code{font:400 .88em/1 "IBM Plex Mono",monospace;background:var(--proven-bg);
+  color:var(--proven);padding:.1em .35em;border-radius:2px}
+.note{font-size:.92rem;color:var(--muted)}
+.ask a{color:var(--proven);font-weight:500}
+footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
+  font:400 .84rem/1.6 "IBM Plex Mono",monospace;color:var(--muted)}
+@media (max-width:30rem){h1{font-size:1.7rem}.wrap{padding-block:2.5rem 3.5rem}}
+</style>
+
+<div class="wrap">
+
+  <h1>The sample pack</h1>
+  <p class="sub">The whole evaluation set, free, no signup and no order. Five
+  files cut from the index on 2026-09-17 &mdash; including the board-by-board
+  completeness verdicts, which is the file the argument actually rests on.
+  <a href="provable-hiring-data.html">What the index proves, and what it does
+  not</a>, is the page to read beside them.</p>
+
+  <div class="figs">
+    <div><b>16,276</b><span>boards listed</span></div>
+    <div><b>55.2%</b><span>count-verifiable</span></div>
+    <div><b>852,436</b><span>unique roles</span></div>
+    <div><b>18</b><span>days recorded</span></div>
+  </div>
+
+  <section>
+    <h2>What is in it</h2>
+    <ul class="files">
+    <li>
+      <h3><a href="sample/boards-completeness.csv">boards-completeness.csv</a></h3>
+      <p class="lede">Every board in the index, not a sample of them</p>
+      <p>One row per board: what was fetched, what the vendor published as its own total, and the verdict. Boards that came up short are graded <code>count mismatch</code> and kept, not dropped.</p>
+      <p class="meta">16,276 rows &middot; 708 KB &middot; UTF-8, LF, RFC 4180</p>
+    </li>
+    <li>
+      <h3><a href="sample/coverage-by-platform.csv">coverage-by-platform.csv</a></h3>
+      <p class="lede">The provable share, derived rather than typed</p>
+      <p>Boards, roles and verdicts per ATS platform, with the count-publishing share computed on the last row. This is where the headline percentage comes from.</p>
+      <p class="meta">11 rows &middot; 473 bytes &middot; UTF-8, LF, RFC 4180</p>
+    </li>
+    <li>
+      <h3><a href="sample/change-events-sample.csv">change-events-sample.csv</a></h3>
+      <p class="lede">Graded openings and closures</p>
+      <p>A stratified cut across all three confidence grades, so the sample shows the grading rather than hiding behind the high-confidence rows. Each row carries the sentence explaining its grade.</p>
+      <p class="meta">999 rows &middot; 338 KB &middot; UTF-8, LF, RFC 4180</p>
+    </li>
+    <li>
+      <h3><a href="sample/postings-sample.csv">postings-sample.csv</a></h3>
+      <p class="lede">Postings, one per company</p>
+      <p>The delivery schema, on real rows: company, ATS, title, location, department, the vendor's updated date, and the employer's own URL.</p>
+      <p class="meta">1,000 rows &middot; 202 KB &middot; UTF-8, LF, RFC 4180</p>
+    </li>
+    <li>
+      <h3><a href="sample/snapshot-series.csv">snapshot-series.csv</a></h3>
+      <p class="lede">The history, including its holes</p>
+      <p>Every recorded day since the first. Short history is a known limitation and the days that failed to record are visible rather than interpolated.</p>
+      <p class="meta">18 rows &middot; 1,006 bytes &middot; UTF-8, LF, RFC 4180</p>
+    </li>
+    </ul>
+    <p class="note" style="margin-top:1rem">Deterministic: the same index
+    produces the same pack, so a pack regenerated after a coverage change can be
+    diffed against the one you already hold. Regenerated nightly, so these
+    numbers track the index rather than a date somebody typed.</p>
+  </section>
+
+  <section>
+    <h2>What the numbers mean</h2>
+    <p>8,979 of 16,276 boards (55.2%) sit on an ATS platform that
+    publishes its own job total, so those fetches are checked against the
+    vendor&rsquo;s figure board by board, every day. The rest are labelled
+    unverifiable rather than presented as complete &mdash; that distinction is
+    the product.</p>
+    <p>Of the 16,276 boards listed, 15,827 returned at least one open
+    role on the cut date, 372 were reachable and simply had nothing open,
+    and 77 could not be reached at all and say so on their row. The
+    buyer page headlines 15,827 because that is the number with roles behind
+    it; this pack lists all 16,276 because a board with nothing open is still
+    coverage.</p>
+    <p>930,570 posting rows collapse to 852,436 unique roles, a 8.4%
+    dedup collapse across 10 platforms. History runs 2026-08-29 to
+    2026-09-17, 18 days recorded, forward-only: it is not backfilled and
+    cannot be.</p>
+    <p class="note">No personal data. The stored schema is company, ATS token,
+    job id, title, location, department, updated date and URL &mdash; no
+    candidates, no applicants, no names, no contact details. Every endpoint is
+    the ATS vendor&rsquo;s own documented public API: no login, no session
+    cookie, no CAPTCHA, no IP-block circumvention.</p>
+  </section>
+
+  <section>
+    <h2>If you want more than the sample</h2>
+    <p>Raw postings are self-serve on the Apify Store at $5.00 per 1,000 unique
+    deduplicated results, including a
+    <a href="https://apify.com/blooming_gator/verified-job-boards">verified-boards
+    reader</a> that returns only the boards whose count can be proven. The full
+    graded event feed is delivered as daily CSV and scope decides the price, so
+    that one starts with an email.</p>
+    <p class="ask"><a href="mailto:kaleb@revivacatch.com?subject=Hiring%20data%20sample%20pack">kaleb@revivacatch.com</a></p>
+    <p class="note">Name the employers or the platforms that matter and the
+    answer comes back plainly, including when it is no.</p>
+  </section>
+
+  <footer>
+    Cut from the index on 2026-09-17 &middot; 16,276 boards &middot;
+    18 days of change history &middot; regenerated nightly<br>
+    UTF-8, LF line endings, RFC 4180 quoting &middot; sourced from public ATS APIs
+  </footer>
+
+</div>

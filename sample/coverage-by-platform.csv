@@ -1,0 +1,12 @@
+ats,boards,roles_fetched,vendor_publishes_count,boards_verified_complete,boards_count_mismatch,boards_unreachable
+greenhouse,3574,141116,yes,3537,0,37
+bamboohr,3492,27544,yes,3487,0,5
+ashby,2486,50216,no,0,0,20
+workable,1875,53191,no,0,0,4
+workday,1251,446887,yes,1178,17,2
+recruitee,1043,17503,no,0,0,5
+personio,866,9496,no,0,0,1
+rippling,864,8623,no,0,0,2
+smartrecruiters,662,167776,yes,661,0,1
+lever,163,8218,no,0,0,0
+TOTAL,16276,930570,8979 of 16276 = 55.2%,8863,17,77
