@@ -1,15 +1,15 @@
 {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "boards": 16276,
   "boards_on_count_publishing_platforms": 8979,
   "provable_share": 55.2,
   "platforms": 10,
   "history_first_day": "2026-08-29",
-  "history_last_day": "2026-09-17",
-  "history_days_recorded": 18,
+  "history_last_day": "2026-09-18",
+  "history_days_recorded": 19,
   "change_events_in_sample": 999,
-  "postings_rows": 930570,
-  "unique_roles_after_dedup": 852436,
-  "dedup_collapse_pct": 8.4,
-  "roles_listed_on_more_than_one_ats": 494
+  "postings_rows": 929855,
+  "unique_roles_after_dedup": 852452,
+  "dedup_collapse_pct": 8.3,
+  "roles_listed_on_more_than_one_ats": 8
 }
