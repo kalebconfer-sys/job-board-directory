@@ -11,5 +11,15 @@
   "postings_rows": 929855,
   "unique_roles_after_dedup": 852452,
   "dedup_collapse_pct": 8.3,
-  "roles_listed_on_more_than_one_ats": 8
+  "roles_listed_on_more_than_one_ats": 8,
+  "boards_count_verified": 8862,
+  "count_verified_share": 54.4,
+  "boards_count_mismatch": 15,
+  "boards_unreachable": 85,
+  "boards_empty_reached": 400,
+  "employers_provably_hiring_nobody": 132,
+  "checkable_unconfirmed": 117,
+  "checkable_count_mismatch": 15,
+  "checkable_unreachable": 48,
+  "checkable_no_vendor_total": 54
 }
