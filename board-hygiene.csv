@@ -8,7 +8,7 @@ lever,leverdemo956,template,16,,"The board's own name is “Sales Demo - Melody 
 greenhouse,testing,template,6,0. TEST JOB,Several postings give their location as “z-Test & Templates Only”.
 greenhouse,sample,template,8,Forklift Operator (KT),"Twelve postings spanning Oxford, Bordeaux, Bahrain and Clairton PA with no shared employer -- vendor sample data."
 ashby,companyname,template,7,Sales Template,Token is the literal placeholder; posts the same “Senior Software Engineer” repeatedly.
-ashby,testing,template,2,External job ad template Finland,"Single posting, names itself a template."
+ashby,testing,template,1,External job ad template Finland,"Single posting, names itself a template."
 recruitee,test,template,1,Senior Marketer (Sample),Account name “Test”; the one posting names itself a sample.
 recruitee,testing,template,1,Senior Marketer (Sample),Account name “Testing”; same sample posting.
 ashby,playground,employer,9,VP of SMB Sales,Reads as a sandbox and is not one. Real roles in New York and Denver for a real company. Blocking this token deletes live jobs.
