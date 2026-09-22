@@ -66,7 +66,7 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
 
   <h1>The sample pack</h1>
   <p class="sub">The whole evaluation set, free, no signup and no order. Five
-  files cut from the index on 2026-09-21 &mdash; including the board-by-board
+  files cut from the index on 2026-09-22 &mdash; including the board-by-board
   completeness verdicts, which is the file the argument actually rests on.
   <a href="provable-hiring-data.html">What the index proves, and what it does
   not</a>, is the page to read beside them.</p>
@@ -74,8 +74,8 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
   <div class="figs">
     <div><b>16,276</b><span>boards listed</span></div>
     <div><b>55.2%</b><span>count-verifiable</span></div>
-    <div><b>844,638</b><span>unique roles</span></div>
-    <div><b>22</b><span>days recorded</span></div>
+    <div><b>850,291</b><span>unique roles</span></div>
+    <div><b>23</b><span>days recorded</span></div>
   </div>
 
   <section>
@@ -85,19 +85,19 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
       <h3><a href="sample/boards-completeness.csv">boards-completeness.csv</a></h3>
       <p class="lede">Every board in the index, not a sample of them</p>
       <p>One row per board: what was fetched, what the vendor published as its own total, and the verdict. Boards that came up short are graded <code>count mismatch</code> and kept, not dropped.</p>
-      <p class="meta">16,276 rows &middot; 709 KB &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">16,276 rows &middot; 708 KB &middot; UTF-8, LF, RFC 4180</p>
     </li>
     <li>
       <h3><a href="sample/coverage-by-platform.csv">coverage-by-platform.csv</a></h3>
       <p class="lede">The provable share, derived rather than typed</p>
       <p>Boards, roles and verdicts per ATS platform, with the count-publishing share computed on the last row. This is where the headline percentage comes from.</p>
-      <p class="meta">11 rows &middot; 474 bytes &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">11 rows &middot; 473 bytes &middot; UTF-8, LF, RFC 4180</p>
     </li>
     <li>
       <h3><a href="sample/change-events-sample.csv">change-events-sample.csv</a></h3>
       <p class="lede">Graded openings and closures</p>
       <p>A stratified cut across all three confidence grades, so the sample shows the grading rather than hiding behind the high-confidence rows. Each row carries the sentence explaining its grade.</p>
-      <p class="meta">999 rows &middot; 351 KB &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">999 rows &middot; 342 KB &middot; UTF-8, LF, RFC 4180</p>
     </li>
     <li>
       <h3><a href="sample/postings-sample.csv">postings-sample.csv</a></h3>
@@ -109,7 +109,7 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
       <h3><a href="sample/snapshot-series.csv">snapshot-series.csv</a></h3>
       <p class="lede">The history, including its holes</p>
       <p>Every recorded day since the first. Short history is a known limitation and the days that failed to record are visible rather than interpolated. Its two board columns count boards that returned at least one role, which is why they read lower than the directory total above; the difference is the reachable-but-empty boards and the unreachable ones.</p>
-      <p class="meta">22 rows &middot; 1 KB &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">23 rows &middot; 1 KB &middot; UTF-8, LF, RFC 4180</p>
     </li>
     </ul>
     <p class="note" style="margin-top:1rem">Deterministic: the same index
@@ -125,20 +125,20 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
     vendor&rsquo;s figure board by board, every day. The rest are labelled
     unverifiable rather than presented as complete &mdash; that distinction is
     the product.</p>
-    <p>Of the 16,276 boards listed, 15,736 returned at least one open
-    role on the cut date, 436 were reachable and simply had nothing open,
-    and 104 could not be reached at all and say so on their row. The
-    buyer page headlines 15,736 because that is the number with roles behind
+    <p>Of the 16,276 boards listed, 15,715 returned at least one open
+    role on the cut date, 464 were reachable and simply had nothing open,
+    and 97 could not be reached at all and say so on their row. The
+    buyer page headlines 15,715 because that is the number with roles behind
     it; this pack lists all 16,276 because a board with nothing open is still
     coverage.</p>
-    <p>Of those 436 empties, 153 were checked against the ATS
+    <p>Of those 464 empties, 169 were checked against the ATS
     vendor&rsquo;s own published total and it was also zero &mdash; employers
     provably hiring nobody on the cut date, not boards that failed to read.
     Filter <code>boards-completeness.csv</code> to <code>roles_fetched = 0</code>
     and <code>verdict = complete</code> to see them.</p>
-    <p>920,346 posting rows collapse to 844,638 unique roles, a 8.2%
+    <p>926,972 posting rows collapse to 850,291 unique roles, a 8.3%
     dedup collapse across 10 platforms. History runs 2026-08-29 to
-    2026-09-21, 22 days recorded, forward-only: it is not backfilled and
+    2026-09-22, 23 days recorded, forward-only: it is not backfilled and
     cannot be.</p>
     <p class="note">No personal data. The stored schema is company, ATS token,
     job id, title, location, department, updated date and URL &mdash; no
@@ -161,8 +161,8 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
   </section>
 
   <footer>
-    Cut from the index on 2026-09-21 &middot; 16,276 boards &middot;
-    22 days of change history &middot; regenerated nightly<br>
+    Cut from the index on 2026-09-22 &middot; 16,276 boards &middot;
+    23 days of change history &middot; regenerated nightly<br>
     UTF-8, LF line endings, RFC 4180 quoting &middot; sourced from public ATS APIs
   </footer>
 
