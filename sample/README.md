@@ -39,8 +39,8 @@ count treats all four identically. Only the first is a signal. Here they are
 four different rows.
 
 `vendor_publishes_count` tells you, before you look at anything else, whether
-a verdict on that board was even possible. Four platforms publish a total:
-Greenhouse, SmartRecruiters, Workday, BambooHR. The rest do not, and their
+a verdict on that board was even possible. Three platforms publish a total:
+Greenhouse, Workday, BambooHR. The rest do not, and their
 boards are labelled `unverifiable` rather than assumed good.
 
 ---
