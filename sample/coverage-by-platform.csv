@@ -1,11 +1,12 @@
 ats,boards,roles_fetched,vendor_publishes_count,boards_verified_complete,boards_count_mismatch,boards_unreachable
-greenhouse,3576,139659,yes,3512,0,64
-bamboohr,3492,27060,yes,3476,0,16
-ashby,2486,49437,no,0,0,33
-workable,1875,53151,no,0,0,8
-workday,1324,481477,yes,1248,14,4
-recruitee,1043,17550,no,0,0,7
-personio,866,9461,no,0,0,5
-rippling,864,8339,no,0,0,15
-lever,163,8429,no,0,0,0
-TOTAL,15689,794563,8392 of 15689 = 53.5%,8236,14,152
+greenhouse,3576,139606,yes,3508,0,68
+bamboohr,3492,27067,yes,3474,0,18
+ashby,2486,49603,no,0,0,33
+workable,1875,53056,no,0,0,8
+workday,1326,495180,yes,1258,4,4
+recruitee,1043,17582,no,0,0,7
+personio,866,9455,no,0,0,6
+rippling,864,8356,no,0,0,14
+lever,163,8462,no,0,0,0
+eightfold,8,6879,yes,8,0,0
+TOTAL,15699,815246,8402 of 15699 = 53.5%,8248,4,158
