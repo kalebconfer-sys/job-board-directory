@@ -1,5 +1,5 @@
-<title>What 14,881 job boards prove, and what they do not</title>
-<meta name="description" content="784,890 unique roles across 14,881 company career boards, 8,258 of them checked against the vendor&rsquo;s own published count. Per-board coverage, and the cases completeness cannot be proven. Free, no signup.">
+<title>What 14,890 job boards prove, and what they do not</title>
+<meta name="description" content="799,367 unique roles across 14,890 company career boards, 8,311 of them checked against the vendor&rsquo;s own published count. Per-board coverage, and the cases completeness cannot be proven. Free, no signup.">
 <link rel="canonical" href="https://kalebconfer-sys.github.io/job-board-directory/provable-hiring-data.html">
 <meta name="robots" content="index,follow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,8 +53,8 @@ strong{font-weight:600}
 .split{border:1px solid var(--rule);border-radius:2px;background:var(--card);padding:26px;box-shadow:var(--shadow)}
 .bar{display:flex;height:46px;border-radius:2px;overflow:hidden;border:1px solid var(--rule);margin:18px 0 14px}
 .bar span{display:flex;align-items:center;justify-content:center;font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:12px;font-weight:500;font-variant-numeric:tabular-nums}
-.bar .p{background:var(--proven-bg);color:var(--proven);flex:224153}
-.bar .u{background:var(--unproven-bg);color:var(--unproven);flex:33151}
+.bar .p{background:var(--proven-bg);color:var(--proven);flex:224142}
+.bar .u{background:var(--unproven-bg);color:var(--unproven);flex:33148}
 .legend{display:flex;flex-wrap:wrap;gap:10px 24px;font-size:13.5px;color:var(--ink-2)}
 .legend div{display:flex;gap:9px;align-items:flex-start;max-width:38ch}
 .dot{width:9px;height:9px;border-radius:50%;flex:none;margin-top:7px}
@@ -92,9 +92,9 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <h1>Provable Hiring Data</h1>
     <p class="standfirst">Every job scraper hands you rows and lets you assume they are all there. This one checks each board against the vendor&rsquo;s own published record count, and tells you which half of the feed it can prove.</p>
     <div class="stamp">
-      <span>Measured <b>2026-10-07</b></span>
-      <span>Index <b>14,881 boards</b> across 12 ATS platforms</span>
-      <span>8,258 count-checked, 18 short of the vendor&rsquo;s total</span>
+      <span>Measured <b>2026-10-09</b></span>
+      <span>Index <b>14,890 boards</b> across 12 ATS platforms</span>
+      <span>8,311 count-checked, 10 short of the vendor&rsquo;s total</span>
       <span>Hospital nursing index <b>122 boards</b></span>
       <span>Rebuilt daily 06:23 and 06:50</span>
     </div>
@@ -103,10 +103,10 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   <section>
     <h2>The index, as measured</h2>
     <div class="readings">
-      <div class="reading"><span class="v">784,890</span><span class="k">Unique roles</span><span class="b">866,571 postings before deduplication.</span></div>
-      <div class="reading"><span class="v">81,681</span><span class="k">Duplicates removed</span><span class="b">9.4% of the corpus, deduplicated across platforms.</span></div>
-      <div class="reading"><span class="v">8,258</span><span class="k">Boards count-checked</span><span class="b">Checked against the vendor&rsquo;s own published total. 18 came up short and are graded unverified, not dropped.</span></div>
-      <div class="reading"><span class="v">10008s</span><span class="k">Full rebuild</span><span class="b">171 boards errored out of 15,719 listed.</span></div>
+      <div class="reading"><span class="v">799,367</span><span class="k">Unique roles</span><span class="b">883,684 postings before deduplication.</span></div>
+      <div class="reading"><span class="v">84,317</span><span class="k">Duplicates removed</span><span class="b">9.5% of the corpus, deduplicated across platforms.</span></div>
+      <div class="reading"><span class="v">8,311</span><span class="k">Boards count-checked</span><span class="b">Checked against the vendor&rsquo;s own published total. 10 came up short and are graded unverified, not dropped.</span></div>
+      <div class="reading"><span class="v">10241s</span><span class="k">Full rebuild</span><span class="b">187 boards errored out of 15,756 listed.</span></div>
     </div>
   </section>
 
@@ -124,15 +124,15 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <div class="split">
       <h3>An opening needs one observation. A closure needs all of them.</h3>
       <p>Seeing a posting is enough to report that it opened. Reporting that it <em>closed</em> requires having seen the entire board &mdash; otherwise a missed page is indistinguishable from a company pulling twelve roles. So every closure carries a grade, and the grade is stated on the row.</p>
-      <div class="bar" role="img" aria-label="224,153 of 257,304 closures came from a board whose count was verified; 33,151 did not.">
-        <span class="p">224,153 provable</span>
-        <span class="u">33,151 credible</span>
+      <div class="bar" role="img" aria-label="224,142 of 257,290 closures came from a board whose count was verified; 33,148 did not.">
+        <span class="p">224,142 provable</span>
+        <span class="u">33,148 credible</span>
       </div>
       <div class="legend">
         <div><span class="dot p"></span><span><strong>Provable.</strong> The vendor published a count and the fetch matched it exactly.</span></div>
         <div><span class="dot u"></span><span><strong>Credible, not proven.</strong> One call returns the whole board, so nothing can truncate &mdash; but no count exists to check it against.</span></div>
       </div>
-      <p style="margin-top:20px">Across the first 36 days of diffs: <strong>1,690,938 events &mdash; 1,278,203 opened, 412,735 closed.</strong> 211,621 of them are one requisition changing where it is advertised and 873,304 are coverage changes; both are graded <code>low</code> and excluded from every figure on this page. Of the remaining 257,304 closures, <strong>87%</strong> are provable. Every competitor shipping a &ldquo;new since last run&rdquo; mode is estimating the closed half and not saying so.</p>
+      <p style="margin-top:20px">Across the first 37 days of diffs: <strong>1,791,613 events &mdash; 1,335,724 opened, 455,889 closed.</strong> 234,778 of them are one requisition changing where it is advertised and 886,925 are coverage changes; both are graded <code>low</code> and excluded from every figure on this page. Of the remaining 257,290 closures, <strong>87%</strong> are provable. Every competitor shipping a &ldquo;new since last run&rdquo; mode is estimating the closed half and not saying so.</p>
     </div>
   </section>
 
@@ -157,7 +157,7 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
         </tbody>
       </table>
     </div>
-    <p class="note" style="margin-top:18px">Workday was measured on 2026-10-07 across 122 hospital nursing boards: <strong>122 of 122 fetches matched the vendor&rsquo;s own total for that exact query.</strong> Workday never reports a total above 2,000 but keeps serving pages past it, so a board that would exceed the cap is split by state and each state is verified on its own.</p>
+    <p class="note" style="margin-top:18px">Workday was measured on 2026-10-09 across 122 hospital nursing boards: <strong>122 of 122 fetches matched the vendor&rsquo;s own total for that exact query.</strong> Workday never reports a total above 2,000 but keeps serving pages past it, so a board that would exceed the cap is split by state and each state is verified on its own.</p>
   </section>
 
   <section>
@@ -167,21 +167,21 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
     <div class="readings">
       <div class="reading"><span class="v">56</span><span class="k">Health systems</span><span class="b">Every one on its own Workday tenant, found by reading the public web index rather than a bought list.</span></div>
       <div class="reading"><span class="v">122</span><span class="k">Nursing boards</span><span class="b">122 of 122 matched the vendor total. 0 mismatches. A further 0 boards could not be fetched on this run and are absent from these figures, not empty.</span></div>
-      <div class="reading"><span class="v">21,697</span><span class="k">Open nursing requisitions</span><span class="b">16,834 after collapsing identical title-and-site requisitions.</span></div>
-      <div class="reading"><span class="v">33</span><span class="k">Days of history</span><span class="b">Diffing daily since 2026-09-03.</span></div>
+      <div class="reading"><span class="v">21,731</span><span class="k">Open nursing requisitions</span><span class="b">16,854 after collapsing identical title-and-site requisitions.</span></div>
+      <div class="reading"><span class="v">35</span><span class="k">Days of history</span><span class="b">Diffing daily since 2026-09-03.</span></div>
     </div>
     <div class="scroll" style="margin-top:18px">
       <table>
         <thead><tr><th>Health system</th><th>Open nursing requisitions</th><th>Boards</th><th>Count-checked</th></tr></thead>
         <tbody>
-          <tr><td class="co">Trinity Health</td><td class="num">3,139</td><td class="num">20</td><td><span class="tag p">all 20</span></td></tr>
-          <tr><td class="co">AdventHealth</td><td class="num">1,984</td><td class="num">7</td><td><span class="tag p">all 7</span></td></tr>
-          <tr><td class="co">Cleveland Clinic</td><td class="num">1,133</td><td class="num">4</td><td><span class="tag p">all 4</span></td></tr>
-          <tr><td class="co">Sentara Health</td><td class="num">1,028</td><td class="num">2</td><td><span class="tag p">all 2</span></td></tr>
-          <tr><td class="co">Beth Israel Lahey Health</td><td class="num">871</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
-          <tr><td class="co">WVU Medicine</td><td class="num">843</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
-          <tr><td class="co">Mercy (St. Louis)</td><td class="num">691</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
-          <tr><td class="co">Bon Secours Mercy Health</td><td class="num">614</td><td class="num">2</td><td><span class="tag p">all 2</span></td></tr>
+          <tr><td class="co">Trinity Health</td><td class="num">3,173</td><td class="num">20</td><td><span class="tag p">all 20</span></td></tr>
+          <tr><td class="co">AdventHealth</td><td class="num">2,012</td><td class="num">7</td><td><span class="tag p">all 7</span></td></tr>
+          <tr><td class="co">Cleveland Clinic</td><td class="num">1,182</td><td class="num">4</td><td><span class="tag p">all 4</span></td></tr>
+          <tr><td class="co">Sentara Health</td><td class="num">1,024</td><td class="num">2</td><td><span class="tag p">all 2</span></td></tr>
+          <tr><td class="co">Beth Israel Lahey Health</td><td class="num">874</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">WVU Medicine</td><td class="num">845</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">Mercy (St. Louis)</td><td class="num">695</td><td class="num">1</td><td><span class="tag p">all 1</span></td></tr>
+          <tr><td class="co">Avera Health</td><td class="num">612</td><td class="num">4</td><td><span class="tag p">all 4</span></td></tr>
         </tbody>
       </table>
     </div>
@@ -190,43 +190,34 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
 
   <section>
     <h3>What that index shows that a job board does not</h3>
-    <p class="lede">Health systems are staffing their own flexible labour and publishing it on their own careers sites. Read across the 122 nursing boards on 2026-10-07, these are requisitions the hospital is filling without an agency.</p>
+    <p class="lede">Health systems are staffing their own flexible labour and publishing it on their own careers sites. Read across the 122 nursing boards on 2026-10-09, these are requisitions the hospital is filling without an agency.</p>
     <div class="readings">
-      <div class="reading"><span class="v">349</span><span class="k">Travel-titled nursing requisitions</span><span class="b">Posted by the health system itself, across 13 systems.</span></div>
+      <div class="reading"><span class="v">361</span><span class="k">Travel-titled nursing requisitions</span><span class="b">Posted by the health system itself, across 13 systems.</span></div>
       <div class="reading"><span class="v">1,720</span><span class="k">Per-diem, PRN or float-pool nursing requisitions</span><span class="b">Across 52 systems.</span></div>
     </div>
     <div class="scroll" style="margin-top:18px">
       <table>
         <thead><tr><th>Health system</th><th>Travel-titled nursing requisitions</th></tr></thead>
         <tbody>
-          <tr><td class="co">Trinity Health</td><td class="num">203</td></tr>
-          <tr><td class="co">Sentara Health</td><td class="num">81</td></tr>
-          <tr><td class="co">AdventHealth</td><td class="num">22</td></tr>
+          <tr><td class="co">Trinity Health</td><td class="num">221</td></tr>
+          <tr><td class="co">Sentara Health</td><td class="num">77</td></tr>
+          <tr><td class="co">AdventHealth</td><td class="num">20</td></tr>
           <tr><td class="co">Saint Francis Health System</td><td class="num">17</td></tr>
           <tr><td class="co">HonorHealth</td><td class="num">6</td></tr>
           <tr><td class="co">Baptist Health Jacksonville</td><td class="num">6</td></tr>
         </tbody>
       </table>
     </div>
-    <p class="note" style="margin-top:18px">Matched on the requisition title, which is how the hospital labels the role; a travel assignment titled some other way is not counted here. These are open requisitions read on 2026-10-07, not change events. The commercial point is not the number but the absence: <strong>&ldquo;this system has no open travel nursing need&rdquo; is worth something only when the board was checked against the vendor&rsquo;s own record count</strong>, which is why 122 of 122 matching is the figure that carries the claim.</p>
+    <p class="note" style="margin-top:18px">Matched on the requisition title, which is how the hospital labels the role; a travel assignment titled some other way is not counted here. These are open requisitions read on 2026-10-09, not change events. The commercial point is not the number but the absence: <strong>&ldquo;this system has no open travel nursing need&rdquo; is worth something only when the board was checked against the vendor&rsquo;s own record count</strong>, which is why 122 of 122 matching is the figure that carries the claim.</p>
   </section>
 
   <section>
-    <h2>Sample day &mdash; net movement, 2026-10-07</h2>
+    <h2>Sample day &mdash; net movement, 2026-10-09</h2>
     <div class="scroll">
       <table>
         <thead><tr><th>Company</th><th>Net roles</th><th>Direction</th></tr></thead>
         <tbody>
-          <tr><td class="co">massgeneralbrigham</td><td class="num up">+1658</td><td>Accelerating</td></tr>
-          <tr><td class="co">carmax</td><td class="num up">+1076</td><td>Accelerating</td></tr>
-          <tr><td class="co">virtua</td><td class="num up">+617</td><td>Accelerating</td></tr>
-          <tr><td class="co">marathonhealth</td><td class="num up">+498</td><td>Accelerating</td></tr>
-          <tr><td class="co">europcar</td><td class="num up">+243</td><td>Accelerating</td></tr>
-          <tr><td class="co">nvidia</td><td class="num down">&minus;46</td><td>Contracting</td></tr>
-          <tr><td class="co">adobe</td><td class="num down">&minus;45</td><td>Contracting</td></tr>
-          <tr><td class="co">jabil</td><td class="num down">&minus;40</td><td>Contracting</td></tr>
-          <tr><td class="co">Salmon Group</td><td class="num down">&minus;28</td><td>Contracting</td></tr>
-          <tr><td class="co">lowes</td><td class="num down">&minus;24</td><td>Contracting</td></tr>
+
         </tbody>
       </table>
     </div>
@@ -265,14 +256,14 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   <section>
     <h2>What is not proven</h2>
     <ul class="gaps">
-      <li><span class="n">01</span><span><b>History is 36 days old.</b> The daily diff began 2026-08-30. Hiring-velocity comparisons need roughly two weeks before they mean anything, and nothing here claims otherwise.</span></li>
-      <li><span class="n">02</span><span><b>One requisition advertised in several places looks like churn.</b> Deduplication keys on <code>(company, title, location)</code>, and boards rotate which locations they surface, so the same job reads as closing in Midland and opening in Allentown on one morning. Measured on 2026-09-01: <strong>272 of 1,437 openings and 280 of 1,495 closures</strong> already had the same company and title live elsewhere. Those events are graded <code>low</code>, flagged <code>same_role_elsewhere</code>, and can be dropped outright &mdash; 211,621 of 1,690,938 events so far.</span></li>
+      <li><span class="n">01</span><span><b>History is 37 days old.</b> The daily diff began 2026-08-30. Hiring-velocity comparisons need roughly two weeks before they mean anything, and nothing here claims otherwise.</span></li>
+      <li><span class="n">02</span><span><b>One requisition advertised in several places looks like churn.</b> Deduplication keys on <code>(company, title, location)</code>, and boards rotate which locations they surface, so the same job reads as closing in Midland and opening in Allentown on one morning. Measured on 2026-09-01: <strong>272 of 1,437 openings and 280 of 1,495 closures</strong> already had the same company and title live elsewhere. Those events are graded <code>low</code>, flagged <code>same_role_elsewhere</code>, and can be dropped outright &mdash; 234,778 of 1,791,613 events so far.</span></li>
       <li><span class="n">03</span><span><b>Twelve company names are still disputed, and say so.</b> Boards discovered by matching a public-filings name to a short URL token collected some confidently wrong ones: one labelled with a mining company was the fitness chain, another labelled a space company was the surgical-robotics firm. Every resolvable board was audited against the name published on the board itself, and <strong>497 adopted the employer&rsquo;s own name</strong> &mdash; 20,120 roles re-identified with <strong>zero fabricated events</strong>, because the change history was migrated in the same pass. The remaining twelve are ambiguous and are left labelled <code>disputed</code> for a human rather than guessed.</span></li>
       <li><span class="n">04</span><span><b>Staffing agencies are labelled by review, not detection.</b> One is confirmed: a UK healthcare agency running 2,658 locum ads, which would otherwise read as one enormous employer. The obvious automatic test &mdash; one title across many locations &mdash; was measured and failed: it ranks ordinary multi-office employers first and misses the agency entirely. Everything unreviewed is labelled <code>unverified</code> rather than assumed direct.</span></li>
       <li><span class="n">05</span><span><b>Six of the twelve platforms the code reads cannot be proven complete.</b> They return the whole board in a single call, which leaves nothing to truncate, but publish no count to check against. Those rows are graded <code>medium</code>, never dressed up.</span></li>
-      <li><span class="n">06</span><span><b>Coverage is 14,881 boards plus 122 hospital nursing boards.</b> That is a defined universe, not the whole market. It is listed per board rather than described as global.</span></li>
-      <li><span class="n">07</span><span><b>Adding coverage looks exactly like hiring, and until 2026-09-02 it was graded that way.</b> Measured that morning: 288 of the day&rsquo;s 1,980 openings were boards added to the index the same day, and 104 of its closures were one board that came back empty. Both patterns are now detected per company at export time and graded <code>low</code> with the reason on the row &mdash; 839,130 openings and 34,174 closures across the whole history. The index-wide circuit breaker that refuses a broken day cannot see one board arrive or vanish; this check does.</span></li>
-      <li><span class="n">08</span><span><b>The hospital index is 33 day(s) old.</b> Its baseline was taken 2026-09-02 and it has diffed daily since 2026-09-03. It has produced 18,575 graded events so far. Until a second week of diffs exists it proves open requisitions, not turnover.</span></li>
+      <li><span class="n">06</span><span><b>Coverage is 14,890 boards plus 122 hospital nursing boards.</b> That is a defined universe, not the whole market. It is listed per board rather than described as global.</span></li>
+      <li><span class="n">07</span><span><b>Adding coverage looks exactly like hiring, and until 2026-09-02 it was graded that way.</b> Measured that morning: 288 of the day&rsquo;s 1,980 openings were boards added to the index the same day, and 104 of its closures were one board that came back empty. Both patterns are now detected per company at export time and graded <code>low</code> with the reason on the row &mdash; 848,906 openings and 38,019 closures across the whole history. The index-wide circuit breaker that refuses a broken day cannot see one board arrive or vanish; this check does.</span></li>
+      <li><span class="n">08</span><span><b>The hospital index is 35 day(s) old.</b> Its baseline was taken 2026-09-02 and it has diffed daily since 2026-09-03. It has produced 20,276 graded events so far. Until a second week of diffs exists it proves open requisitions, not turnover.</span></li>
     </ul>
   </section>
 
@@ -295,7 +286,7 @@ footer{margin-top:64px;padding-top:24px;border-top:1px solid var(--rule);font-fa
   </section>
 
   <footer>
-    Index rebuilt daily at 06:23, hospital index at 06:50 &middot; 175 automated checks, all passing &middot; 36 days of change history &middot; sourced from public ATS APIs<br>
+    Index rebuilt daily at 06:23, hospital index at 06:50 &middot; 175 automated checks, all passing &middot; 37 days of change history &middot; sourced from public ATS APIs<br>
     Raw postings available on the Apify Store at $5.00 per 1,000 unique deduplicated results &middot; the graded event feed is delivered as daily CSV
   </footer>
 
