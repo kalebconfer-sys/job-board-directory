@@ -15,7 +15,7 @@
   "company": "3m",
   "board_url": "https://3m.wd1.myworkdayjobs.com/Search",
   "api_url": "https://3m.wd1.myworkdayjobs.com/wday/cxs/3m/Search/jobs",
-  "open_roles": 718,
+  "open_roles": 717,
   "count_basis": "vendor",
   "region": ""
  },
@@ -45,7 +45,7 @@
   "company": "academy",
   "board_url": "https://academy.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://academy.wd1.myworkdayjobs.com/wday/cxs/academy/Careers/jobs",
-  "open_roles": 885,
+  "open_roles": 884,
   "count_basis": "vendor",
   "region": ""
  },
@@ -95,7 +95,7 @@
   "company": "adventisthealthcare",
   "board_url": "https://adventisthealthcare.wd1.myworkdayjobs.com/AdventistHealthCareCareers",
   "api_url": "https://adventisthealthcare.wd1.myworkdayjobs.com/wday/cxs/adventisthealthcare/AdventistHealthCareCareers/jobs",
-  "open_roles": 439,
+  "open_roles": 438,
   "count_basis": "vendor",
   "region": ""
  },
@@ -125,7 +125,7 @@
   "company": "aep",
   "board_url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite",
   "api_url": "https://aep.wd1.myworkdayjobs.com/wday/cxs/aep/AEPCareerSite/jobs",
-  "open_roles": 282,
+  "open_roles": 253,
   "count_basis": "vendor",
   "region": ""
  },
@@ -155,7 +155,7 @@
   "company": "aig",
   "board_url": "https://aig.wd1.myworkdayjobs.com/aig",
   "api_url": "https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs",
-  "open_roles": 467,
+  "open_roles": 464,
   "count_basis": "vendor",
   "region": ""
  },
@@ -205,7 +205,7 @@
   "company": "altamed",
   "board_url": "https://altamed.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://altamed.wd1.myworkdayjobs.com/wday/cxs/altamed/Careers/jobs",
-  "open_roles": 293,
+  "open_roles": 292,
   "count_basis": "vendor",
   "region": ""
  },
@@ -215,7 +215,7 @@
   "company": "altera",
   "board_url": "https://altera.wd1.myworkdayjobs.com/Altera",
   "api_url": "https://altera.wd1.myworkdayjobs.com/wday/cxs/altera/Altera/jobs",
-  "open_roles": 201,
+  "open_roles": 195,
   "count_basis": "vendor",
   "region": ""
  },
@@ -235,7 +235,7 @@
   "company": "amat",
   "board_url": "https://amat.wd1.myworkdayjobs.com/External",
   "api_url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs",
-  "open_roles": 2060,
+  "open_roles": 2059,
   "count_basis": "vendor",
   "region": ""
  },
@@ -255,7 +255,7 @@
   "company": "ameren",
   "board_url": "https://ameren.wd1.myworkdayjobs.com/External",
   "api_url": "https://ameren.wd1.myworkdayjobs.com/wday/cxs/ameren/External/jobs",
-  "open_roles": 87,
+  "open_roles": 86,
   "count_basis": "vendor",
   "region": ""
  },
@@ -265,7 +265,7 @@
   "company": "american",
   "board_url": "https://american.wd1.myworkdayjobs.com/AU",
   "api_url": "https://american.wd1.myworkdayjobs.com/wday/cxs/american/AU/jobs",
-  "open_roles": 95,
+  "open_roles": 92,
   "count_basis": "vendor",
   "region": ""
  },
@@ -305,7 +305,7 @@
   "company": "amgen",
   "board_url": "https://amgen.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/Careers/jobs",
-  "open_roles": 1695,
+  "open_roles": 1693,
   "count_basis": "vendor",
   "region": ""
  },
@@ -325,7 +325,7 @@
   "company": "analogdevices",
   "board_url": "https://analogdevices.wd1.myworkdayjobs.com/External",
   "api_url": "https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs",
-  "open_roles": 844,
+  "open_roles": 842,
   "count_basis": "vendor",
   "region": ""
  },
@@ -425,7 +425,7 @@
   "company": "arrow",
   "board_url": "https://arrow.wd1.myworkdayjobs.com/AC",
   "api_url": "https://arrow.wd1.myworkdayjobs.com/wday/cxs/arrow/AC/jobs",
-  "open_roles": 492,
+  "open_roles": 489,
   "count_basis": "vendor",
   "region": ""
  },
@@ -435,7 +435,7 @@
   "company": "asmglobal",
   "board_url": "https://asmglobal.wd1.myworkdayjobs.com/careers",
   "api_url": "https://asmglobal.wd1.myworkdayjobs.com/wday/cxs/asmglobal/careers/jobs",
-  "open_roles": 2077,
+  "open_roles": 2076,
   "count_basis": "vendor",
   "region": ""
  },
@@ -455,7 +455,7 @@
   "company": "associatedbank",
   "board_url": "https://associatedbank.wd1.myworkdayjobs.com/external_careers",
   "api_url": "https://associatedbank.wd1.myworkdayjobs.com/wday/cxs/associatedbank/external_careers/jobs",
-  "open_roles": 178,
+  "open_roles": 174,
   "count_basis": "vendor",
   "region": ""
  },
@@ -465,7 +465,7 @@
   "company": "assurant",
   "board_url": "https://assurant.wd1.myworkdayjobs.com/Assurant_Careers",
   "api_url": "https://assurant.wd1.myworkdayjobs.com/wday/cxs/assurant/Assurant_Careers/jobs",
-  "open_roles": 130,
+  "open_roles": 128,
   "count_basis": "vendor",
   "region": ""
  },
@@ -475,7 +475,7 @@
   "company": "asu",
   "board_url": "https://asu.wd1.myworkdayjobs.com/ASUStaffCareers",
   "api_url": "https://asu.wd1.myworkdayjobs.com/wday/cxs/asu/ASUStaffCareers/jobs",
-  "open_roles": 123,
+  "open_roles": 125,
   "count_basis": "vendor",
   "region": ""
  },
@@ -515,7 +515,7 @@
   "company": "att",
   "board_url": "https://att.wd1.myworkdayjobs.com/ATTGeneral",
   "api_url": "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs",
-  "open_roles": 1137,
+  "open_roles": 1135,
   "count_basis": "vendor",
   "region": ""
  },
@@ -545,7 +545,7 @@
   "company": "autodesk",
   "board_url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
   "api_url": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs",
-  "open_roles": 399,
+  "open_roles": 398,
   "count_basis": "vendor",
   "region": ""
  },
@@ -575,7 +575,7 @@
   "company": "avisbudget",
   "board_url": "https://avisbudget.wd1.myworkdayjobs.com/ABG_Careers",
   "api_url": "https://avisbudget.wd1.myworkdayjobs.com/wday/cxs/avisbudget/ABG_Careers/jobs",
-  "open_roles": 551,
+  "open_roles": 550,
   "count_basis": "vendor",
   "region": ""
  },
@@ -625,7 +625,7 @@
   "company": "bah",
   "board_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
   "api_url": "https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/BAH_Jobs/jobs",
-  "open_roles": 2313,
+  "open_roles": 2307,
   "count_basis": "vendor",
   "region": ""
  },
@@ -705,7 +705,7 @@
   "company": "basspro",
   "board_url": "https://basspro.wd1.myworkdayjobs.com/careers",
   "api_url": "https://basspro.wd1.myworkdayjobs.com/wday/cxs/basspro/careers/jobs",
-  "open_roles": 2218,
+  "open_roles": 2193,
   "count_basis": "vendor",
   "region": ""
  },
@@ -715,7 +715,7 @@
   "company": "baxter",
   "board_url": "https://baxter.wd1.myworkdayjobs.com/baxter",
   "api_url": "https://baxter.wd1.myworkdayjobs.com/wday/cxs/baxter/baxter/jobs",
-  "open_roles": 508,
+  "open_roles": 506,
   "count_basis": "vendor",
   "region": ""
  },
@@ -765,7 +765,7 @@
   "company": "bdgrowers",
   "board_url": "https://bdgrowers.wd1.myworkdayjobs.com/External",
   "api_url": "https://bdgrowers.wd1.myworkdayjobs.com/wday/cxs/bdgrowers/External/jobs",
-  "open_roles": 19,
+  "open_roles": 20,
   "count_basis": "vendor",
   "region": ""
  },
@@ -775,7 +775,7 @@
   "company": "bdx",
   "board_url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA",
   "api_url": "https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL_CAREER_SITE_USA/jobs",
-  "open_roles": 663,
+  "open_roles": 664,
   "count_basis": "vendor",
   "region": ""
  },
@@ -855,7 +855,7 @@
   "company": "bhs",
   "board_url": "https://bhs.wd1.myworkdayjobs.com/careers",
   "api_url": "https://bhs.wd1.myworkdayjobs.com/wday/cxs/bhs/careers/jobs",
-  "open_roles": 1436,
+  "open_roles": 1435,
   "count_basis": "vendor",
   "region": ""
  },
@@ -865,7 +865,7 @@
   "company": "bilh",
   "board_url": "https://bilh.wd1.myworkdayjobs.com/External",
   "api_url": "https://bilh.wd1.myworkdayjobs.com/wday/cxs/bilh/External/jobs",
-  "open_roles": 2509,
+  "open_roles": 2510,
   "count_basis": "vendor",
   "region": ""
  },
@@ -885,7 +885,7 @@
   "company": "bjswholesaleclub",
   "board_url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/BJsCareers",
   "api_url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/wday/cxs/bjswholesaleclub/BJsCareers/jobs",
-  "open_roles": 1508,
+  "open_roles": 1506,
   "count_basis": "vendor",
   "region": ""
  },
@@ -895,7 +895,7 @@
   "company": "blackbaud",
   "board_url": "https://blackbaud.wd1.myworkdayjobs.com/ExternalCareers",
   "api_url": "https://blackbaud.wd1.myworkdayjobs.com/wday/cxs/blackbaud/ExternalCareers/jobs",
-  "open_roles": 89,
+  "open_roles": 90,
   "count_basis": "vendor",
   "region": ""
  },
@@ -905,7 +905,7 @@
   "company": "blackrock",
   "board_url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional",
   "api_url": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
-  "open_roles": 311,
+  "open_roles": 307,
   "count_basis": "vendor",
   "region": ""
  },
@@ -915,7 +915,7 @@
   "company": "blackstone",
   "board_url": "https://blackstone.wd1.myworkdayjobs.com/Blackstone_Careers",
   "api_url": "https://blackstone.wd1.myworkdayjobs.com/wday/cxs/blackstone/Blackstone_Careers/jobs",
-  "open_roles": 171,
+  "open_roles": 172,
   "count_basis": "vendor",
   "region": ""
  },
@@ -945,7 +945,7 @@
   "company": "bmc",
   "board_url": "https://bmc.wd1.myworkdayjobs.com/BMC",
   "api_url": "https://bmc.wd1.myworkdayjobs.com/wday/cxs/bmc/BMC/jobs",
-  "open_roles": 843,
+  "open_roles": 845,
   "count_basis": "vendor",
   "region": ""
  },
@@ -965,7 +965,7 @@
   "company": "boeing",
   "board_url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS",
   "api_url": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs",
-  "open_roles": 764,
+  "open_roles": 750,
   "count_basis": "vendor",
   "region": ""
  },
@@ -975,7 +975,7 @@
   "company": "bonterra",
   "board_url": "https://bonterra.wd1.myworkdayjobs.com/bonterratech",
   "api_url": "https://bonterra.wd1.myworkdayjobs.com/wday/cxs/bonterra/bonterratech/jobs",
-  "open_roles": 12,
+  "open_roles": 13,
   "count_basis": "vendor",
   "region": ""
  },
@@ -995,7 +995,7 @@
   "company": "boydgroup",
   "board_url": "https://boydgroup.wd1.myworkdayjobs.com/boydcareers",
   "api_url": "https://boydgroup.wd1.myworkdayjobs.com/wday/cxs/boydgroup/boydcareers/jobs",
-  "open_roles": 1364,
+  "open_roles": 1366,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1035,7 +1035,7 @@
   "company": "broadcom",
   "board_url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
   "api_url": "https://broadcom.wd1.myworkdayjobs.com/wday/cxs/broadcom/External_Career/jobs",
-  "open_roles": 385,
+  "open_roles": 384,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1155,7 +1155,7 @@
   "company": "calibercollision",
   "board_url": "https://calibercollision.wd1.myworkdayjobs.com/Caliber",
   "api_url": "https://calibercollision.wd1.myworkdayjobs.com/wday/cxs/calibercollision/Caliber/jobs",
-  "open_roles": 1525,
+  "open_roles": 1524,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1225,7 +1225,7 @@
   "company": "cardinalhealth",
   "board_url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT",
   "api_url": "https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs",
-  "open_roles": 789,
+  "open_roles": 790,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1235,7 +1235,7 @@
   "company": "caresource",
   "board_url": "https://caresource.wd1.myworkdayjobs.com/CareSource",
   "api_url": "https://caresource.wd1.myworkdayjobs.com/wday/cxs/caresource/CareSource/jobs",
-  "open_roles": 107,
+  "open_roles": 108,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1255,7 +1255,7 @@
   "company": "carmax",
   "board_url": "https://carmax.wd1.myworkdayjobs.com/External",
   "api_url": "https://carmax.wd1.myworkdayjobs.com/wday/cxs/carmax/External/jobs",
-  "open_roles": 1166,
+  "open_roles": 1170,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1265,7 +1265,7 @@
   "company": "catalent",
   "board_url": "https://catalent.wd1.myworkdayjobs.com/External",
   "api_url": "https://catalent.wd1.myworkdayjobs.com/wday/cxs/catalent/External/jobs",
-  "open_roles": 302,
+  "open_roles": 300,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1285,7 +1285,7 @@
   "company": "ccf",
   "board_url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
   "api_url": "https://ccf.wd1.myworkdayjobs.com/wday/cxs/ccf/ClevelandClinicCareers/jobs",
-  "open_roles": 2267,
+  "open_roles": 2256,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1335,7 +1335,7 @@
   "company": "chess",
   "board_url": "https://chess.wd1.myworkdayjobs.com/SJC",
   "api_url": "https://chess.wd1.myworkdayjobs.com/wday/cxs/chess/SJC/jobs",
-  "open_roles": 30,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1375,7 +1375,7 @@
   "company": "cinemark",
   "board_url": "https://cinemark.wd1.myworkdayjobs.com/cinemark",
   "api_url": "https://cinemark.wd1.myworkdayjobs.com/wday/cxs/cinemark/cinemark/jobs",
-  "open_roles": 547,
+  "open_roles": 522,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1485,7 +1485,7 @@
   "company": "cnx",
   "board_url": "https://cnx.wd1.myworkdayjobs.com/external_global",
   "api_url": "https://cnx.wd1.myworkdayjobs.com/wday/cxs/cnx/external_global/jobs",
-  "open_roles": 1647,
+  "open_roles": 1643,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1505,7 +1505,7 @@
   "company": "coke",
   "board_url": "https://coke.wd1.myworkdayjobs.com/coca-cola-careers",
   "api_url": "https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-cola-careers/jobs",
-  "open_roles": 195,
+  "open_roles": 194,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1565,7 +1565,7 @@
   "company": "conagrabrands",
   "board_url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US",
   "api_url": "https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/Careers_US/jobs",
-  "open_roles": 253,
+  "open_roles": 251,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1605,7 +1605,7 @@
   "company": "cookchildrens",
   "board_url": "https://cookchildrens.wd1.myworkdayjobs.com/Cook_Childrens_Careers",
   "api_url": "https://cookchildrens.wd1.myworkdayjobs.com/wday/cxs/cookchildrens/Cook_Childrens_Careers/jobs",
-  "open_roles": 244,
+  "open_roles": 245,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1675,7 +1675,7 @@
   "company": "costar",
   "board_url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers",
   "api_url": "https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/CoStarCareers/jobs",
-  "open_roles": 426,
+  "open_roles": 428,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1685,7 +1685,7 @@
   "company": "cox",
   "board_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1",
   "api_url": "https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs",
-  "open_roles": 713,
+  "open_roles": 712,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1745,7 +1745,7 @@
   "company": "csl",
   "board_url": "https://csl.wd1.myworkdayjobs.com/CSL_External",
   "api_url": "https://csl.wd1.myworkdayjobs.com/wday/cxs/csl/CSL_External/jobs",
-  "open_roles": 185,
+  "open_roles": 186,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1775,7 +1775,7 @@
   "company": "cvshealth",
   "board_url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers",
   "api_url": "https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs",
-  "open_roles": 9599,
+  "open_roles": 10020,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1805,7 +1805,7 @@
   "company": "dallascollege",
   "board_url": "https://dallascollege.wd1.myworkdayjobs.com/Dallas_College_Careers",
   "api_url": "https://dallascollege.wd1.myworkdayjobs.com/wday/cxs/dallascollege/Dallas_College_Careers/jobs",
-  "open_roles": 55,
+  "open_roles": 54,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1815,7 +1815,7 @@
   "company": "danaher",
   "board_url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs",
   "api_url": "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/DanaherJobs/jobs",
-  "open_roles": 1445,
+  "open_roles": 1442,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1855,7 +1855,7 @@
   "company": "davita",
   "board_url": "https://davita.wd1.myworkdayjobs.com/DKC_External",
   "api_url": "https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs",
-  "open_roles": 3350,
+  "open_roles": 3341,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1885,7 +1885,7 @@
   "company": "denverhealth",
   "board_url": "https://denverhealth.wd1.myworkdayjobs.com/dhha-main",
   "api_url": "https://denverhealth.wd1.myworkdayjobs.com/wday/cxs/denverhealth/dhha-main/jobs",
-  "open_roles": 370,
+  "open_roles": 368,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1925,7 +1925,7 @@
   "company": "dickssportinggoods",
   "board_url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG",
   "api_url": "https://dickssportinggoods.wd1.myworkdayjobs.com/wday/cxs/dickssportinggoods/DSG/jobs",
-  "open_roles": 3840,
+  "open_roles": 3835,
   "count_basis": "vendor",
   "region": ""
  },
@@ -1965,7 +1965,7 @@
   "company": "dow",
   "board_url": "https://dow.wd1.myworkdayjobs.com/ExternalCareers",
   "api_url": "https://dow.wd1.myworkdayjobs.com/wday/cxs/dow/ExternalCareers/jobs",
-  "open_roles": 200,
+  "open_roles": 198,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2015,7 +2015,7 @@
   "company": "dukeenergy",
   "board_url": "https://dukeenergy.wd1.myworkdayjobs.com/search",
   "api_url": "https://dukeenergy.wd1.myworkdayjobs.com/wday/cxs/dukeenergy/search/jobs",
-  "open_roles": 98,
+  "open_roles": 94,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2035,7 +2035,7 @@
   "company": "dxctechnology",
   "board_url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs",
   "api_url": "https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/DXCJobs/jobs",
-  "open_roles": 1183,
+  "open_roles": 1179,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2045,7 +2045,7 @@
   "company": "ebnhc",
   "board_url": "https://ebnhc.wd1.myworkdayjobs.com/EBNHC",
   "api_url": "https://ebnhc.wd1.myworkdayjobs.com/wday/cxs/ebnhc/EBNHC/jobs",
-  "open_roles": 102,
+  "open_roles": 103,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2065,7 +2065,7 @@
   "company": "ecolab",
   "board_url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External",
   "api_url": "https://ecolab.wd1.myworkdayjobs.com/wday/cxs/ecolab/Ecolab_External/jobs",
-  "open_roles": 1058,
+  "open_roles": 1057,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2085,7 +2085,7 @@
   "company": "elevancehealth",
   "board_url": "https://elevancehealth.wd1.myworkdayjobs.com/ANT",
   "api_url": "https://elevancehealth.wd1.myworkdayjobs.com/wday/cxs/elevancehealth/ANT/jobs",
-  "open_roles": 253,
+  "open_roles": 251,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2185,7 +2185,7 @@
   "company": "evercommerce",
   "board_url": "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers",
   "api_url": "https://evercommerce.wd1.myworkdayjobs.com/wday/cxs/evercommerce/EverCommerce_Careers/jobs",
-  "open_roles": 35,
+  "open_roles": 34,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2245,7 +2245,7 @@
   "company": "fedex",
   "board_url": "https://fedex.wd1.myworkdayjobs.com/FXE-EU_External",
   "api_url": "https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-EU_External/jobs",
-  "open_roles": 975,
+  "open_roles": 969,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2255,7 +2255,7 @@
   "company": "ferguson",
   "board_url": "https://ferguson.wd1.myworkdayjobs.com/Ferguson_Experienced",
   "api_url": "https://ferguson.wd1.myworkdayjobs.com/wday/cxs/ferguson/Ferguson_Experienced/jobs",
-  "open_roles": 429,
+  "open_roles": 428,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2285,7 +2285,7 @@
   "company": "fhi",
   "board_url": "https://fhi.wd1.myworkdayjobs.com/FHI_360_External_Career_Portal",
   "api_url": "https://fhi.wd1.myworkdayjobs.com/wday/cxs/fhi/FHI_360_External_Career_Portal/jobs",
-  "open_roles": 110,
+  "open_roles": 108,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2325,7 +2325,7 @@
   "company": "firststudent",
   "board_url": "https://firststudent.wd1.myworkdayjobs.com/firststudent",
   "api_url": "https://firststudent.wd1.myworkdayjobs.com/wday/cxs/firststudent/firststudent/jobs",
-  "open_roles": 1128,
+  "open_roles": 1127,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2375,7 +2375,7 @@
   "company": "flextronics",
   "board_url": "https://flextronics.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flextronics/Careers/jobs",
-  "open_roles": 1527,
+  "open_roles": 1526,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2435,7 +2435,7 @@
   "company": "fortrea",
   "board_url": "https://fortrea.wd1.myworkdayjobs.com/Fortrea",
   "api_url": "https://fortrea.wd1.myworkdayjobs.com/wday/cxs/fortrea/Fortrea/jobs",
-  "open_roles": 329,
+  "open_roles": 330,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2585,7 +2585,7 @@
   "company": "genmills",
   "board_url": "https://genmills.wd1.myworkdayjobs.com/GMI_External_Careers",
   "api_url": "https://genmills.wd1.myworkdayjobs.com/wday/cxs/genmills/GMI_External_Careers/jobs",
-  "open_roles": 369,
+  "open_roles": 368,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2615,7 +2615,7 @@
   "company": "georgetown",
   "board_url": "https://georgetown.wd1.myworkdayjobs.com/Georgetown_Admin_Careers",
   "api_url": "https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georgetown/Georgetown_Admin_Careers/jobs",
-  "open_roles": 138,
+  "open_roles": 137,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2635,7 +2635,7 @@
   "company": "ghr",
   "board_url": "https://ghr.wd1.myworkdayjobs.com/Lateral-US",
   "api_url": "https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/Lateral-US/jobs",
-  "open_roles": 1974,
+  "open_roles": 1970,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2685,7 +2685,7 @@
   "company": "globalfoundries",
   "board_url": "https://globalfoundries.wd1.myworkdayjobs.com/External",
   "api_url": "https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs",
-  "open_roles": 755,
+  "open_roles": 754,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2735,7 +2735,7 @@
   "company": "goodwillaz",
   "board_url": "https://goodwillaz.wd1.myworkdayjobs.com/GoodwillAZ",
   "api_url": "https://goodwillaz.wd1.myworkdayjobs.com/wday/cxs/goodwillaz/GoodwillAZ/jobs",
-  "open_roles": 523,
+  "open_roles": 526,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2835,7 +2835,7 @@
   "company": "gvsu",
   "board_url": "https://gvsu.wd1.myworkdayjobs.com/careers",
   "api_url": "https://gvsu.wd1.myworkdayjobs.com/wday/cxs/gvsu/careers/jobs",
-  "open_roles": 29,
+  "open_roles": 28,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2845,7 +2845,7 @@
   "company": "hcsc",
   "board_url": "https://hcsc.wd1.myworkdayjobs.com/HCSC_External",
   "api_url": "https://hcsc.wd1.myworkdayjobs.com/wday/cxs/hcsc/HCSC_External/jobs",
-  "open_roles": 178,
+  "open_roles": 176,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2885,7 +2885,7 @@
   "company": "heinz",
   "board_url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers",
   "api_url": "https://heinz.wd1.myworkdayjobs.com/wday/cxs/heinz/KraftHeinz_Careers/jobs",
-  "open_roles": 904,
+  "open_roles": 903,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2915,7 +2915,7 @@
   "company": "highmarkhealth",
   "board_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark",
   "api_url": "https://highmarkhealth.wd1.myworkdayjobs.com/wday/cxs/highmarkhealth/highmark/jobs",
-  "open_roles": 1923,
+  "open_roles": 1926,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2925,7 +2925,7 @@
   "company": "hitachi",
   "board_url": "https://hitachi.wd1.myworkdayjobs.com/hitachi",
   "api_url": "https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/hitachi/jobs",
-  "open_roles": 4214,
+  "open_roles": 4204,
   "count_basis": "vendor",
   "region": ""
  },
@@ -2995,7 +2995,7 @@
   "company": "hshs",
   "board_url": "https://hshs.wd1.myworkdayjobs.com/hshscareers",
   "api_url": "https://hshs.wd1.myworkdayjobs.com/wday/cxs/hshs/hshscareers/jobs",
-  "open_roles": 424,
+  "open_roles": 423,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3035,7 +3035,7 @@
   "company": "hyvee",
   "board_url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers",
   "api_url": "https://hyvee.wd1.myworkdayjobs.com/wday/cxs/hyvee/HyVeeCareers/jobs",
-  "open_roles": 1845,
+  "open_roles": 1765,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3065,7 +3065,7 @@
   "company": "ingredion",
   "board_url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers",
   "api_url": "https://ingredion.wd1.myworkdayjobs.com/wday/cxs/ingredion/IngredionCareers/jobs",
-  "open_roles": 244,
+  "open_roles": 242,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3105,7 +3105,7 @@
   "company": "intel",
   "board_url": "https://intel.wd1.myworkdayjobs.com/External",
   "api_url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs",
-  "open_roles": 670,
+  "open_roles": 668,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3145,7 +3145,7 @@
   "company": "invesco",
   "board_url": "https://invesco.wd1.myworkdayjobs.com/IVZ",
   "api_url": "https://invesco.wd1.myworkdayjobs.com/wday/cxs/invesco/IVZ/jobs",
-  "open_roles": 236,
+  "open_roles": 232,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3155,7 +3155,7 @@
   "company": "iqvia",
   "board_url": "https://iqvia.wd1.myworkdayjobs.com/IQVIA",
   "api_url": "https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVIA/jobs",
-  "open_roles": 1870,
+  "open_roles": 1866,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3185,7 +3185,7 @@
   "company": "ivytech",
   "board_url": "https://ivytech.wd1.myworkdayjobs.com/Ivy_Tech_Careers",
   "api_url": "https://ivytech.wd1.myworkdayjobs.com/wday/cxs/ivytech/Ivy_Tech_Careers/jobs",
-  "open_roles": 524,
+  "open_roles": 521,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3205,7 +3205,7 @@
   "company": "jcrew",
   "board_url": "https://jcrew.wd1.myworkdayjobs.com/JCrewCareers",
   "api_url": "https://jcrew.wd1.myworkdayjobs.com/wday/cxs/jcrew/JCrewCareers/jobs",
-  "open_roles": 1172,
+  "open_roles": 1174,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3215,7 +3215,7 @@
   "company": "jdgroupnam",
   "board_url": "https://jdgroupnam.wd1.myworkdayjobs.com/HSPRETAIL",
   "api_url": "https://jdgroupnam.wd1.myworkdayjobs.com/wday/cxs/jdgroupnam/HSPRETAIL/jobs",
-  "open_roles": 2132,
+  "open_roles": 2131,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3235,7 +3235,7 @@
   "company": "jll",
   "board_url": "https://jll.wd1.myworkdayjobs.com/jllcareers",
   "api_url": "https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs",
-  "open_roles": 3642,
+  "open_roles": 3621,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3285,7 +3285,7 @@
   "company": "kimberlyclark",
   "board_url": "https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL",
   "api_url": "https://kimberlyclark.wd1.myworkdayjobs.com/wday/cxs/kimberlyclark/GLOBAL/jobs",
-  "open_roles": 156,
+  "open_roles": 155,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3295,7 +3295,7 @@
   "company": "kla",
   "board_url": "https://kla.wd1.myworkdayjobs.com/Search",
   "api_url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs",
-  "open_roles": 1076,
+  "open_roles": 1084,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3305,7 +3305,7 @@
   "company": "labcorp",
   "board_url": "https://labcorp.wd1.myworkdayjobs.com/External",
   "api_url": "https://labcorp.wd1.myworkdayjobs.com/wday/cxs/labcorp/External/jobs",
-  "open_roles": 1784,
+  "open_roles": 1787,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3375,7 +3375,7 @@
   "company": "llbean",
   "board_url": "https://llbean.wd1.myworkdayjobs.com/LLBean_Careers",
   "api_url": "https://llbean.wd1.myworkdayjobs.com/wday/cxs/llbean/LLBean_Careers/jobs",
-  "open_roles": 125,
+  "open_roles": 126,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3415,7 +3415,7 @@
   "company": "lplfinancial",
   "board_url": "https://lplfinancial.wd1.myworkdayjobs.com/External",
   "api_url": "https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lplfinancial/External/jobs",
-  "open_roles": 303,
+  "open_roles": 302,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3425,7 +3425,7 @@
   "company": "lsu",
   "board_url": "https://lsu.wd1.myworkdayjobs.com/LSU",
   "api_url": "https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/LSU/jobs",
-  "open_roles": 292,
+  "open_roles": 290,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3455,7 +3455,7 @@
   "company": "maricopa",
   "board_url": "https://maricopa.wd1.myworkdayjobs.com/MC_External",
   "api_url": "https://maricopa.wd1.myworkdayjobs.com/wday/cxs/maricopa/MC_External/jobs",
-  "open_roles": 80,
+  "open_roles": 76,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3485,7 +3485,7 @@
   "company": "marvell",
   "board_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers",
   "api_url": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs",
-  "open_roles": 299,
+  "open_roles": 300,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3535,7 +3535,7 @@
   "company": "mastercard",
   "board_url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers",
   "api_url": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs",
-  "open_roles": 1111,
+  "open_roles": 1099,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3545,7 +3545,7 @@
   "company": "mattressfirm",
   "board_url": "https://mattressfirm.wd1.myworkdayjobs.com/mattressfirmcareers",
   "api_url": "https://mattressfirm.wd1.myworkdayjobs.com/wday/cxs/mattressfirm/mattressfirmcareers/jobs",
-  "open_roles": 229,
+  "open_roles": 228,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3555,7 +3555,7 @@
   "company": "mavenir",
   "board_url": "https://mavenir.wd1.myworkdayjobs.com/Mavenir_Careers",
   "api_url": "https://mavenir.wd1.myworkdayjobs.com/wday/cxs/mavenir/Mavenir_Careers/jobs",
-  "open_roles": 16,
+  "open_roles": 14,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3565,7 +3565,7 @@
   "company": "maxar",
   "board_url": "https://maxar.wd1.myworkdayjobs.com/Vantor",
   "api_url": "https://maxar.wd1.myworkdayjobs.com/wday/cxs/maxar/Vantor/jobs",
-  "open_roles": 140,
+  "open_roles": 141,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3595,7 +3595,7 @@
   "company": "medtronic",
   "board_url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers",
   "api_url": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs",
-  "open_roles": 1071,
+  "open_roles": 1064,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3635,7 +3635,7 @@
   "company": "methodisthealthsystem",
   "board_url": "https://methodisthealthsystem.wd1.myworkdayjobs.com/MHS_Careers",
   "api_url": "https://methodisthealthsystem.wd1.myworkdayjobs.com/wday/cxs/methodisthealthsystem/MHS_Careers/jobs",
-  "open_roles": 757,
+  "open_roles": 756,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3645,7 +3645,7 @@
   "company": "micron",
   "board_url": "https://micron.wd1.myworkdayjobs.com/External",
   "api_url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs",
-  "open_roles": 3106,
+  "open_roles": 3102,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3675,7 +3675,7 @@
   "company": "mines",
   "board_url": "https://mines.wd1.myworkdayjobs.com/Mines_Careers",
   "api_url": "https://mines.wd1.myworkdayjobs.com/wday/cxs/mines/Mines_Careers/jobs",
-  "open_roles": 28,
+  "open_roles": 27,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3705,7 +3705,7 @@
   "company": "mmc",
   "board_url": "https://mmc.wd1.myworkdayjobs.com/mmc",
   "api_url": "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/mmc/jobs",
-  "open_roles": 1957,
+  "open_roles": 1951,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3845,7 +3845,7 @@
   "company": "nascar",
   "board_url": "https://nascar.wd1.myworkdayjobs.com/NASCAR",
   "api_url": "https://nascar.wd1.myworkdayjobs.com/wday/cxs/nascar/NASCAR/jobs",
-  "open_roles": 112,
+  "open_roles": 108,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3875,7 +3875,7 @@
   "company": "nb",
   "board_url": "https://nb.wd1.myworkdayjobs.com/NBCareers",
   "api_url": "https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/jobs",
-  "open_roles": 85,
+  "open_roles": 86,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3955,7 +3955,7 @@
   "company": "ngc",
   "board_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site",
   "api_url": "https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs",
-  "open_roles": 3743,
+  "open_roles": 3723,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3965,7 +3965,7 @@
   "company": "nike",
   "board_url": "https://nike.wd1.myworkdayjobs.com/nke",
   "api_url": "https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs",
-  "open_roles": 832,
+  "open_roles": 815,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3975,7 +3975,7 @@
   "company": "nike",
   "board_url": "https://nike.wd1.myworkdayjobs.com/nke2",
   "api_url": "https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke2/jobs",
-  "open_roles": 453,
+  "open_roles": 461,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3985,7 +3985,7 @@
   "company": "nisource",
   "board_url": "https://nisource.wd1.myworkdayjobs.com/NiSource",
   "api_url": "https://nisource.wd1.myworkdayjobs.com/wday/cxs/nisource/NiSource/jobs",
-  "open_roles": 39,
+  "open_roles": 40,
   "count_basis": "vendor",
   "region": ""
  },
@@ -3995,7 +3995,7 @@
   "company": "ntrs",
   "board_url": "https://ntrs.wd1.myworkdayjobs.com/northerntrust",
   "api_url": "https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
-  "open_roles": 585,
+  "open_roles": 590,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4025,7 +4025,7 @@
   "company": "osu",
   "board_url": "https://osu.wd1.myworkdayjobs.com/OSUCareers",
   "api_url": "https://osu.wd1.myworkdayjobs.com/wday/cxs/osu/OSUCareers/jobs",
-  "open_roles": 1073,
+  "open_roles": 1071,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4055,7 +4055,7 @@
   "company": "pae",
   "board_url": "https://pae.wd1.myworkdayjobs.com/amentum_careers",
   "api_url": "https://pae.wd1.myworkdayjobs.com/wday/cxs/pae/amentum_careers/jobs",
-  "open_roles": 2765,
+  "open_roles": 2759,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4115,7 +4115,7 @@
   "company": "pfizer",
   "board_url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
   "api_url": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs",
-  "open_roles": 590,
+  "open_roles": 582,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4185,7 +4185,7 @@
   "company": "priceline",
   "board_url": "https://priceline.wd1.myworkdayjobs.com/bookingholdings",
   "api_url": "https://priceline.wd1.myworkdayjobs.com/wday/cxs/priceline/bookingholdings/jobs",
-  "open_roles": 20,
+  "open_roles": 21,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4275,7 +4275,7 @@
   "company": "raymondjames",
   "board_url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers",
   "api_url": "https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs",
-  "open_roles": 317,
+  "open_roles": 316,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4295,7 +4295,7 @@
   "company": "regalrexnord",
   "board_url": "https://regalrexnord.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://regalrexnord.wd1.myworkdayjobs.com/wday/cxs/regalrexnord/Careers/jobs",
-  "open_roles": 525,
+  "open_roles": 524,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4305,7 +4305,7 @@
   "company": "regeneron",
   "board_url": "https://regeneron.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://regeneron.wd1.myworkdayjobs.com/wday/cxs/regeneron/Careers/jobs",
-  "open_roles": 546,
+  "open_roles": 547,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4365,7 +4365,7 @@
   "company": "rockwellautomation",
   "board_url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation",
   "api_url": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs",
-  "open_roles": 388,
+  "open_roles": 387,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4395,7 +4395,7 @@
   "company": "rsm",
   "board_url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers",
   "api_url": "https://rsm.wd1.myworkdayjobs.com/wday/cxs/rsm/RSMCareers/jobs",
-  "open_roles": 673,
+  "open_roles": 674,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4405,7 +4405,7 @@
   "company": "ryan",
   "board_url": "https://ryan.wd1.myworkdayjobs.com/ryancareers",
   "api_url": "https://ryan.wd1.myworkdayjobs.com/wday/cxs/ryan/ryancareers/jobs",
-  "open_roles": 184,
+  "open_roles": 183,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4435,7 +4435,7 @@
   "company": "sbdinc",
   "board_url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site",
   "api_url": "https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/Stanley_Black_Decker_Career_Site/jobs",
-  "open_roles": 645,
+  "open_roles": 644,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4445,7 +4445,7 @@
   "company": "sedgwick",
   "board_url": "https://sedgwick.wd1.myworkdayjobs.com/Sedgwick",
   "api_url": "https://sedgwick.wd1.myworkdayjobs.com/wday/cxs/sedgwick/Sedgwick/jobs",
-  "open_roles": 592,
+  "open_roles": 590,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4455,7 +4455,7 @@
   "company": "selinc",
   "board_url": "https://selinc.wd1.myworkdayjobs.com/SEL",
   "api_url": "https://selinc.wd1.myworkdayjobs.com/wday/cxs/selinc/SEL/jobs",
-  "open_roles": 319,
+  "open_roles": 318,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4535,7 +4535,7 @@
   "company": "signetjewelers",
   "board_url": "https://signetjewelers.wd1.myworkdayjobs.com/signetjeweleryretailsales",
   "api_url": "https://signetjewelers.wd1.myworkdayjobs.com/wday/cxs/signetjewelers/signetjeweleryretailsales/jobs",
-  "open_roles": 1620,
+  "open_roles": 1617,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4545,7 +4545,7 @@
   "company": "silabs",
   "board_url": "https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers",
   "api_url": "https://silabs.wd1.myworkdayjobs.com/wday/cxs/silabs/SiliconlabsCareers/jobs",
-  "open_roles": 90,
+  "open_roles": 89,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4565,7 +4565,7 @@
   "company": "simon",
   "board_url": "https://simon.wd1.myworkdayjobs.com/Simon",
   "api_url": "https://simon.wd1.myworkdayjobs.com/wday/cxs/simon/Simon/jobs",
-  "open_roles": 172,
+  "open_roles": 173,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4635,7 +4635,7 @@
   "company": "snc",
   "board_url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site",
   "api_url": "https://snc.wd1.myworkdayjobs.com/wday/cxs/snc/SNC_External_Career_Site/jobs",
-  "open_roles": 383,
+  "open_roles": 382,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4645,7 +4645,7 @@
   "company": "solenis",
   "board_url": "https://solenis.wd1.myworkdayjobs.com/Solenis",
   "api_url": "https://solenis.wd1.myworkdayjobs.com/wday/cxs/solenis/Solenis/jobs",
-  "open_roles": 442,
+  "open_roles": 440,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4675,7 +4675,7 @@
   "company": "sonos",
   "board_url": "https://sonos.wd1.myworkdayjobs.com/Sonos",
   "api_url": "https://sonos.wd1.myworkdayjobs.com/wday/cxs/sonos/Sonos/jobs",
-  "open_roles": 53,
+  "open_roles": 54,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4725,7 +4725,7 @@
   "company": "standard",
   "board_url": "https://standard.wd1.myworkdayjobs.com/Search",
   "api_url": "https://standard.wd1.myworkdayjobs.com/wday/cxs/standard/Search/jobs",
-  "open_roles": 28,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4755,7 +4755,7 @@
   "company": "statestreet",
   "board_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
   "api_url": "https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
-  "open_roles": 1114,
+  "open_roles": 1103,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4815,7 +4815,7 @@
   "company": "stryker",
   "board_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
   "api_url": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs",
-  "open_roles": 1484,
+  "open_roles": 1482,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4845,7 +4845,7 @@
   "company": "swinerton",
   "board_url": "https://swinerton.wd1.myworkdayjobs.com/Swinerton_External_Career",
   "api_url": "https://swinerton.wd1.myworkdayjobs.com/wday/cxs/swinerton/Swinerton_External_Career/jobs",
-  "open_roles": 229,
+  "open_roles": 230,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4855,7 +4855,7 @@
   "company": "synechron",
   "board_url": "https://synechron.wd1.myworkdayjobs.com/SynechronCareers",
   "api_url": "https://synechron.wd1.myworkdayjobs.com/wday/cxs/synechron/SynechronCareers/jobs",
-  "open_roles": 178,
+  "open_roles": 177,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4885,7 +4885,7 @@
   "company": "taskus",
   "board_url": "https://taskus.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://taskus.wd1.myworkdayjobs.com/wday/cxs/taskus/Careers/jobs",
-  "open_roles": 421,
+  "open_roles": 423,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4935,7 +4935,7 @@
   "company": "tencent",
   "board_url": "https://tencent.wd1.myworkdayjobs.com/tencent_careers",
   "api_url": "https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/tencent_careers/jobs",
-  "open_roles": 292,
+  "open_roles": 293,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4955,7 +4955,7 @@
   "company": "theirc",
   "board_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers",
   "api_url": "https://theirc.wd1.myworkdayjobs.com/wday/cxs/theirc/External_Careers/jobs",
-  "open_roles": 322,
+  "open_roles": 321,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4965,7 +4965,7 @@
   "company": "tiaa",
   "board_url": "https://tiaa.wd1.myworkdayjobs.com/Search",
   "api_url": "https://tiaa.wd1.myworkdayjobs.com/wday/cxs/tiaa/Search/jobs",
-  "open_roles": 188,
+  "open_roles": 186,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4985,7 +4985,7 @@
   "company": "tjx",
   "board_url": "https://tjx.wd1.myworkdayjobs.com/TJX_EXTERNAL",
   "api_url": "https://tjx.wd1.myworkdayjobs.com/wday/cxs/tjx/TJX_EXTERNAL/jobs",
-  "open_roles": 11050,
+  "open_roles": 11069,
   "count_basis": "vendor",
   "region": ""
  },
@@ -4995,7 +4995,7 @@
   "company": "tmobile",
   "board_url": "https://tmobile.wd1.myworkdayjobs.com/External",
   "api_url": "https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs",
-  "open_roles": 2603,
+  "open_roles": 2620,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5005,7 +5005,7 @@
   "company": "toryburch",
   "board_url": "https://toryburch.wd1.myworkdayjobs.com/toryburchcareers",
   "api_url": "https://toryburch.wd1.myworkdayjobs.com/wday/cxs/toryburch/toryburchcareers/jobs",
-  "open_roles": 496,
+  "open_roles": 502,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5035,7 +5035,7 @@
   "company": "trimble",
   "board_url": "https://trimble.wd1.myworkdayjobs.com/TrimbleCareers",
   "api_url": "https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/TrimbleCareers/jobs",
-  "open_roles": 211,
+  "open_roles": 210,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5045,7 +5045,7 @@
   "company": "truist",
   "board_url": "https://truist.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs",
-  "open_roles": 1527,
+  "open_roles": 1524,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5055,7 +5055,7 @@
   "company": "tsys",
   "board_url": "https://tsys.wd1.myworkdayjobs.com/TSYS",
   "api_url": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs",
-  "open_roles": 364,
+  "open_roles": 362,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5075,7 +5075,7 @@
   "company": "uhaul",
   "board_url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs",
   "api_url": "https://uhaul.wd1.myworkdayjobs.com/wday/cxs/uhaul/UhaulJobs/jobs",
-  "open_roles": 3000,
+  "open_roles": 2998,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5095,7 +5095,7 @@
   "company": "ulsuno",
   "board_url": "https://ulsuno.wd1.myworkdayjobs.com/UniversityOfNewOrleans",
   "api_url": "https://ulsuno.wd1.myworkdayjobs.com/wday/cxs/ulsuno/UniversityOfNewOrleans/jobs",
-  "open_roles": 96,
+  "open_roles": 95,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5125,7 +5125,7 @@
   "company": "umiami",
   "board_url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff",
   "api_url": "https://umiami.wd1.myworkdayjobs.com/wday/cxs/umiami/UMCareerStaff/jobs",
-  "open_roles": 1743,
+  "open_roles": 1745,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5135,7 +5135,7 @@
   "company": "ummh",
   "board_url": "https://ummh.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://ummh.wd1.myworkdayjobs.com/wday/cxs/ummh/Careers/jobs",
-  "open_roles": 1090,
+  "open_roles": 1089,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5175,7 +5175,7 @@
   "company": "usaa",
   "board_url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD",
   "api_url": "https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs",
-  "open_roles": 211,
+  "open_roles": 207,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5185,7 +5185,7 @@
   "company": "usbank",
   "board_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers",
   "api_url": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
-  "open_roles": 1261,
+  "open_roles": 1243,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5195,7 +5195,7 @@
   "company": "usfoods",
   "board_url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal",
   "api_url": "https://usfoods.wd1.myworkdayjobs.com/wday/cxs/usfoods/usfoodscareersExternal/jobs",
-  "open_roles": 648,
+  "open_roles": 646,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5285,7 +5285,7 @@
   "company": "virtua",
   "board_url": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site",
   "api_url": "https://virtua.wd1.myworkdayjobs.com/wday/cxs/virtua/Virtua_Health_External_Career_Site/jobs",
-  "open_roles": 726,
+  "open_roles": 727,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5295,7 +5295,7 @@
   "company": "vizient",
   "board_url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers",
   "api_url": "https://vizient.wd1.myworkdayjobs.com/wday/cxs/vizient/Vizient_Careers/jobs",
-  "open_roles": 237,
+  "open_roles": 236,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5315,7 +5315,7 @@
   "company": "vumc",
   "board_url": "https://vumc.wd1.myworkdayjobs.com/vumccareers",
   "api_url": "https://vumc.wd1.myworkdayjobs.com/wday/cxs/vumc/vumccareers/jobs",
-  "open_roles": 846,
+  "open_roles": 863,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5325,7 +5325,7 @@
   "company": "vwr",
   "board_url": "https://vwr.wd1.myworkdayjobs.com/avantorJobs",
   "api_url": "https://vwr.wd1.myworkdayjobs.com/wday/cxs/vwr/avantorJobs/jobs",
-  "open_roles": 274,
+  "open_roles": 265,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5345,7 +5345,7 @@
   "company": "wasteconnections",
   "board_url": "https://wasteconnections.wd1.myworkdayjobs.com/Careers",
   "api_url": "https://wasteconnections.wd1.myworkdayjobs.com/wday/cxs/wasteconnections/Careers/jobs",
-  "open_roles": 687,
+  "open_roles": 685,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5405,7 +5405,7 @@
   "company": "wellstar",
   "board_url": "https://wellstar.wd1.myworkdayjobs.com/wellstarcareers",
   "api_url": "https://wellstar.wd1.myworkdayjobs.com/wday/cxs/wellstar/wellstarcareers/jobs",
-  "open_roles": 1006,
+  "open_roles": 1007,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5415,7 +5415,7 @@
   "company": "wf",
   "board_url": "https://wf.wd1.myworkdayjobs.com/wellsfargojobs",
   "api_url": "https://wf.wd1.myworkdayjobs.com/wday/cxs/wf/wellsfargojobs/jobs",
-  "open_roles": 1547,
+  "open_roles": 1494,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5445,7 +5445,7 @@
   "company": "wisconsin",
   "board_url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison",
   "api_url": "https://wisconsin.wd1.myworkdayjobs.com/wday/cxs/wisconsin/UW_Madison/jobs",
-  "open_roles": 330,
+  "open_roles": 329,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5465,7 +5465,7 @@
   "company": "wmeimg",
   "board_url": "https://wmeimg.wd1.myworkdayjobs.com/WME",
   "api_url": "https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/WME/jobs",
-  "open_roles": 45,
+  "open_roles": 44,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5495,7 +5495,7 @@
   "company": "worldvision",
   "board_url": "https://worldvision.wd1.myworkdayjobs.com/WorldVisionInternational",
   "api_url": "https://worldvision.wd1.myworkdayjobs.com/wday/cxs/worldvision/WorldVisionInternational/jobs",
-  "open_roles": 307,
+  "open_roles": 306,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5515,7 +5515,7 @@
   "company": "wvumedicine",
   "board_url": "https://wvumedicine.wd1.myworkdayjobs.com/WVUH",
   "api_url": "https://wvumedicine.wd1.myworkdayjobs.com/wday/cxs/wvumedicine/WVUH/jobs",
-  "open_roles": 3201,
+  "open_roles": 3203,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5535,7 +5535,7 @@
   "company": "xcelenergy",
   "board_url": "https://xcelenergy.wd1.myworkdayjobs.com/External",
   "api_url": "https://xcelenergy.wd1.myworkdayjobs.com/wday/cxs/xcelenergy/External/jobs",
-  "open_roles": 247,
+  "open_roles": 245,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5565,7 +5565,7 @@
   "company": "agecare",
   "board_url": "https://agecare.wd10.myworkdayjobs.com/AgeCare_Careers_External",
   "api_url": "https://agecare.wd10.myworkdayjobs.com/wday/cxs/agecare/AgeCare_Careers_External/jobs",
-  "open_roles": 735,
+  "open_roles": 732,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5615,7 +5615,7 @@
   "company": "consignaction",
   "board_url": "https://consignaction.wd10.myworkdayjobs.com/Consignaction_carrieres",
   "api_url": "https://consignaction.wd10.myworkdayjobs.com/wday/cxs/consignaction/Consignaction_carrieres/jobs",
-  "open_roles": 246,
+  "open_roles": 245,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5635,7 +5635,7 @@
   "company": "extendicare",
   "board_url": "https://extendicare.wd10.myworkdayjobs.com/Extendicare2023",
   "api_url": "https://extendicare.wd10.myworkdayjobs.com/wday/cxs/extendicare/Extendicare2023/jobs",
-  "open_roles": 467,
+  "open_roles": 462,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5665,7 +5665,7 @@
   "company": "navcanada",
   "board_url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers",
   "api_url": "https://navcanada.wd10.myworkdayjobs.com/wday/cxs/navcanada/NAV_Careers/jobs",
-  "open_roles": 29,
+  "open_roles": 28,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5715,7 +5715,7 @@
   "company": "simons",
   "board_url": "https://simons.wd10.myworkdayjobs.com/Simons_Site",
   "api_url": "https://simons.wd10.myworkdayjobs.com/wday/cxs/simons/Simons_Site/jobs",
-  "open_roles": 70,
+  "open_roles": 71,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5765,7 +5765,7 @@
   "company": "acquireai",
   "board_url": "https://acquireai.wd102.myworkdayjobs.com/Acquire",
   "api_url": "https://acquireai.wd102.myworkdayjobs.com/wday/cxs/acquireai/Acquire/jobs",
-  "open_roles": 118,
+  "open_roles": 117,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5775,7 +5775,7 @@
   "company": "jiostar",
   "board_url": "https://jiostar.wd102.myworkdayjobs.com/JioStar",
   "api_url": "https://jiostar.wd102.myworkdayjobs.com/wday/cxs/jiostar/JioStar/jobs",
-  "open_roles": 239,
+  "open_roles": 237,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5795,7 +5795,7 @@
   "company": "minor",
   "board_url": "https://minor.wd102.myworkdayjobs.com/Careers",
   "api_url": "https://minor.wd102.myworkdayjobs.com/wday/cxs/minor/Careers/jobs",
-  "open_roles": 2274,
+  "open_roles": 2288,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5805,7 +5805,7 @@
   "company": "sggovterp",
   "board_url": "https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers",
   "api_url": "https://sggovterp.wd102.myworkdayjobs.com/wday/cxs/sggovterp/PublicServiceCareers/jobs",
-  "open_roles": 1062,
+  "open_roles": 1067,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5825,8 +5825,8 @@
   "company": "accenture",
   "board_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
   "api_url": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs",
-  "open_roles": 1990,
-  "count_basis": "vendor",
+  "open_roles": 2000,
+  "count_basis": "vendor-ceiling",
   "region": ""
  },
  {
@@ -5865,7 +5865,7 @@
   "company": "asda",
   "board_url": "https://asda.wd103.myworkdayjobs.com/AsdaJobs",
   "api_url": "https://asda.wd103.myworkdayjobs.com/wday/cxs/asda/AsdaJobs/jobs",
-  "open_roles": 485,
+  "open_roles": 486,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5925,7 +5925,7 @@
   "company": "corpay",
   "board_url": "https://corpay.wd103.myworkdayjobs.com/Ext_001",
   "api_url": "https://corpay.wd103.myworkdayjobs.com/wday/cxs/corpay/Ext_001/jobs",
-  "open_roles": 113,
+  "open_roles": 111,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5955,7 +5955,7 @@
   "company": "dover",
   "board_url": "https://dover.wd103.myworkdayjobs.com/Dover",
   "api_url": "https://dover.wd103.myworkdayjobs.com/wday/cxs/dover/Dover/jobs",
-  "open_roles": 667,
+  "open_roles": 665,
   "count_basis": "vendor",
   "region": ""
  },
@@ -5995,7 +5995,7 @@
   "company": "europcar",
   "board_url": "https://europcar.wd103.myworkdayjobs.com/EuropcarCareerPage",
   "api_url": "https://europcar.wd103.myworkdayjobs.com/wday/cxs/europcar/EuropcarCareerPage/jobs",
-  "open_roles": 616,
+  "open_roles": 615,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6085,7 +6085,7 @@
   "company": "howdenjoinerylimited",
   "board_url": "https://howdenjoinerylimited.wd103.myworkdayjobs.com/howdenscareers",
   "api_url": "https://howdenjoinerylimited.wd103.myworkdayjobs.com/wday/cxs/howdenjoinerylimited/howdenscareers/jobs",
-  "open_roles": 57,
+  "open_roles": 53,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6095,7 +6095,7 @@
   "company": "hull",
   "board_url": "https://hull.wd103.myworkdayjobs.com/HCC",
   "api_url": "https://hull.wd103.myworkdayjobs.com/wday/cxs/hull/HCC/jobs",
-  "open_roles": 34,
+  "open_roles": 32,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6125,7 +6125,7 @@
   "company": "lego",
   "board_url": "https://lego.wd103.myworkdayjobs.com/LEGO_External",
   "api_url": "https://lego.wd103.myworkdayjobs.com/wday/cxs/lego/LEGO_External/jobs",
-  "open_roles": 508,
+  "open_roles": 503,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6265,7 +6265,7 @@
   "company": "uoh",
   "board_url": "https://uoh.wd103.myworkdayjobs.com/University_of_Hull_Careers",
   "api_url": "https://uoh.wd103.myworkdayjobs.com/wday/cxs/uoh/University_of_Hull_Careers/jobs",
-  "open_roles": 9,
+  "open_roles": 8,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6275,7 +6275,7 @@
   "company": "upm",
   "board_url": "https://upm.wd103.myworkdayjobs.com/Careers",
   "api_url": "https://upm.wd103.myworkdayjobs.com/wday/cxs/upm/Careers/jobs",
-  "open_roles": 66,
+  "open_roles": 64,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6295,7 +6295,7 @@
   "company": "anglicare",
   "board_url": "https://anglicare.wd105.myworkdayjobs.com/Anglicare_Careers",
   "api_url": "https://anglicare.wd105.myworkdayjobs.com/wday/cxs/anglicare/Anglicare_Careers/jobs",
-  "open_roles": 73,
+  "open_roles": 65,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6315,7 +6315,7 @@
   "company": "ausvenueco",
   "board_url": "https://ausvenueco.wd105.myworkdayjobs.com/AVC",
   "api_url": "https://ausvenueco.wd105.myworkdayjobs.com/wday/cxs/ausvenueco/AVC/jobs",
-  "open_roles": 173,
+  "open_roles": 174,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6495,7 +6495,7 @@
   "company": "bannerhealth",
   "board_url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers",
   "api_url": "https://bannerhealth.wd108.myworkdayjobs.com/wday/cxs/bannerhealth/Careers/jobs",
-  "open_roles": 1311,
+  "open_roles": 1308,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6505,7 +6505,7 @@
   "company": "brookshires",
   "board_url": "https://brookshires.wd108.myworkdayjobs.com/BGC",
   "api_url": "https://brookshires.wd108.myworkdayjobs.com/wday/cxs/brookshires/BGC/jobs",
-  "open_roles": 1834,
+  "open_roles": 1829,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6515,7 +6515,7 @@
   "company": "childrensnational",
   "board_url": "https://childrensnational.wd108.myworkdayjobs.com/CN_Careers",
   "api_url": "https://childrensnational.wd108.myworkdayjobs.com/wday/cxs/childrensnational/CN_Careers/jobs",
-  "open_roles": 393,
+  "open_roles": 394,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6525,7 +6525,7 @@
   "company": "csdautismservices",
   "board_url": "https://csdautismservices.wd108.myworkdayjobs.com/CSD_Careers",
   "api_url": "https://csdautismservices.wd108.myworkdayjobs.com/wday/cxs/csdautismservices/CSD_Careers/jobs",
-  "open_roles": 277,
+  "open_roles": 275,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6545,7 +6545,7 @@
   "company": "expedia",
   "board_url": "https://expedia.wd108.myworkdayjobs.com/search",
   "api_url": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs",
-  "open_roles": 163,
+  "open_roles": 160,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6555,7 +6555,7 @@
   "company": "expresswashconcepts",
   "board_url": "https://expresswashconcepts.wd108.myworkdayjobs.com/Express_Wash_Concepts_External_Careers",
   "api_url": "https://expresswashconcepts.wd108.myworkdayjobs.com/wday/cxs/expresswashconcepts/Express_Wash_Concepts_External_Careers/jobs",
-  "open_roles": 155,
+  "open_roles": 151,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6565,7 +6565,7 @@
   "company": "factset",
   "board_url": "https://factset.wd108.myworkdayjobs.com/factsetcareers",
   "api_url": "https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/factsetcareers/jobs",
-  "open_roles": 94,
+  "open_roles": 93,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6585,7 +6585,7 @@
   "company": "imh",
   "board_url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
   "api_url": "https://imh.wd108.myworkdayjobs.com/wday/cxs/imh/IntermountainCareers/jobs",
-  "open_roles": 1476,
+  "open_roles": 1449,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6645,7 +6645,7 @@
   "company": "nature",
   "board_url": "https://nature.wd108.myworkdayjobs.com/ExternalCareers",
   "api_url": "https://nature.wd108.myworkdayjobs.com/wday/cxs/nature/ExternalCareers/jobs",
-  "open_roles": 72,
+  "open_roles": 73,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6655,7 +6655,7 @@
   "company": "nc",
   "board_url": "https://nc.wd108.myworkdayjobs.com/NC_Careers",
   "api_url": "https://nc.wd108.myworkdayjobs.com/wday/cxs/nc/NC_Careers/jobs",
-  "open_roles": 819,
+  "open_roles": 816,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6675,7 +6675,7 @@
   "company": "nclh",
   "board_url": "https://nclh.wd108.myworkdayjobs.com/nclh_careers",
   "api_url": "https://nclh.wd108.myworkdayjobs.com/wday/cxs/nclh/nclh_careers/jobs",
-  "open_roles": 18,
+  "open_roles": 17,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6805,7 +6805,7 @@
   "company": "weis",
   "board_url": "https://weis.wd108.myworkdayjobs.com/Careers",
   "api_url": "https://weis.wd108.myworkdayjobs.com/wday/cxs/weis/Careers/jobs",
-  "open_roles": 975,
+  "open_roles": 972,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6845,7 +6845,7 @@
   "company": "lilly",
   "board_url": "https://lilly.wd115.myworkdayjobs.com/LLY",
   "api_url": "https://lilly.wd115.myworkdayjobs.com/wday/cxs/lilly/LLY/jobs",
-  "open_roles": 701,
+  "open_roles": 705,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6865,7 +6865,7 @@
   "company": "mypath",
   "board_url": "https://mypath.wd115.myworkdayjobs.com/mypathcareers",
   "api_url": "https://mypath.wd115.myworkdayjobs.com/wday/cxs/mypath/mypathcareers/jobs",
-  "open_roles": 101,
+  "open_roles": 100,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6875,7 +6875,7 @@
   "company": "saintfrancis",
   "board_url": "https://saintfrancis.wd115.myworkdayjobs.com/External",
   "api_url": "https://saintfrancis.wd115.myworkdayjobs.com/wday/cxs/saintfrancis/External/jobs",
-  "open_roles": 571,
+  "open_roles": 572,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6885,7 +6885,7 @@
   "company": "scripps",
   "board_url": "https://scripps.wd115.myworkdayjobs.com/Scripps_Careers",
   "api_url": "https://scripps.wd115.myworkdayjobs.com/wday/cxs/scripps/Scripps_Careers/jobs",
-  "open_roles": 65,
+  "open_roles": 64,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6905,7 +6905,7 @@
   "company": "adventhealth",
   "board_url": "https://adventhealth.wd12.myworkdayjobs.com/AH_External_Career_Site",
   "api_url": "https://adventhealth.wd12.myworkdayjobs.com/wday/cxs/adventhealth/AH_External_Career_Site/jobs",
-  "open_roles": 4138,
+  "open_roles": 4103,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6955,7 +6955,7 @@
   "company": "arcis",
   "board_url": "https://arcis.wd12.myworkdayjobs.com/extNa",
   "api_url": "https://arcis.wd12.myworkdayjobs.com/wday/cxs/arcis/extNa/jobs",
-  "open_roles": 488,
+  "open_roles": 491,
   "count_basis": "vendor",
   "region": ""
  },
@@ -6985,7 +6985,7 @@
   "company": "brownhealth",
   "board_url": "https://brownhealth.wd12.myworkdayjobs.com/External_Careers",
   "api_url": "https://brownhealth.wd12.myworkdayjobs.com/wday/cxs/brownhealth/External_Careers/jobs",
-  "open_roles": 1527,
+  "open_roles": 1526,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7005,7 +7005,7 @@
   "company": "capitalone",
   "board_url": "https://capitalone.wd12.myworkdayjobs.com/capital_one",
   "api_url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/capital_one/jobs",
-  "open_roles": 1958,
+  "open_roles": 1957,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7015,7 +7015,7 @@
   "company": "carilionclinic",
   "board_url": "https://carilionclinic.wd12.myworkdayjobs.com/External_Careers",
   "api_url": "https://carilionclinic.wd12.myworkdayjobs.com/wday/cxs/carilionclinic/External_Careers/jobs",
-  "open_roles": 385,
+  "open_roles": 381,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7025,7 +7025,7 @@
   "company": "cars",
   "board_url": "https://cars.wd12.myworkdayjobs.com/cars",
   "api_url": "https://cars.wd12.myworkdayjobs.com/wday/cxs/cars/cars/jobs",
-  "open_roles": 30,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7065,7 +7065,7 @@
   "company": "crowe",
   "board_url": "https://crowe.wd12.myworkdayjobs.com/external_careers",
   "api_url": "https://crowe.wd12.myworkdayjobs.com/wday/cxs/crowe/external_careers/jobs",
-  "open_roles": 183,
+  "open_roles": 181,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7075,7 +7075,7 @@
   "company": "csusystem",
   "board_url": "https://csusystem.wd12.myworkdayjobs.com/fortcollins_careers",
   "api_url": "https://csusystem.wd12.myworkdayjobs.com/wday/cxs/csusystem/fortcollins_careers/jobs",
-  "open_roles": 285,
+  "open_roles": 284,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7145,7 +7145,7 @@
   "company": "honorhealth",
   "board_url": "https://honorhealth.wd12.myworkdayjobs.com/HonorHealth_careers",
   "api_url": "https://honorhealth.wd12.myworkdayjobs.com/wday/cxs/honorhealth/HonorHealth_careers/jobs",
-  "open_roles": 527,
+  "open_roles": 525,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7155,7 +7155,7 @@
   "company": "huntington",
   "board_url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers",
   "api_url": "https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/HNBcareers/jobs",
-  "open_roles": 685,
+  "open_roles": 683,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7225,7 +7225,7 @@
   "company": "monolithicpower",
   "board_url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers",
   "api_url": "https://monolithicpower.wd12.myworkdayjobs.com/wday/cxs/monolithicpower/MPS_Careers/jobs",
-  "open_roles": 235,
+  "open_roles": 234,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7255,7 +7255,7 @@
   "company": "nwis",
   "board_url": "https://nwis.wd12.myworkdayjobs.com/NW",
   "api_url": "https://nwis.wd12.myworkdayjobs.com/wday/cxs/nwis/NW/jobs",
-  "open_roles": 358,
+  "open_roles": 359,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7265,7 +7265,7 @@
   "company": "promedica",
   "board_url": "https://promedica.wd12.myworkdayjobs.com/external_careers",
   "api_url": "https://promedica.wd12.myworkdayjobs.com/wday/cxs/promedica/external_careers/jobs",
-  "open_roles": 527,
+  "open_roles": 526,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7295,7 +7295,7 @@
   "company": "salesforce",
   "board_url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
   "api_url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/external_career_site/jobs",
-  "open_roles": 1535,
+  "open_roles": 1534,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7335,7 +7335,7 @@
   "company": "sunriseseniorliving",
   "board_url": "https://sunriseseniorliving.wd12.myworkdayjobs.com/SUNRISE_EXT_CAREERS",
   "api_url": "https://sunriseseniorliving.wd12.myworkdayjobs.com/wday/cxs/sunriseseniorliving/SUNRISE_EXT_CAREERS/jobs",
-  "open_roles": 1888,
+  "open_roles": 1886,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7385,7 +7385,7 @@
   "company": "tranetechnologies",
   "board_url": "https://tranetechnologies.wd12.myworkdayjobs.com/Trane_Technologies_Careers",
   "api_url": "https://tranetechnologies.wd12.myworkdayjobs.com/wday/cxs/tranetechnologies/Trane_Technologies_Careers/jobs",
-  "open_roles": 1680,
+  "open_roles": 1679,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7435,7 +7435,7 @@
   "company": "verizon",
   "board_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers",
   "api_url": "https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs",
-  "open_roles": 1132,
+  "open_roles": 1117,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7475,7 +7475,7 @@
   "company": "7eleven",
   "board_url": "https://7eleven.wd3.myworkdayjobs.com/7eleven",
   "api_url": "https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/7eleven/jobs",
-  "open_roles": 63,
+  "open_roles": 62,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7505,7 +7505,7 @@
   "company": "abb",
   "board_url": "https://abb.wd3.myworkdayjobs.com/external_career_page",
   "api_url": "https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external_career_page/jobs",
-  "open_roles": 2298,
+  "open_roles": 2276,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7515,7 +7515,7 @@
   "company": "absa",
   "board_url": "https://absa.wd3.myworkdayjobs.com/ABSAcareersite",
   "api_url": "https://absa.wd3.myworkdayjobs.com/wday/cxs/absa/ABSAcareersite/jobs",
-  "open_roles": 52,
+  "open_roles": 51,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7525,7 +7525,7 @@
   "company": "acciona",
   "board_url": "https://acciona.wd3.myworkdayjobs.com/ACCIONA_Employment_Channel",
   "api_url": "https://acciona.wd3.myworkdayjobs.com/wday/cxs/acciona/ACCIONA_Employment_Channel/jobs",
-  "open_roles": 580,
+  "open_roles": 570,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7535,7 +7535,7 @@
   "company": "adient",
   "board_url": "https://adient.wd3.myworkdayjobs.com/External",
   "api_url": "https://adient.wd3.myworkdayjobs.com/wday/cxs/adient/External/jobs",
-  "open_roles": 185,
+  "open_roles": 184,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7565,7 +7565,7 @@
   "company": "aggreko",
   "board_url": "https://aggreko.wd3.myworkdayjobs.com/Aggreko_Careers_1",
   "api_url": "https://aggreko.wd3.myworkdayjobs.com/wday/cxs/aggreko/Aggreko_Careers_1/jobs",
-  "open_roles": 232,
+  "open_roles": 234,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7625,7 +7625,7 @@
   "company": "alfalaval",
   "board_url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs",
   "api_url": "https://alfalaval.wd3.myworkdayjobs.com/wday/cxs/alfalaval/Alfa_Laval_jobs/jobs",
-  "open_roles": 377,
+  "open_roles": 373,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7635,7 +7635,7 @@
   "company": "aliaxis",
   "board_url": "https://aliaxis.wd3.myworkdayjobs.com/Aliaxis",
   "api_url": "https://aliaxis.wd3.myworkdayjobs.com/wday/cxs/aliaxis/Aliaxis/jobs",
-  "open_roles": 255,
+  "open_roles": 251,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7675,7 +7675,7 @@
   "company": "alliancewd",
   "board_url": "https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers",
   "api_url": "https://alliancewd.wd3.myworkdayjobs.com/wday/cxs/alliancewd/renault-group-careers/jobs",
-  "open_roles": 437,
+  "open_roles": 436,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7745,7 +7745,7 @@
   "company": "astrazeneca",
   "board_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/astrazeneca/Careers/jobs",
-  "open_roles": 1093,
+  "open_roles": 1087,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7755,7 +7755,7 @@
   "company": "averis",
   "board_url": "https://averis.wd3.myworkdayjobs.com/RGE",
   "api_url": "https://averis.wd3.myworkdayjobs.com/wday/cxs/averis/RGE/jobs",
-  "open_roles": 163,
+  "open_roles": 162,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7775,7 +7775,7 @@
   "company": "awg",
   "board_url": "https://awg.wd3.myworkdayjobs.com/AW",
   "api_url": "https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/AW/jobs",
-  "open_roles": 66,
+  "open_roles": 64,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7795,7 +7795,7 @@
   "company": "azelis",
   "board_url": "https://azelis.wd3.myworkdayjobs.com/Azelis_Careers",
   "api_url": "https://azelis.wd3.myworkdayjobs.com/wday/cxs/azelis/Azelis_Careers/jobs",
-  "open_roles": 57,
+  "open_roles": 56,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7805,7 +7805,7 @@
   "company": "barclays",
   "board_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays",
   "api_url": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs",
-  "open_roles": 766,
+  "open_roles": 754,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7835,7 +7835,7 @@
   "company": "bbva",
   "board_url": "https://bbva.wd3.myworkdayjobs.com/BBVA",
   "api_url": "https://bbva.wd3.myworkdayjobs.com/wday/cxs/bbva/BBVA/jobs",
-  "open_roles": 609,
+  "open_roles": 595,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7855,7 +7855,7 @@
   "company": "belron",
   "board_url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers",
   "api_url": "https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Safelite_Careers/jobs",
-  "open_roles": 584,
+  "open_roles": 582,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7875,7 +7875,7 @@
   "company": "bestbuycanada",
   "board_url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career",
   "api_url": "https://bestbuycanada.wd3.myworkdayjobs.com/wday/cxs/bestbuycanada/BestBuyCA_Career/jobs",
-  "open_roles": 150,
+  "open_roles": 144,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7895,7 +7895,7 @@
   "company": "bmo",
   "board_url": "https://bmo.wd3.myworkdayjobs.com/External",
   "api_url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/External/jobs",
-  "open_roles": 926,
+  "open_roles": 923,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7915,7 +7915,7 @@
   "company": "bpinternational",
   "board_url": "https://bpinternational.wd3.myworkdayjobs.com/bpCareers",
   "api_url": "https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/bpinternational/bpCareers/jobs",
-  "open_roles": 310,
+  "open_roles": 307,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7955,7 +7955,7 @@
   "company": "bupa",
   "board_url": "https://bupa.wd3.myworkdayjobs.com/EXT_CAREER",
   "api_url": "https://bupa.wd3.myworkdayjobs.com/wday/cxs/bupa/EXT_CAREER/jobs",
-  "open_roles": 631,
+  "open_roles": 629,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7975,7 +7975,7 @@
   "company": "canadiantirecorporation",
   "board_url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site",
   "api_url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/wday/cxs/canadiantirecorporation/Enterprise_External_Careers_Site/jobs",
-  "open_roles": 127,
+  "open_roles": 124,
   "count_basis": "vendor",
   "region": ""
  },
@@ -7995,7 +7995,7 @@
   "company": "capita",
   "board_url": "https://capita.wd3.myworkdayjobs.com/CapitaGlobal",
   "api_url": "https://capita.wd3.myworkdayjobs.com/wday/cxs/capita/CapitaGlobal/jobs",
-  "open_roles": 98,
+  "open_roles": 97,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8005,7 +8005,7 @@
   "company": "cba",
   "board_url": "https://cba.wd3.myworkdayjobs.com/CommBank_Careers",
   "api_url": "https://cba.wd3.myworkdayjobs.com/wday/cxs/cba/CommBank_Careers/jobs",
-  "open_roles": 168,
+  "open_roles": 161,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8025,7 +8025,7 @@
   "company": "cc",
   "board_url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers",
   "api_url": "https://cc.wd3.myworkdayjobs.com/wday/cxs/cc/ChanelCareers/jobs",
-  "open_roles": 1102,
+  "open_roles": 1100,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8065,7 +8065,7 @@
   "company": "cibc",
   "board_url": "https://cibc.wd3.myworkdayjobs.com/search",
   "api_url": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs",
-  "open_roles": 553,
+  "open_roles": 541,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8075,7 +8075,7 @@
   "company": "cineplex",
   "board_url": "https://cineplex.wd3.myworkdayjobs.com/Cineplex",
   "api_url": "https://cineplex.wd3.myworkdayjobs.com/wday/cxs/cineplex/Cineplex/jobs",
-  "open_roles": 183,
+  "open_roles": 188,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8115,7 +8115,7 @@
   "company": "clio",
   "board_url": "https://clio.wd3.myworkdayjobs.com/ClioCareerSite",
   "api_url": "https://clio.wd3.myworkdayjobs.com/wday/cxs/clio/ClioCareerSite/jobs",
-  "open_roles": 141,
+  "open_roles": 142,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8135,7 +8135,7 @@
   "company": "covestro",
   "board_url": "https://covestro.wd3.myworkdayjobs.com/cov_external",
   "api_url": "https://covestro.wd3.myworkdayjobs.com/wday/cxs/covestro/cov_external/jobs",
-  "open_roles": 186,
+  "open_roles": 190,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8195,7 +8195,7 @@
   "company": "db",
   "board_url": "https://db.wd3.myworkdayjobs.com/DBWebsite",
   "api_url": "https://db.wd3.myworkdayjobs.com/wday/cxs/db/DBWebsite/jobs",
-  "open_roles": 1187,
+  "open_roles": 1185,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8205,7 +8205,7 @@
   "company": "dbs",
   "board_url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
   "api_url": "https://dbs.wd3.myworkdayjobs.com/wday/cxs/dbs/DBS_Careers/jobs",
-  "open_roles": 1426,
+  "open_roles": 1424,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8235,7 +8235,7 @@
   "company": "dentsuaegis",
   "board_url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL",
   "api_url": "https://dentsuaegis.wd3.myworkdayjobs.com/wday/cxs/dentsuaegis/DAN_GLOBAL/jobs",
-  "open_roles": 861,
+  "open_roles": 863,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8245,7 +8245,7 @@
   "company": "diageo",
   "board_url": "https://diageo.wd3.myworkdayjobs.com/Diageo_Careers",
   "api_url": "https://diageo.wd3.myworkdayjobs.com/wday/cxs/diageo/Diageo_Careers/jobs",
-  "open_roles": 278,
+  "open_roles": 275,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8255,7 +8255,7 @@
   "company": "dssmith",
   "board_url": "https://dssmith.wd3.myworkdayjobs.com/careers",
   "api_url": "https://dssmith.wd3.myworkdayjobs.com/wday/cxs/dssmith/careers/jobs",
-  "open_roles": 192,
+  "open_roles": 191,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8265,7 +8265,7 @@
   "company": "dyson",
   "board_url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers",
   "api_url": "https://dyson.wd3.myworkdayjobs.com/wday/cxs/dyson/dyson_careers/jobs",
-  "open_roles": 486,
+  "open_roles": 479,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8395,7 +8395,7 @@
   "company": "ferrovial",
   "board_url": "https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site",
   "api_url": "https://ferrovial.wd3.myworkdayjobs.com/wday/cxs/ferrovial/Ferrovial_Career_Site/jobs",
-  "open_roles": 579,
+  "open_roles": 576,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8435,7 +8435,7 @@
   "company": "firstrand",
   "board_url": "https://firstrand.wd3.myworkdayjobs.com/FRB",
   "api_url": "https://firstrand.wd3.myworkdayjobs.com/wday/cxs/firstrand/FRB/jobs",
-  "open_roles": 167,
+  "open_roles": 161,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8445,7 +8445,7 @@
   "company": "fiskars",
   "board_url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup",
   "api_url": "https://fiskars.wd3.myworkdayjobs.com/wday/cxs/fiskars/FiskarsGroup/jobs",
-  "open_roles": 28,
+  "open_roles": 27,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8465,7 +8465,7 @@
   "company": "fourseasons",
   "board_url": "https://fourseasons.wd3.myworkdayjobs.com/search",
   "api_url": "https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/fourseasons/search/jobs",
-  "open_roles": 1947,
+  "open_roles": 1948,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8505,7 +8505,7 @@
   "company": "fronius",
   "board_url": "https://fronius.wd3.myworkdayjobs.com/Job_Board",
   "api_url": "https://fronius.wd3.myworkdayjobs.com/wday/cxs/fronius/Job_Board/jobs",
-  "open_roles": 132,
+  "open_roles": 133,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8525,7 +8525,7 @@
   "company": "fugro",
   "board_url": "https://fugro.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://fugro.wd3.myworkdayjobs.com/wday/cxs/fugro/Careers/jobs",
-  "open_roles": 136,
+  "open_roles": 138,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8535,7 +8535,7 @@
   "company": "gategroup",
   "board_url": "https://gategroup.wd3.myworkdayjobs.com/GateGroup_External_Careers",
   "api_url": "https://gategroup.wd3.myworkdayjobs.com/wday/cxs/gategroup/GateGroup_External_Careers/jobs",
-  "open_roles": 219,
+  "open_roles": 216,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8545,7 +8545,7 @@
   "company": "gea",
   "board_url": "https://gea.wd3.myworkdayjobs.com/GEACareers",
   "api_url": "https://gea.wd3.myworkdayjobs.com/wday/cxs/gea/GEACareers/jobs",
-  "open_roles": 392,
+  "open_roles": 391,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8555,7 +8555,7 @@
   "company": "gianttiger",
   "board_url": "https://gianttiger.wd3.myworkdayjobs.com/gianttiger",
   "api_url": "https://gianttiger.wd3.myworkdayjobs.com/wday/cxs/gianttiger/gianttiger/jobs",
-  "open_roles": 509,
+  "open_roles": 508,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8585,7 +8585,7 @@
   "company": "gsknch",
   "board_url": "https://gsknch.wd3.myworkdayjobs.com/GSKCareers",
   "api_url": "https://gsknch.wd3.myworkdayjobs.com/wday/cxs/gsknch/GSKCareers/jobs",
-  "open_roles": 349,
+  "open_roles": 343,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8655,7 +8655,7 @@
   "company": "ia",
   "board_url": "https://ia.wd3.myworkdayjobs.com/Professional",
   "api_url": "https://ia.wd3.myworkdayjobs.com/wday/cxs/ia/Professional/jobs",
-  "open_roles": 91,
+  "open_roles": 89,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8665,7 +8665,7 @@
   "company": "iberdrola",
   "board_url": "https://iberdrola.wd3.myworkdayjobs.com/Iberdrola",
   "api_url": "https://iberdrola.wd3.myworkdayjobs.com/wday/cxs/iberdrola/Iberdrola/jobs",
-  "open_roles": 190,
+  "open_roles": 189,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8685,7 +8685,7 @@
   "company": "icon",
   "board_url": "https://icon.wd3.myworkdayjobs.com/broadbean_external",
   "api_url": "https://icon.wd3.myworkdayjobs.com/wday/cxs/icon/broadbean_external/jobs",
-  "open_roles": 912,
+  "open_roles": 908,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8725,7 +8725,7 @@
   "company": "ing",
   "board_url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR",
   "api_url": "https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/ICSGBLCOR/jobs",
-  "open_roles": 751,
+  "open_roles": 750,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8765,7 +8765,7 @@
   "company": "kantar",
   "board_url": "https://kantar.wd3.myworkdayjobs.com/KANTAR",
   "api_url": "https://kantar.wd3.myworkdayjobs.com/wday/cxs/kantar/KANTAR/jobs",
-  "open_roles": 38,
+  "open_roles": 35,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8795,7 +8795,7 @@
   "company": "kiongroup",
   "board_url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup",
   "api_url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/KIONGroup/jobs",
-  "open_roles": 1010,
+  "open_roles": 1008,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8835,7 +8835,7 @@
   "company": "lbg",
   "board_url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers",
   "api_url": "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs",
-  "open_roles": 86,
+  "open_roles": 82,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8845,7 +8845,7 @@
   "company": "leonardocompany",
   "board_url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite",
   "api_url": "https://leonardocompany.wd3.myworkdayjobs.com/wday/cxs/leonardocompany/LeonardoCareerSite/jobs",
-  "open_roles": 746,
+  "open_roles": 728,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8885,7 +8885,7 @@
   "company": "lhoist",
   "board_url": "https://lhoist.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://lhoist.wd3.myworkdayjobs.com/wday/cxs/lhoist/Careers/jobs",
-  "open_roles": 81,
+  "open_roles": 75,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8925,7 +8925,7 @@
   "company": "lowell",
   "board_url": "https://lowell.wd3.myworkdayjobs.com/LowellGroup_Careers2",
   "api_url": "https://lowell.wd3.myworkdayjobs.com/wday/cxs/lowell/LowellGroup_Careers2/jobs",
-  "open_roles": 11,
+  "open_roles": 10,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8935,7 +8935,7 @@
   "company": "lseg",
   "board_url": "https://lseg.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs",
-  "open_roles": 670,
+  "open_roles": 665,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8945,7 +8945,7 @@
   "company": "maersk",
   "board_url": "https://maersk.wd3.myworkdayjobs.com/Maersk_Careers",
   "api_url": "https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/Maersk_Careers/jobs",
-  "open_roles": 1288,
+  "open_roles": 1280,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8955,7 +8955,7 @@
   "company": "mango",
   "board_url": "https://mango.wd3.myworkdayjobs.com/Mango_Work_Your_Passion",
   "api_url": "https://mango.wd3.myworkdayjobs.com/wday/cxs/mango/Mango_Work_Your_Passion/jobs",
-  "open_roles": 1538,
+  "open_roles": 1530,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8985,7 +8985,7 @@
   "company": "mars",
   "board_url": "https://mars.wd3.myworkdayjobs.com/External",
   "api_url": "https://mars.wd3.myworkdayjobs.com/wday/cxs/mars/External/jobs",
-  "open_roles": 825,
+  "open_roles": 823,
   "count_basis": "vendor",
   "region": ""
  },
@@ -8995,7 +8995,7 @@
   "company": "mcgill",
   "board_url": "https://mcgill.wd3.myworkdayjobs.com/mcgill_careers",
   "api_url": "https://mcgill.wd3.myworkdayjobs.com/wday/cxs/mcgill/mcgill_careers/jobs",
-  "open_roles": 590,
+  "open_roles": 587,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9005,7 +9005,7 @@
   "company": "mckesson",
   "board_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers",
   "api_url": "https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesson/External_Careers/jobs",
-  "open_roles": 640,
+  "open_roles": 641,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9095,7 +9095,7 @@
   "company": "mufgub",
   "board_url": "https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers",
   "api_url": "https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MUFG-Careers/jobs",
-  "open_roles": 700,
+  "open_roles": 699,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9115,7 +9115,7 @@
   "company": "murex",
   "board_url": "https://murex.wd3.myworkdayjobs.com/MurexCareerPage1",
   "api_url": "https://murex.wd3.myworkdayjobs.com/wday/cxs/murex/MurexCareerPage1/jobs",
-  "open_roles": 69,
+  "open_roles": 67,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9145,7 +9145,7 @@
   "company": "nab",
   "board_url": "https://nab.wd3.myworkdayjobs.com/bnz_careers",
   "api_url": "https://nab.wd3.myworkdayjobs.com/wday/cxs/nab/bnz_careers/jobs",
-  "open_roles": 18,
+  "open_roles": 16,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9165,7 +9165,7 @@
   "company": "nandos",
   "board_url": "https://nandos.wd3.myworkdayjobs.com/Nandos",
   "api_url": "https://nandos.wd3.myworkdayjobs.com/wday/cxs/nandos/Nandos/jobs",
-  "open_roles": 453,
+  "open_roles": 449,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9215,7 +9215,7 @@
   "company": "norconsult",
   "board_url": "https://norconsult.wd3.myworkdayjobs.com/Norconsult_Career_Site",
   "api_url": "https://norconsult.wd3.myworkdayjobs.com/wday/cxs/norconsult/Norconsult_Career_Site/jobs",
-  "open_roles": 64,
+  "open_roles": 63,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9225,7 +9225,7 @@
   "company": "norgesgruppen",
   "board_url": "https://norgesgruppen.wd3.myworkdayjobs.com/karriere",
   "api_url": "https://norgesgruppen.wd3.myworkdayjobs.com/wday/cxs/norgesgruppen/karriere/jobs",
-  "open_roles": 175,
+  "open_roles": 167,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9235,7 +9235,7 @@
   "company": "novartis",
   "board_url": "https://novartis.wd3.myworkdayjobs.com/Novartis_Careers",
   "api_url": "https://novartis.wd3.myworkdayjobs.com/wday/cxs/novartis/Novartis_Careers/jobs",
-  "open_roles": 832,
+  "open_roles": 826,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9275,7 +9275,7 @@
   "company": "nutreco",
   "board_url": "https://nutreco.wd3.myworkdayjobs.com/Nutreco_External",
   "api_url": "https://nutreco.wd3.myworkdayjobs.com/wday/cxs/nutreco/Nutreco_External/jobs",
-  "open_roles": 190,
+  "open_roles": 188,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9285,7 +9285,7 @@
   "company": "nxp",
   "board_url": "https://nxp.wd3.myworkdayjobs.com/careers",
   "api_url": "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs",
-  "open_roles": 810,
+  "open_roles": 811,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9295,7 +9295,7 @@
   "company": "ofcom",
   "board_url": "https://ofcom.wd3.myworkdayjobs.com/Ofcom_Careers",
   "api_url": "https://ofcom.wd3.myworkdayjobs.com/wday/cxs/ofcom/Ofcom_Careers/jobs",
-  "open_roles": 17,
+  "open_roles": 15,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9315,7 +9315,7 @@
   "company": "oldmutual",
   "board_url": "https://oldmutual.wd3.myworkdayjobs.com/Old_Mutual_Careers",
   "api_url": "https://oldmutual.wd3.myworkdayjobs.com/wday/cxs/oldmutual/Old_Mutual_Careers/jobs",
-  "open_roles": 570,
+  "open_roles": 559,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9395,7 +9395,7 @@
   "company": "pfg",
   "board_url": "https://pfg.wd3.myworkdayjobs.com/SaveonfoodsCareers",
   "api_url": "https://pfg.wd3.myworkdayjobs.com/wday/cxs/pfg/SaveonfoodsCareers/jobs",
-  "open_roles": 345,
+  "open_roles": 343,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9405,7 +9405,7 @@
   "company": "philips",
   "board_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers",
   "api_url": "https://philips.wd3.myworkdayjobs.com/wday/cxs/philips/jobs-and-careers/jobs",
-  "open_roles": 817,
+  "open_roles": 813,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9475,7 +9475,7 @@
   "company": "prudential",
   "board_url": "https://prudential.wd3.myworkdayjobs.com/prudential",
   "api_url": "https://prudential.wd3.myworkdayjobs.com/wday/cxs/prudential/prudential/jobs",
-  "open_roles": 513,
+  "open_roles": 514,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9485,7 +9485,7 @@
   "company": "prysmiangroup",
   "board_url": "https://prysmiangroup.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://prysmiangroup.wd3.myworkdayjobs.com/wday/cxs/prysmiangroup/Careers/jobs",
-  "open_roles": 601,
+  "open_roles": 603,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9495,7 +9495,7 @@
   "company": "pwc",
   "board_url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers",
   "api_url": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/Global_Experienced_Careers/jobs",
-  "open_roles": 3880,
+  "open_roles": 3875,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9525,7 +9525,7 @@
   "company": "ratp",
   "board_url": "https://ratp.wd3.myworkdayjobs.com/RATP_Externe",
   "api_url": "https://ratp.wd3.myworkdayjobs.com/wday/cxs/ratp/RATP_Externe/jobs",
-  "open_roles": 121,
+  "open_roles": 122,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9535,7 +9535,7 @@
   "company": "rbc",
   "board_url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1",
   "api_url": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCEARLYTALENT1/jobs",
-  "open_roles": 39,
+  "open_roles": 38,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9545,7 +9545,7 @@
   "company": "rbnz",
   "board_url": "https://rbnz.wd3.myworkdayjobs.com/RBNZ",
   "api_url": "https://rbnz.wd3.myworkdayjobs.com/wday/cxs/rbnz/RBNZ/jobs",
-  "open_roles": 9,
+  "open_roles": 8,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9565,7 +9565,7 @@
   "company": "recoveryfocus",
   "board_url": "https://recoveryfocus.wd3.myworkdayjobs.com/Recovery_Focus_Careers",
   "api_url": "https://recoveryfocus.wd3.myworkdayjobs.com/wday/cxs/recoveryfocus/Recovery_Focus_Careers/jobs",
-  "open_roles": 185,
+  "open_roles": 183,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9595,7 +9595,7 @@
   "company": "repsol",
   "board_url": "https://repsol.wd3.myworkdayjobs.com/Repsol",
   "api_url": "https://repsol.wd3.myworkdayjobs.com/wday/cxs/repsol/Repsol/jobs",
-  "open_roles": 74,
+  "open_roles": 73,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9615,7 +9615,7 @@
   "company": "richardson",
   "board_url": "https://richardson.wd3.myworkdayjobs.com/Richardson_Our_Careers",
   "api_url": "https://richardson.wd3.myworkdayjobs.com/wday/cxs/richardson/Richardson_Our_Careers/jobs",
-  "open_roles": 115,
+  "open_roles": 114,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9625,7 +9625,7 @@
   "company": "rmit",
   "board_url": "https://rmit.wd3.myworkdayjobs.com/RMIT_Careers",
   "api_url": "https://rmit.wd3.myworkdayjobs.com/wday/cxs/rmit/RMIT_Careers/jobs",
-  "open_roles": 53,
+  "open_roles": 51,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9635,7 +9635,7 @@
   "company": "roche",
   "board_url": "https://roche.wd3.myworkdayjobs.com/roche-ext",
   "api_url": "https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roche-ext/jobs",
-  "open_roles": 1209,
+  "open_roles": 1200,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9655,7 +9655,7 @@
   "company": "rollsroyce",
   "board_url": "https://rollsroyce.wd3.myworkdayjobs.com/professional",
   "api_url": "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/professional/jobs",
-  "open_roles": 484,
+  "open_roles": 480,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9665,7 +9665,7 @@
   "company": "roquette",
   "board_url": "https://roquette.wd3.myworkdayjobs.com/External",
   "api_url": "https://roquette.wd3.myworkdayjobs.com/wday/cxs/roquette/External/jobs",
-  "open_roles": 93,
+  "open_roles": 92,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9685,7 +9685,7 @@
   "company": "rsllc",
   "board_url": "https://rsllc.wd3.myworkdayjobs.com/rsllc",
   "api_url": "https://rsllc.wd3.myworkdayjobs.com/wday/cxs/rsllc/rsllc/jobs",
-  "open_roles": 46,
+  "open_roles": 42,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9725,7 +9725,7 @@
   "company": "sandvik",
   "board_url": "https://sandvik.wd3.myworkdayjobs.com/sandvik-jobs",
   "api_url": "https://sandvik.wd3.myworkdayjobs.com/wday/cxs/sandvik/sandvik-jobs/jobs",
-  "open_roles": 412,
+  "open_roles": 406,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9745,7 +9745,7 @@
   "company": "santander",
   "board_url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers",
   "api_url": "https://santander.wd3.myworkdayjobs.com/wday/cxs/santander/SantanderCareers/jobs",
-  "open_roles": 1042,
+  "open_roles": 1030,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9765,7 +9765,7 @@
   "company": "sec",
   "board_url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers",
   "api_url": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs",
-  "open_roles": 675,
+  "open_roles": 674,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9785,7 +9785,7 @@
   "company": "shell",
   "board_url": "https://shell.wd3.myworkdayjobs.com/ShellCareers",
   "api_url": "https://shell.wd3.myworkdayjobs.com/wday/cxs/shell/ShellCareers/jobs",
-  "open_roles": 137,
+  "open_roles": 128,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9845,7 +9845,7 @@
   "company": "slihrms",
   "board_url": "https://slihrms.wd3.myworkdayjobs.com/Careers",
   "api_url": "https://slihrms.wd3.myworkdayjobs.com/wday/cxs/slihrms/Careers/jobs",
-  "open_roles": 2228,
+  "open_roles": 2230,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9865,7 +9865,7 @@
   "company": "stark",
   "board_url": "https://stark.wd3.myworkdayjobs.com/Beijer-Karriaer",
   "api_url": "https://stark.wd3.myworkdayjobs.com/wday/cxs/stark/Beijer-Karriaer/jobs",
-  "open_roles": 21,
+  "open_roles": 20,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9875,7 +9875,7 @@
   "company": "sunlife",
   "board_url": "https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs",
   "api_url": "https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/Experienced-Jobs/jobs",
-  "open_roles": 274,
+  "open_roles": 273,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9885,7 +9885,7 @@
   "company": "surbanajurong",
   "board_url": "https://surbanajurong.wd3.myworkdayjobs.com/careersatsmec",
   "api_url": "https://surbanajurong.wd3.myworkdayjobs.com/wday/cxs/surbanajurong/careersatsmec/jobs",
-  "open_roles": 220,
+  "open_roles": 217,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9905,7 +9905,7 @@
   "company": "svha",
   "board_url": "https://svha.wd3.myworkdayjobs.com/SVHA_SVHA",
   "api_url": "https://svha.wd3.myworkdayjobs.com/wday/cxs/svha/SVHA_SVHA/jobs",
-  "open_roles": 224,
+  "open_roles": 214,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9915,7 +9915,7 @@
   "company": "swarovski",
   "board_url": "https://swarovski.wd3.myworkdayjobs.com/swarovski",
   "api_url": "https://swarovski.wd3.myworkdayjobs.com/wday/cxs/swarovski/swarovski/jobs",
-  "open_roles": 778,
+  "open_roles": 779,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9955,7 +9955,7 @@
   "company": "td",
   "board_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers",
   "api_url": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs",
-  "open_roles": 1683,
+  "open_roles": 1643,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9975,7 +9975,7 @@
   "company": "teliacompany",
   "board_url": "https://teliacompany.wd3.myworkdayjobs.com/Telia_careers",
   "api_url": "https://teliacompany.wd3.myworkdayjobs.com/wday/cxs/teliacompany/Telia_careers/jobs",
-  "open_roles": 59,
+  "open_roles": 58,
   "count_basis": "vendor",
   "region": ""
  },
@@ -9995,7 +9995,7 @@
   "company": "theapexgroup",
   "board_url": "https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers",
   "api_url": "https://theapexgroup.wd3.myworkdayjobs.com/wday/cxs/theapexgroup/apexgroupcareers/jobs",
-  "open_roles": 1058,
+  "open_roles": 1056,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10005,7 +10005,7 @@
   "company": "abbott",
   "board_url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
   "api_url": "https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs",
-  "open_roles": 2579,
+  "open_roles": 2575,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10015,7 +10015,7 @@
   "company": "adobe",
   "board_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
   "api_url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs",
-  "open_roles": 351,
+  "open_roles": 350,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10025,7 +10025,7 @@
   "company": "agilent",
   "board_url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Careers",
   "api_url": "https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Careers/jobs",
-  "open_roles": 350,
+  "open_roles": 349,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10045,7 +10045,7 @@
   "company": "airproducts",
   "board_url": "https://airproducts.wd5.myworkdayjobs.com/ap0001",
   "api_url": "https://airproducts.wd5.myworkdayjobs.com/wday/cxs/airproducts/ap0001/jobs",
-  "open_roles": 397,
+  "open_roles": 394,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10055,7 +10055,7 @@
   "company": "airproducts",
   "board_url": "https://airproducts.wd5.myworkdayjobs.com/AP0003",
   "api_url": "https://airproducts.wd5.myworkdayjobs.com/wday/cxs/airproducts/AP0003/jobs",
-  "open_roles": 5,
+  "open_roles": 4,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10085,7 +10085,7 @@
   "company": "allstate",
   "board_url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers",
   "api_url": "https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_careers/jobs",
-  "open_roles": 436,
+  "open_roles": 437,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10095,7 +10095,7 @@
   "company": "amcor",
   "board_url": "https://amcor.wd5.myworkdayjobs.com/Amcor_External_Career_Site",
   "api_url": "https://amcor.wd5.myworkdayjobs.com/wday/cxs/amcor/Amcor_External_Career_Site/jobs",
-  "open_roles": 767,
+  "open_roles": 768,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10105,7 +10105,7 @@
   "company": "ameriprise",
   "board_url": "https://ameriprise.wd5.myworkdayjobs.com/Ameriprise",
   "api_url": "https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameriprise/jobs",
-  "open_roles": 233,
+  "open_roles": 232,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10115,7 +10115,7 @@
   "company": "aptiv",
   "board_url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers",
   "api_url": "https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/aptiv_careers/jobs",
-  "open_roles": 761,
+  "open_roles": 760,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10135,7 +10135,7 @@
   "company": "bakerhughes",
   "board_url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes",
   "api_url": "https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs",
-  "open_roles": 695,
+  "open_roles": 696,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10165,7 +10165,7 @@
   "company": "bristolmyerssquibb",
   "board_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
   "api_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolmyerssquibb/BMS/jobs",
-  "open_roles": 718,
+  "open_roles": 714,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10185,7 +10185,7 @@
   "company": "carrier",
   "board_url": "https://carrier.wd5.myworkdayjobs.com/jobs",
   "api_url": "https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/jobs/jobs",
-  "open_roles": 1084,
+  "open_roles": 1074,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10195,7 +10195,7 @@
   "company": "cat",
   "board_url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
   "api_url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs",
-  "open_roles": 966,
+  "open_roles": 952,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10205,7 +10205,7 @@
   "company": "cbrands",
   "board_url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers",
   "api_url": "https://cbrands.wd5.myworkdayjobs.com/wday/cxs/cbrands/CBI_External_Careers/jobs",
-  "open_roles": 75,
+  "open_roles": 76,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10225,7 +10225,7 @@
   "company": "centene",
   "board_url": "https://centene.wd5.myworkdayjobs.com/centene_external",
   "api_url": "https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/centene_external/jobs",
-  "open_roles": 380,
+  "open_roles": 378,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10235,7 +10235,7 @@
   "company": "chevron",
   "board_url": "https://chevron.wd5.myworkdayjobs.com/jobs",
   "api_url": "https://chevron.wd5.myworkdayjobs.com/wday/cxs/chevron/jobs/jobs",
-  "open_roles": 147,
+  "open_roles": 146,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10245,7 +10245,7 @@
   "company": "chipotle",
   "board_url": "https://chipotle.wd5.myworkdayjobs.com/chipotlecareers",
   "api_url": "https://chipotle.wd5.myworkdayjobs.com/wday/cxs/chipotle/chipotlecareers/jobs",
-  "open_roles": 216,
+  "open_roles": 217,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10265,7 +10265,7 @@
   "company": "ciena",
   "board_url": "https://ciena.wd5.myworkdayjobs.com/careers",
   "api_url": "https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/careers/jobs",
-  "open_roles": 150,
+  "open_roles": 151,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10275,7 +10275,7 @@
   "company": "cigna",
   "board_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
   "api_url": "https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jobs",
-  "open_roles": 570,
+  "open_roles": 568,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10285,7 +10285,7 @@
   "company": "cisco",
   "board_url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers",
   "api_url": "https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/Cisco_Careers/jobs",
-  "open_roles": 1371,
+  "open_roles": 1367,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10345,7 +10345,7 @@
   "company": "disney",
   "board_url": "https://disney.wd5.myworkdayjobs.com/disneycareer",
   "api_url": "https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs",
-  "open_roles": 556,
+  "open_roles": 551,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10375,7 +10375,7 @@
   "company": "ebay",
   "board_url": "https://ebay.wd5.myworkdayjobs.com/apply",
   "api_url": "https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs",
-  "open_roles": 296,
+  "open_roles": 295,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10385,7 +10385,7 @@
   "company": "edwards",
   "board_url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers",
   "api_url": "https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/edwardscareers/jobs",
-  "open_roles": 397,
+  "open_roles": 394,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10395,7 +10395,7 @@
   "company": "equifax",
   "board_url": "https://equifax.wd5.myworkdayjobs.com/external",
   "api_url": "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/external/jobs",
-  "open_roles": 215,
+  "open_roles": 214,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10455,7 +10455,7 @@
   "company": "fifththird",
   "board_url": "https://fifththird.wd5.myworkdayjobs.com/53careers",
   "api_url": "https://fifththird.wd5.myworkdayjobs.com/wday/cxs/fifththird/53careers/jobs",
-  "open_roles": 987,
+  "open_roles": 986,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10495,7 +10495,7 @@
   "company": "fiserv",
   "board_url": "https://fiserv.wd5.myworkdayjobs.com/EXT",
   "api_url": "https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/EXT/jobs",
-  "open_roles": 322,
+  "open_roles": 320,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10555,7 +10555,7 @@
   "company": "gartner",
   "board_url": "https://gartner.wd5.myworkdayjobs.com/EXT",
   "api_url": "https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/EXT/jobs",
-  "open_roles": 778,
+  "open_roles": 780,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10565,7 +10565,7 @@
   "company": "gdit",
   "board_url": "https://gdit.wd5.myworkdayjobs.com/External_Career_Site",
   "api_url": "https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/External_Career_Site/jobs",
-  "open_roles": 1255,
+  "open_roles": 1263,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10575,7 +10575,7 @@
   "company": "geaerospace",
   "board_url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite",
   "api_url": "https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/ge_externalsite/jobs",
-  "open_roles": 567,
+  "open_roles": 565,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10625,7 +10625,7 @@
   "company": "generalmotors",
   "board_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
   "api_url": "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs",
-  "open_roles": 797,
+  "open_roles": 793,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10645,7 +10645,7 @@
   "company": "georgia",
   "board_url": "https://georgia.wd5.myworkdayjobs.com/TGC",
   "api_url": "https://georgia.wd5.myworkdayjobs.com/wday/cxs/georgia/TGC/jobs",
-  "open_roles": 1510,
+  "open_roles": 1496,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10655,7 +10655,7 @@
   "company": "gevernova",
   "board_url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite",
   "api_url": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova_ExternalSite/jobs",
-  "open_roles": 2144,
+  "open_roles": 2137,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10675,7 +10675,7 @@
   "company": "globalhr",
   "board_url": "https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway",
   "api_url": "https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/REC_RTX_Ext_Gateway/jobs",
-  "open_roles": 4885,
+  "open_roles": 4883,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10725,7 +10725,7 @@
   "company": "greif",
   "board_url": "https://greif.wd5.myworkdayjobs.com/Greif",
   "api_url": "https://greif.wd5.myworkdayjobs.com/wday/cxs/greif/Greif/jobs",
-  "open_roles": 289,
+  "open_roles": 288,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10735,7 +10735,7 @@
   "company": "gsk",
   "board_url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers",
   "api_url": "https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/GSKCareers/jobs",
-  "open_roles": 665,
+  "open_roles": 660,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10805,7 +10805,7 @@
   "company": "hcmportal",
   "board_url": "https://hcmportal.wd5.myworkdayjobs.com/Search",
   "api_url": "https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/Search/jobs",
-  "open_roles": 2047,
+  "open_roles": 2036,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10875,7 +10875,7 @@
   "company": "homedepot",
   "board_url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot",
   "api_url": "https://homedepot.wd5.myworkdayjobs.com/wday/cxs/homedepot/careerdepot/jobs",
-  "open_roles": 977,
+  "open_roles": 976,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10915,7 +10915,7 @@
   "company": "hp",
   "board_url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite",
   "api_url": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs",
-  "open_roles": 883,
+  "open_roles": 882,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10925,7 +10925,7 @@
   "company": "hpe",
   "board_url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe",
   "api_url": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs",
-  "open_roles": 1497,
+  "open_roles": 1491,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10945,7 +10945,7 @@
   "company": "humana",
   "board_url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site",
   "api_url": "https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/Humana_External_Career_Site/jobs",
-  "open_roles": 277,
+  "open_roles": 272,
   "count_basis": "vendor",
   "region": ""
  },
@@ -10985,7 +10985,7 @@
   "company": "iff",
   "board_url": "https://iff.wd5.myworkdayjobs.com/IFF_Careers",
   "api_url": "https://iff.wd5.myworkdayjobs.com/wday/cxs/iff/IFF_Careers/jobs",
-  "open_roles": 369,
+  "open_roles": 362,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11065,7 +11065,7 @@
   "company": "ironmountain",
   "board_url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs",
   "api_url": "https://ironmountain.wd5.myworkdayjobs.com/wday/cxs/ironmountain/iron-mountain-jobs/jobs",
-  "open_roles": 336,
+  "open_roles": 339,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11095,7 +11095,7 @@
   "company": "itw",
   "board_url": "https://itw.wd5.myworkdayjobs.com/external",
   "api_url": "https://itw.wd5.myworkdayjobs.com/wday/cxs/itw/external/jobs",
-  "open_roles": 767,
+  "open_roles": 766,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11105,7 +11105,7 @@
   "company": "ivyrehab",
   "board_url": "https://ivyrehab.wd5.myworkdayjobs.com/Ivy_Rehab",
   "api_url": "https://ivyrehab.wd5.myworkdayjobs.com/wday/cxs/ivyrehab/Ivy_Rehab/jobs",
-  "open_roles": 986,
+  "open_roles": 987,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11115,7 +11115,7 @@
   "company": "jabil",
   "board_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers",
   "api_url": "https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs",
-  "open_roles": 2024,
+  "open_roles": 1988,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11125,7 +11125,7 @@
   "company": "jci",
   "board_url": "https://jci.wd5.myworkdayjobs.com/JCI",
   "api_url": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs",
-  "open_roles": 2664,
+  "open_roles": 2660,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11135,7 +11135,7 @@
   "company": "jeffersonhealth",
   "board_url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal",
   "api_url": "https://jeffersonhealth.wd5.myworkdayjobs.com/wday/cxs/jeffersonhealth/ThomasJeffersonExternal/jobs",
-  "open_roles": 1440,
+  "open_roles": 1437,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11145,7 +11145,7 @@
   "company": "jj",
   "board_url": "https://jj.wd5.myworkdayjobs.com/JJ",
   "api_url": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs",
-  "open_roles": 1967,
+  "open_roles": 1918,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11185,7 +11185,7 @@
   "company": "keybank",
   "board_url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site",
   "api_url": "https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/External_Career_Site/jobs",
-  "open_roles": 578,
+  "open_roles": 576,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11195,7 +11195,7 @@
   "company": "kyndryl",
   "board_url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers",
   "api_url": "https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylProfessionalCareers/jobs",
-  "open_roles": 881,
+  "open_roles": 880,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11225,7 +11225,7 @@
   "company": "leidos",
   "board_url": "https://leidos.wd5.myworkdayjobs.com/External",
   "api_url": "https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs",
-  "open_roles": 2186,
+  "open_roles": 2185,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11235,7 +11235,7 @@
   "company": "levistraussandco",
   "board_url": "https://levistraussandco.wd5.myworkdayjobs.com/External",
   "api_url": "https://levistraussandco.wd5.myworkdayjobs.com/wday/cxs/levistraussandco/External/jobs",
-  "open_roles": 1327,
+  "open_roles": 1325,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11245,7 +11245,7 @@
   "company": "lgi",
   "board_url": "https://lgi.wd5.myworkdayjobs.com/LGI_Careers",
   "api_url": "https://lgi.wd5.myworkdayjobs.com/wday/cxs/lgi/LGI_Careers/jobs",
-  "open_roles": 61,
+  "open_roles": 60,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11295,7 +11295,7 @@
   "company": "loewshotels",
   "board_url": "https://loewshotels.wd5.myworkdayjobs.com/loewshotels",
   "api_url": "https://loewshotels.wd5.myworkdayjobs.com/wday/cxs/loewshotels/loewshotels/jobs",
-  "open_roles": 317,
+  "open_roles": 315,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11305,7 +11305,7 @@
   "company": "logitech",
   "board_url": "https://logitech.wd5.myworkdayjobs.com/Logitech",
   "api_url": "https://logitech.wd5.myworkdayjobs.com/wday/cxs/logitech/Logitech/jobs",
-  "open_roles": 231,
+  "open_roles": 232,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11315,7 +11315,7 @@
   "company": "lowes",
   "board_url": "https://lowes.wd5.myworkdayjobs.com/lws_external_cs",
   "api_url": "https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/lws_external_cs/jobs",
-  "open_roles": 12724,
+  "open_roles": 12666,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11405,7 +11405,7 @@
   "company": "medline",
   "board_url": "https://medline.wd5.myworkdayjobs.com/Medline",
   "api_url": "https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/Medline/jobs",
-  "open_roles": 611,
+  "open_roles": 610,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11415,7 +11415,7 @@
   "company": "meijer",
   "board_url": "https://meijer.wd5.myworkdayjobs.com/Meijer_Stores_Hourly",
   "api_url": "https://meijer.wd5.myworkdayjobs.com/wday/cxs/meijer/Meijer_Stores_Hourly/jobs",
-  "open_roles": 1454,
+  "open_roles": 1447,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11465,7 +11465,7 @@
   "company": "mgmresorts",
   "board_url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers",
   "api_url": "https://mgmresorts.wd5.myworkdayjobs.com/wday/cxs/mgmresorts/MGMCareers/jobs",
-  "open_roles": 520,
+  "open_roles": 509,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11495,8 +11495,8 @@
   "company": "michaels",
   "board_url": "https://michaels.wd5.myworkdayjobs.com/External",
   "api_url": "https://michaels.wd5.myworkdayjobs.com/wday/cxs/michaels/External/jobs",
-  "open_roles": 2000,
-  "count_basis": "vendor-ceiling",
+  "open_roles": 1994,
+  "count_basis": "vendor",
   "region": ""
  },
  {
@@ -11505,7 +11505,7 @@
   "company": "microchiphr",
   "board_url": "https://microchiphr.wd5.myworkdayjobs.com/external",
   "api_url": "https://microchiphr.wd5.myworkdayjobs.com/wday/cxs/microchiphr/external/jobs",
-  "open_roles": 496,
+  "open_roles": 495,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11525,7 +11525,7 @@
   "company": "moog",
   "board_url": "https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site",
   "api_url": "https://moog.wd5.myworkdayjobs.com/wday/cxs/moog/MOOG_External_Career_Site/jobs",
-  "open_roles": 449,
+  "open_roles": 446,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11555,7 +11555,7 @@
   "company": "motorolasolutions",
   "board_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
   "api_url": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs",
-  "open_roles": 903,
+  "open_roles": 905,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11565,7 +11565,7 @@
   "company": "ms",
   "board_url": "https://ms.wd5.myworkdayjobs.com/External",
   "api_url": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
-  "open_roles": 1307,
+  "open_roles": 1305,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11575,7 +11575,7 @@
   "company": "msd",
   "board_url": "https://msd.wd5.myworkdayjobs.com/SearchJobs",
   "api_url": "https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/SearchJobs/jobs",
-  "open_roles": 940,
+  "open_roles": 931,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11625,7 +11625,7 @@
   "company": "myhrabc",
   "board_url": "https://myhrabc.wd5.myworkdayjobs.com/Global",
   "api_url": "https://myhrabc.wd5.myworkdayjobs.com/wday/cxs/myhrabc/Global/jobs",
-  "open_roles": 999,
+  "open_roles": 994,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11635,7 +11635,7 @@
   "company": "mymvw",
   "board_url": "https://mymvw.wd5.myworkdayjobs.com/MVW",
   "api_url": "https://mymvw.wd5.myworkdayjobs.com/wday/cxs/mymvw/MVW/jobs",
-  "open_roles": 528,
+  "open_roles": 526,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11665,7 +11665,7 @@
   "company": "nationwidechildrens",
   "board_url": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers",
   "api_url": "https://nationwidechildrens.wd5.myworkdayjobs.com/wday/cxs/nationwidechildrens/NCHCareers/jobs",
-  "open_roles": 582,
+  "open_roles": 581,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11675,7 +11675,7 @@
   "company": "neurocrine",
   "board_url": "https://neurocrine.wd5.myworkdayjobs.com/Neurocrinecareers",
   "api_url": "https://neurocrine.wd5.myworkdayjobs.com/wday/cxs/neurocrine/Neurocrinecareers/jobs",
-  "open_roles": 172,
+  "open_roles": 171,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11725,7 +11725,7 @@
   "company": "nvent",
   "board_url": "https://nvent.wd5.myworkdayjobs.com/nVent",
   "api_url": "https://nvent.wd5.myworkdayjobs.com/wday/cxs/nvent/nVent/jobs",
-  "open_roles": 555,
+  "open_roles": 556,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11765,7 +11765,7 @@
   "company": "oregon",
   "board_url": "https://oregon.wd5.myworkdayjobs.com/SOR_External_Career_Site",
   "api_url": "https://oregon.wd5.myworkdayjobs.com/wday/cxs/oregon/SOR_External_Career_Site/jobs",
-  "open_roles": 243,
+  "open_roles": 241,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11775,7 +11775,7 @@
   "company": "orionsteel",
   "board_url": "https://orionsteel.wd5.myworkdayjobs.com/externalcareers",
   "api_url": "https://orionsteel.wd5.myworkdayjobs.com/wday/cxs/orionsteel/externalcareers/jobs",
-  "open_roles": 91,
+  "open_roles": 90,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11795,7 +11795,7 @@
   "company": "oshkoshcorporation",
   "board_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh",
   "api_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs",
-  "open_roles": 539,
+  "open_roles": 538,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11825,7 +11825,7 @@
   "company": "oxford",
   "board_url": "https://oxford.wd5.myworkdayjobs.com/TommyBahamaUS",
   "api_url": "https://oxford.wd5.myworkdayjobs.com/wday/cxs/oxford/TommyBahamaUS/jobs",
-  "open_roles": 331,
+  "open_roles": 330,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11835,7 +11835,7 @@
   "company": "oxy",
   "board_url": "https://oxy.wd5.myworkdayjobs.com/Corporate",
   "api_url": "https://oxy.wd5.myworkdayjobs.com/wday/cxs/oxy/Corporate/jobs",
-  "open_roles": 47,
+  "open_roles": 46,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11865,7 +11865,7 @@
   "company": "paloaltonetworks",
   "board_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers",
   "api_url": "https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltonetworks/panwexternalcareers/jobs",
-  "open_roles": 1491,
+  "open_roles": 1486,
   "count_basis": "vendor",
   "region": ""
  },
@@ -11875,7 +11875,7 @@
   "company": "parsons",
   "board_url": "https://parsons.wd5.myworkdayjobs.com/Search",
   "api_url": "https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs",
-  "open_roles": 1926,
+  "open_roles": 1923,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12065,7 +12065,7 @@
   "company": "quickenloans",
   "board_url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers",
   "api_url": "https://quickenloans.wd5.myworkdayjobs.com/wday/cxs/quickenloans/rocket_careers/jobs",
-  "open_roles": 375,
+  "open_roles": 374,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12125,7 +12125,7 @@
   "company": "remitly",
   "board_url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers",
   "api_url": "https://remitly.wd5.myworkdayjobs.com/wday/cxs/remitly/Remitly_Careers/jobs",
-  "open_roles": 155,
+  "open_roles": 156,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12155,7 +12155,7 @@
   "company": "ri",
   "board_url": "https://ri.wd5.myworkdayjobs.com/RI",
   "api_url": "https://ri.wd5.myworkdayjobs.com/wday/cxs/ri/RI/jobs",
-  "open_roles": 93,
+  "open_roles": 88,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12185,7 +12185,7 @@
   "company": "rocket",
   "board_url": "https://rocket.wd5.myworkdayjobs.com/rocket_careers",
   "api_url": "https://rocket.wd5.myworkdayjobs.com/wday/cxs/rocket/rocket_careers/jobs",
-  "open_roles": 53,
+  "open_roles": 54,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12195,7 +12195,7 @@
   "company": "rrhs",
   "board_url": "https://rrhs.wd5.myworkdayjobs.com/RRH",
   "api_url": "https://rrhs.wd5.myworkdayjobs.com/wday/cxs/rrhs/RRH/jobs",
-  "open_roles": 1392,
+  "open_roles": 1391,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12245,7 +12245,7 @@
   "company": "scj",
   "board_url": "https://scj.wd5.myworkdayjobs.com/External_Career_Site",
   "api_url": "https://scj.wd5.myworkdayjobs.com/wday/cxs/scj/External_Career_Site/jobs",
-  "open_roles": 140,
+  "open_roles": 134,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12285,7 +12285,7 @@
   "company": "skechers",
   "board_url": "https://skechers.wd5.myworkdayjobs.com/One-career-site",
   "api_url": "https://skechers.wd5.myworkdayjobs.com/wday/cxs/skechers/One-career-site/jobs",
-  "open_roles": 1694,
+  "open_roles": 1690,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12315,7 +12315,7 @@
   "company": "smithnephew",
   "board_url": "https://smithnephew.wd5.myworkdayjobs.com/External",
   "api_url": "https://smithnephew.wd5.myworkdayjobs.com/wday/cxs/smithnephew/External/jobs",
-  "open_roles": 332,
+  "open_roles": 329,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12345,7 +12345,7 @@
   "company": "spgi",
   "board_url": "https://spgi.wd5.myworkdayjobs.com/SPGI_Careers",
   "api_url": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
-  "open_roles": 269,
+  "open_roles": 274,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12375,7 +12375,7 @@
   "company": "stvinc",
   "board_url": "https://stvinc.wd5.myworkdayjobs.com/stv",
   "api_url": "https://stvinc.wd5.myworkdayjobs.com/wday/cxs/stvinc/stv/jobs",
-  "open_roles": 370,
+  "open_roles": 371,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12415,7 +12415,7 @@
   "company": "target",
   "board_url": "https://target.wd5.myworkdayjobs.com/targetcareers",
   "api_url": "https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs",
-  "open_roles": 14116,
+  "open_roles": 14093,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12475,7 +12475,7 @@
   "company": "thermofisher",
   "board_url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers",
   "api_url": "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/jobs",
-  "open_roles": 2931,
+  "open_roles": 2926,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12495,7 +12495,7 @@
   "company": "thomsonreuters",
   "board_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site",
   "api_url": "https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs",
-  "open_roles": 451,
+  "open_roles": 447,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12525,7 +12525,7 @@
   "company": "townepark",
   "board_url": "https://townepark.wd5.myworkdayjobs.com/ext",
   "api_url": "https://townepark.wd5.myworkdayjobs.com/wday/cxs/townepark/ext/jobs",
-  "open_roles": 536,
+  "open_roles": 538,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12555,7 +12555,7 @@
   "company": "transunion",
   "board_url": "https://transunion.wd5.myworkdayjobs.com/TransUnion",
   "api_url": "https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/TransUnion/jobs",
-  "open_roles": 247,
+  "open_roles": 246,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12565,7 +12565,7 @@
   "company": "travelers",
   "board_url": "https://travelers.wd5.myworkdayjobs.com/External",
   "api_url": "https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs",
-  "open_roles": 389,
+  "open_roles": 388,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12575,7 +12575,7 @@
   "company": "troweprice",
   "board_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
   "api_url": "https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowePrice/jobs",
-  "open_roles": 146,
+  "open_roles": 145,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12585,7 +12585,7 @@
   "company": "tysonfoods",
   "board_url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN",
   "api_url": "https://tysonfoods.wd5.myworkdayjobs.com/wday/cxs/tysonfoods/TSN/jobs",
-  "open_roles": 680,
+  "open_roles": 665,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12595,7 +12595,7 @@
   "company": "uasys",
   "board_url": "https://uasys.wd5.myworkdayjobs.com/UASYS",
   "api_url": "https://uasys.wd5.myworkdayjobs.com/wday/cxs/uasys/UASYS/jobs",
-  "open_roles": 739,
+  "open_roles": 735,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12685,7 +12685,7 @@
   "company": "vanguard",
   "board_url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external",
   "api_url": "https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/vanguard_external/jobs",
-  "open_roles": 348,
+  "open_roles": 341,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12695,7 +12695,7 @@
   "company": "velera",
   "board_url": "https://velera.wd5.myworkdayjobs.com/VeleraCareers",
   "api_url": "https://velera.wd5.myworkdayjobs.com/wday/cxs/velera/VeleraCareers/jobs",
-  "open_roles": 31,
+  "open_roles": 30,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12705,7 +12705,7 @@
   "company": "vfc",
   "board_url": "https://vfc.wd5.myworkdayjobs.com/vfc_careers",
   "api_url": "https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/vfc_careers/jobs",
-  "open_roles": 1276,
+  "open_roles": 1274,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12725,7 +12725,7 @@
   "company": "visa",
   "board_url": "https://visa.wd5.myworkdayjobs.com/Visa",
   "api_url": "https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs",
-  "open_roles": 816,
+  "open_roles": 815,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12815,7 +12815,7 @@
   "company": "wgl",
   "board_url": "https://wgl.wd5.myworkdayjobs.com/altagas",
   "api_url": "https://wgl.wd5.myworkdayjobs.com/wday/cxs/wgl/altagas/jobs",
-  "open_roles": 45,
+  "open_roles": 44,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12825,7 +12825,7 @@
   "company": "wgu",
   "board_url": "https://wgu.wd5.myworkdayjobs.com/External",
   "api_url": "https://wgu.wd5.myworkdayjobs.com/wday/cxs/wgu/External/jobs",
-  "open_roles": 97,
+  "open_roles": 95,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12835,7 +12835,7 @@
   "company": "williams",
   "board_url": "https://williams.wd5.myworkdayjobs.com/External",
   "api_url": "https://williams.wd5.myworkdayjobs.com/wday/cxs/williams/External/jobs",
-  "open_roles": 121,
+  "open_roles": 122,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12865,7 +12865,7 @@
   "company": "workday",
   "board_url": "https://workday.wd5.myworkdayjobs.com/Workday",
   "api_url": "https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/jobs",
-  "open_roles": 381,
+  "open_roles": 375,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12905,7 +12905,7 @@
   "company": "wynd",
   "board_url": "https://wynd.wd5.myworkdayjobs.com/External",
   "api_url": "https://wynd.wd5.myworkdayjobs.com/wday/cxs/wynd/External/jobs",
-  "open_roles": 850,
+  "open_roles": 851,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12955,7 +12955,7 @@
   "company": "zoetis",
   "board_url": "https://zoetis.wd5.myworkdayjobs.com/zoetis",
   "api_url": "https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/zoetis/jobs",
-  "open_roles": 143,
+  "open_roles": 142,
   "count_basis": "vendor",
   "region": ""
  },
@@ -12975,7 +12975,7 @@
   "company": "zoom",
   "board_url": "https://zoom.wd5.myworkdayjobs.com/Zoom",
   "api_url": "https://zoom.wd5.myworkdayjobs.com/wday/cxs/zoom/Zoom/jobs",
-  "open_roles": 102,
+  "open_roles": 103,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13125,7 +13125,7 @@
   "company": "marathonhealth",
   "board_url": "https://marathonhealth.wd501.myworkdayjobs.com/Marathon-Health-Careers",
   "api_url": "https://marathonhealth.wd501.myworkdayjobs.com/wday/cxs/marathonhealth/Marathon-Health-Careers/jobs",
-  "open_roles": 537,
+  "open_roles": 535,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13155,7 +13155,7 @@
   "company": "nordstrom",
   "board_url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
   "api_url": "https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs",
-  "open_roles": 1382,
+  "open_roles": 1383,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13165,7 +13165,7 @@
   "company": "nttglobaldatacenters",
   "board_url": "https://nttglobaldatacenters.wd501.myworkdayjobs.com/External",
   "api_url": "https://nttglobaldatacenters.wd501.myworkdayjobs.com/wday/cxs/nttglobaldatacenters/External/jobs",
-  "open_roles": 259,
+  "open_roles": 260,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13185,7 +13185,7 @@
   "company": "pipersandler",
   "board_url": "https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers",
   "api_url": "https://pipersandler.wd501.myworkdayjobs.com/wday/cxs/pipersandler/Piper_Sandler_Careers/jobs",
-  "open_roles": 48,
+  "open_roles": 50,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13215,7 +13215,7 @@
   "company": "topgolf",
   "board_url": "https://topgolf.wd501.myworkdayjobs.com/TopgolfCareers",
   "api_url": "https://topgolf.wd501.myworkdayjobs.com/wday/cxs/topgolf/TopgolfCareers/jobs",
-  "open_roles": 741,
+  "open_roles": 739,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13345,7 +13345,7 @@
   "company": "cni",
   "board_url": "https://cni.wd503.myworkdayjobs.com/CNI",
   "api_url": "https://cni.wd503.myworkdayjobs.com/wday/cxs/cni/CNI/jobs",
-  "open_roles": 75,
+  "open_roles": 74,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13375,7 +13375,7 @@
   "company": "greathearts",
   "board_url": "https://greathearts.wd503.myworkdayjobs.com/GreatHearts_Careers",
   "api_url": "https://greathearts.wd503.myworkdayjobs.com/wday/cxs/greathearts/GreatHearts_Careers/jobs",
-  "open_roles": 192,
+  "open_roles": 185,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13385,7 +13385,7 @@
   "company": "hfecorp",
   "board_url": "https://hfecorp.wd503.myworkdayjobs.com/palace_jobs",
   "api_url": "https://hfecorp.wd503.myworkdayjobs.com/wday/cxs/hfecorp/palace_jobs/jobs",
-  "open_roles": 101,
+  "open_roles": 102,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13395,7 +13395,7 @@
   "company": "hypertherm",
   "board_url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers",
   "api_url": "https://hypertherm.wd503.myworkdayjobs.com/wday/cxs/hypertherm/hypertherm-careers/jobs",
-  "open_roles": 35,
+  "open_roles": 34,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13425,7 +13425,7 @@
   "company": "livenation",
   "board_url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite",
   "api_url": "https://livenation.wd503.myworkdayjobs.com/wday/cxs/livenation/LNExternalSite/jobs",
-  "open_roles": 1366,
+  "open_roles": 1365,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13485,7 +13485,7 @@
   "company": "qnity",
   "board_url": "https://qnity.wd503.myworkdayjobs.com/Jobs",
   "api_url": "https://qnity.wd503.myworkdayjobs.com/wday/cxs/qnity/Jobs/jobs",
-  "open_roles": 436,
+  "open_roles": 437,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13525,7 +13525,7 @@
   "company": "toyota",
   "board_url": "https://toyota.wd503.myworkdayjobs.com/TLAC",
   "api_url": "https://toyota.wd503.myworkdayjobs.com/wday/cxs/toyota/TLAC/jobs",
-  "open_roles": 117,
+  "open_roles": 116,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13595,7 +13595,7 @@
   "company": "insmed",
   "board_url": "https://insmed.wd504.myworkdayjobs.com/EXTERNAL",
   "api_url": "https://insmed.wd504.myworkdayjobs.com/wday/cxs/insmed/EXTERNAL/jobs",
-  "open_roles": 112,
+  "open_roles": 113,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13615,7 +13615,7 @@
   "company": "otis",
   "board_url": "https://otis.wd504.myworkdayjobs.com/REC_Ext_Gateway",
   "api_url": "https://otis.wd504.myworkdayjobs.com/wday/cxs/otis/REC_Ext_Gateway/jobs",
-  "open_roles": 1344,
+  "open_roles": 1343,
   "count_basis": "vendor",
   "region": ""
  },
@@ -13635,8 +13635,8 @@
   "company": "walmart",
   "board_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal",
   "api_url": "https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs",
-  "open_roles": 1998,
-  "count_basis": "vendor",
+  "open_roles": 2000,
+  "count_basis": "vendor-ceiling",
   "region": ""
  },
  {
@@ -14145,7 +14145,7 @@
   "company": "accela",
   "board_url": "https://job-boards.greenhouse.io/accela",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/accela/jobs",
-  "open_roles": 10,
+  "open_roles": 11,
   "count_basis": "vendor",
   "region": ""
  },
@@ -14185,7 +14185,7 @@
   "company": "accenturefederalservices",
   "board_url": "https://job-boards.greenhouse.io/accenturefederalservices",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/accenturefederalservices/jobs",
-  "open_roles": 644,
+  "open_roles": 646,
   "count_basis": "vendor",
   "region": ""
  },
@@ -14655,7 +14655,7 @@
   "company": "adyen",
   "board_url": "https://job-boards.greenhouse.io/adyen",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/adyen/jobs",
-  "open_roles": 238,
+  "open_roles": 239,
   "count_basis": "vendor",
   "region": ""
  },
@@ -14845,7 +14845,7 @@
   "company": "agibank",
   "board_url": "https://job-boards.greenhouse.io/agibank",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/agibank/jobs",
-  "open_roles": 94,
+  "open_roles": 91,
   "count_basis": "vendor",
   "region": ""
  },
@@ -14905,7 +14905,7 @@
   "company": "agoda",
   "board_url": "https://job-boards.greenhouse.io/agoda",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/agoda/jobs",
-  "open_roles": 319,
+  "open_roles": 318,
   "count_basis": "vendor",
   "region": ""
  },
@@ -15425,7 +15425,7 @@
   "company": "aloyoga",
   "board_url": "https://job-boards.greenhouse.io/aloyoga",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/aloyoga/jobs",
-  "open_roles": 796,
+  "open_roles": 795,
   "count_basis": "vendor",
   "region": ""
  },
@@ -15775,7 +15775,7 @@
   "company": "amperesand",
   "board_url": "https://job-boards.greenhouse.io/amperesand",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/amperesand/jobs",
-  "open_roles": 57,
+  "open_roles": 55,
   "count_basis": "vendor",
   "region": ""
  },
@@ -15845,7 +15845,7 @@
   "company": "amtechsoftware",
   "board_url": "https://job-boards.greenhouse.io/amtechsoftware",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/amtechsoftware/jobs",
-  "open_roles": 27,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -16345,7 +16345,7 @@
   "company": "appsflyer",
   "board_url": "https://job-boards.greenhouse.io/appsflyer",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/appsflyer/jobs",
-  "open_roles": 46,
+  "open_roles": 49,
   "count_basis": "vendor",
   "region": ""
  },
@@ -16915,7 +16915,7 @@
   "company": "assetliving",
   "board_url": "https://job-boards.greenhouse.io/assetliving",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/assetliving/jobs",
-  "open_roles": 40,
+  "open_roles": 41,
   "count_basis": "vendor",
   "region": ""
  },
@@ -17065,7 +17065,7 @@
   "company": "atomicmachines",
   "board_url": "https://job-boards.greenhouse.io/atomicmachines",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/atomicmachines/jobs",
-  "open_roles": 30,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -17555,7 +17555,7 @@
   "company": "axonius",
   "board_url": "https://job-boards.greenhouse.io/axonius",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/axonius/jobs",
-  "open_roles": 25,
+  "open_roles": 24,
   "count_basis": "vendor",
   "region": ""
  },
@@ -17585,7 +17585,7 @@
   "company": "axsometherapeutics",
   "board_url": "https://job-boards.greenhouse.io/axsometherapeutics",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/axsometherapeutics/jobs",
-  "open_roles": 105,
+  "open_roles": 106,
   "count_basis": "vendor",
   "region": ""
  },
@@ -17815,7 +17815,7 @@
   "company": "bdainc",
   "board_url": "https://job-boards.greenhouse.io/bdainc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/bdainc/jobs",
-  "open_roles": 43,
+  "open_roles": 42,
   "count_basis": "vendor",
   "region": ""
  },
@@ -18855,7 +18855,7 @@
   "company": "brainpop",
   "board_url": "https://job-boards.greenhouse.io/brainpop",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/brainpop/jobs",
-  "open_roles": 0,
+  "open_roles": 1,
   "count_basis": "vendor",
   "region": ""
  },
@@ -19615,7 +19615,7 @@
   "company": "candidaturasdirecionadasxpinc",
   "board_url": "https://job-boards.greenhouse.io/candidaturasdirecionadasxpinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/candidaturasdirecionadasxpinc/jobs",
-  "open_roles": 14,
+  "open_roles": 15,
   "count_basis": "vendor",
   "region": ""
  },
@@ -19955,7 +19955,7 @@
   "company": "carvana",
   "board_url": "https://job-boards.greenhouse.io/carvana",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/carvana/jobs",
-  "open_roles": 1801,
+  "open_roles": 1804,
   "count_basis": "vendor",
   "region": ""
  },
@@ -20165,7 +20165,7 @@
   "company": "centriaautism",
   "board_url": "https://job-boards.greenhouse.io/centriaautism",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/centriaautism/jobs",
-  "open_roles": 1261,
+  "open_roles": 1262,
   "count_basis": "vendor",
   "region": ""
  },
@@ -20175,7 +20175,7 @@
   "company": "centrumhealth",
   "board_url": "https://job-boards.greenhouse.io/centrumhealth",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/centrumhealth/jobs",
-  "open_roles": 17,
+  "open_roles": 16,
   "count_basis": "vendor",
   "region": ""
  },
@@ -20465,7 +20465,7 @@
   "company": "chime",
   "board_url": "https://job-boards.greenhouse.io/chime",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/chime/jobs",
-  "open_roles": 68,
+  "open_roles": 67,
   "count_basis": "vendor",
   "region": ""
  },
@@ -20545,7 +20545,7 @@
   "company": "cision",
   "board_url": "https://job-boards.greenhouse.io/cision",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/cision/jobs",
-  "open_roles": 41,
+  "open_roles": 39,
   "count_basis": "vendor",
   "region": ""
  },
@@ -21295,7 +21295,7 @@
   "company": "connecteam",
   "board_url": "https://job-boards.greenhouse.io/connecteam",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/connecteam/jobs",
-  "open_roles": 74,
+  "open_roles": 65,
   "count_basis": "vendor",
   "region": ""
  },
@@ -21475,7 +21475,7 @@
   "company": "coreweave",
   "board_url": "https://job-boards.greenhouse.io/coreweave",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/coreweave/jobs",
-  "open_roles": 312,
+  "open_roles": 311,
   "count_basis": "vendor",
   "region": ""
  },
@@ -21975,7 +21975,7 @@
   "company": "databricks",
   "board_url": "https://job-boards.greenhouse.io/databricks",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/databricks/jobs",
-  "open_roles": 892,
+  "open_roles": 886,
   "count_basis": "vendor",
   "region": ""
  },
@@ -22045,7 +22045,7 @@
   "company": "datavant2",
   "board_url": "https://job-boards.greenhouse.io/datavant2",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/datavant2/jobs",
-  "open_roles": 119,
+  "open_roles": 118,
   "count_basis": "vendor",
   "region": ""
  },
@@ -22325,7 +22325,7 @@
   "company": "digicert",
   "board_url": "https://job-boards.greenhouse.io/digicert",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/digicert/jobs",
-  "open_roles": 54,
+  "open_roles": 53,
   "count_basis": "vendor",
   "region": ""
  },
@@ -22395,7 +22395,7 @@
   "company": "diligentcorporation",
   "board_url": "https://job-boards.greenhouse.io/diligentcorporation",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/diligentcorporation/jobs",
-  "open_roles": 89,
+  "open_roles": 90,
   "count_basis": "vendor",
   "region": ""
  },
@@ -22605,7 +22605,7 @@
   "company": "doordashusa",
   "board_url": "https://job-boards.greenhouse.io/doordashusa",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/doordashusa/jobs",
-  "open_roles": 464,
+  "open_roles": 463,
   "count_basis": "vendor",
   "region": ""
  },
@@ -22695,7 +22695,7 @@
   "company": "dubber",
   "board_url": "https://job-boards.greenhouse.io/dubber",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/dubber/jobs",
-  "open_roles": 3,
+  "open_roles": 4,
   "count_basis": "vendor",
   "region": ""
  },
@@ -23135,7 +23135,7 @@
   "company": "encora10",
   "board_url": "https://job-boards.greenhouse.io/encora10",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/encora10/jobs",
-  "open_roles": 288,
+  "open_roles": 287,
   "count_basis": "vendor",
   "region": ""
  },
@@ -23555,7 +23555,7 @@
   "company": "everlane",
   "board_url": "https://job-boards.greenhouse.io/everlane",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/everlane/jobs",
-  "open_roles": 40,
+  "open_roles": 39,
   "count_basis": "vendor",
   "region": ""
  },
@@ -23855,7 +23855,7 @@
   "company": "fictiv",
   "board_url": "https://job-boards.greenhouse.io/fictiv",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/fictiv/jobs",
-  "open_roles": 95,
+  "open_roles": 93,
   "count_basis": "vendor",
   "region": ""
  },
@@ -24135,7 +24135,7 @@
   "company": "flexport",
   "board_url": "https://job-boards.greenhouse.io/flexport",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/flexport/jobs",
-  "open_roles": 201,
+  "open_roles": 202,
   "count_basis": "vendor",
   "region": ""
  },
@@ -24215,7 +24215,7 @@
   "company": "flyzipline",
   "board_url": "https://job-boards.greenhouse.io/flyzipline",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs",
-  "open_roles": 355,
+  "open_roles": 356,
   "count_basis": "vendor",
   "region": ""
  },
@@ -24745,7 +24745,7 @@
   "company": "gcmgrosvenor",
   "board_url": "https://job-boards.greenhouse.io/gcmgrosvenor",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/gcmgrosvenor/jobs",
-  "open_roles": 16,
+  "open_roles": 14,
   "count_basis": "vendor",
   "region": ""
  },
@@ -25225,7 +25225,7 @@
   "company": "gomotive",
   "board_url": "https://job-boards.greenhouse.io/gomotive",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/gomotive/jobs",
-  "open_roles": 148,
+  "open_roles": 147,
   "count_basis": "vendor",
   "region": ""
  },
@@ -25235,7 +25235,7 @@
   "company": "gongio",
   "board_url": "https://job-boards.greenhouse.io/gongio",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/gongio/jobs",
-  "open_roles": 99,
+  "open_roles": 98,
   "count_basis": "vendor",
   "region": ""
  },
@@ -25855,7 +25855,7 @@
   "company": "hackerrank",
   "board_url": "https://job-boards.greenhouse.io/hackerrank",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/hackerrank/jobs",
-  "open_roles": 26,
+  "open_roles": 28,
   "count_basis": "vendor",
   "region": ""
  },
@@ -26235,7 +26235,7 @@
   "company": "hellofresh",
   "board_url": "https://job-boards.greenhouse.io/hellofresh",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs",
-  "open_roles": 416,
+  "open_roles": 415,
   "count_basis": "vendor",
   "region": ""
  },
@@ -26275,7 +26275,7 @@
   "company": "helsing",
   "board_url": "https://job-boards.greenhouse.io/helsing",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/helsing/jobs",
-  "open_roles": 158,
+  "open_roles": 159,
   "count_basis": "vendor",
   "region": ""
  },
@@ -26665,7 +26665,7 @@
   "company": "honor",
   "board_url": "https://job-boards.greenhouse.io/honor",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/honor/jobs",
-  "open_roles": 14,
+  "open_roles": 13,
   "count_basis": "vendor",
   "region": ""
  },
@@ -26725,7 +26725,7 @@
   "company": "horacemannagents",
   "board_url": "https://job-boards.greenhouse.io/horacemannagents",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/horacemannagents/jobs",
-  "open_roles": 409,
+  "open_roles": 408,
   "count_basis": "vendor",
   "region": ""
  },
@@ -27215,7 +27215,7 @@
   "company": "imaginepediatrics",
   "board_url": "https://job-boards.greenhouse.io/imaginepediatrics",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/imaginepediatrics/jobs",
-  "open_roles": 19,
+  "open_roles": 18,
   "count_basis": "vendor",
   "region": ""
  },
@@ -27905,7 +27905,7 @@
   "company": "internaljobsatlush",
   "board_url": "https://job-boards.greenhouse.io/internaljobsatlush",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/internaljobsatlush/jobs",
-  "open_roles": 99,
+  "open_roles": 97,
   "count_basis": "vendor",
   "region": ""
  },
@@ -28155,7 +28155,7 @@
   "company": "isaraerospace",
   "board_url": "https://job-boards.greenhouse.io/isaraerospace",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/isaraerospace/jobs",
-  "open_roles": 114,
+  "open_roles": 115,
   "count_basis": "vendor",
   "region": ""
  },
@@ -28455,7 +28455,7 @@
   "company": "jfrog",
   "board_url": "https://job-boards.greenhouse.io/jfrog",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/jfrog/jobs",
-  "open_roles": 66,
+  "open_roles": 67,
   "count_basis": "vendor",
   "region": ""
  },
@@ -28625,7 +28625,7 @@
   "company": "jumia",
   "board_url": "https://job-boards.greenhouse.io/jumia",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/jumia/jobs",
-  "open_roles": 20,
+  "open_roles": 21,
   "count_basis": "vendor",
   "region": ""
  },
@@ -28745,7 +28745,7 @@
   "company": "k2spacecorporation",
   "board_url": "https://job-boards.greenhouse.io/k2spacecorporation",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/k2spacecorporation/jobs",
-  "open_roles": 252,
+  "open_roles": 251,
   "count_basis": "vendor",
   "region": ""
  },
@@ -28835,7 +28835,7 @@
   "company": "karat",
   "board_url": "https://job-boards.greenhouse.io/karat",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/karat/jobs",
-  "open_roles": 12,
+  "open_roles": 15,
   "count_basis": "vendor",
   "region": ""
  },
@@ -29565,7 +29565,7 @@
   "company": "kurosbiosciencesinc",
   "board_url": "https://job-boards.greenhouse.io/kurosbiosciencesinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/kurosbiosciencesinc/jobs",
-  "open_roles": 4,
+  "open_roles": 3,
   "count_basis": "vendor",
   "region": ""
  },
@@ -30155,7 +30155,7 @@
   "company": "levio",
   "board_url": "https://job-boards.greenhouse.io/levio",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/levio/jobs",
-  "open_roles": 65,
+  "open_roles": 64,
   "count_basis": "vendor",
   "region": ""
  },
@@ -30695,7 +30695,7 @@
   "company": "loenbro",
   "board_url": "https://job-boards.greenhouse.io/loenbro",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/loenbro/jobs",
-  "open_roles": 365,
+  "open_roles": 366,
   "count_basis": "vendor",
   "region": ""
  },
@@ -30785,7 +30785,7 @@
   "company": "loonshotgames",
   "board_url": "https://job-boards.greenhouse.io/loonshotgames",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/loonshotgames/jobs",
-  "open_roles": 20,
+  "open_roles": 21,
   "count_basis": "vendor",
   "region": ""
  },
@@ -30865,7 +30865,7 @@
   "company": "lucanetgroup",
   "board_url": "https://job-boards.greenhouse.io/lucanetgroup",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/lucanetgroup/jobs",
-  "open_roles": 30,
+  "open_roles": 31,
   "count_basis": "vendor",
   "region": ""
  },
@@ -31005,7 +31005,7 @@
   "company": "lush",
   "board_url": "https://job-boards.greenhouse.io/lush",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/lush/jobs",
-  "open_roles": 314,
+  "open_roles": 316,
   "count_basis": "vendor",
   "region": ""
  },
@@ -31035,7 +31035,7 @@
   "company": "lyft",
   "board_url": "https://job-boards.greenhouse.io/lyft",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/lyft/jobs",
-  "open_roles": 188,
+  "open_roles": 187,
   "count_basis": "vendor",
   "region": ""
  },
@@ -32765,7 +32765,7 @@
   "company": "Momentic",
   "board_url": "https://job-boards.greenhouse.io/Momentic",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/Momentic/jobs",
-  "open_roles": 23,
+  "open_roles": 24,
   "count_basis": "vendor",
   "region": ""
  },
@@ -32855,7 +32855,7 @@
   "company": "moniepoint",
   "board_url": "https://job-boards.greenhouse.io/moniepoint",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/moniepoint/jobs",
-  "open_roles": 150,
+  "open_roles": 152,
   "count_basis": "vendor",
   "region": ""
  },
@@ -32865,7 +32865,7 @@
   "company": "monks",
   "board_url": "https://job-boards.greenhouse.io/monks",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/monks/jobs",
-  "open_roles": 373,
+  "open_roles": 372,
   "count_basis": "vendor",
   "region": ""
  },
@@ -33315,7 +33315,7 @@
   "company": "nadiacare",
   "board_url": "https://job-boards.greenhouse.io/nadiacare",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/nadiacare/jobs",
-  "open_roles": 18,
+  "open_roles": 19,
   "count_basis": "vendor",
   "region": ""
  },
@@ -33405,7 +33405,7 @@
   "company": "natera",
   "board_url": "https://job-boards.greenhouse.io/natera",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/natera/jobs",
-  "open_roles": 209,
+  "open_roles": 205,
   "count_basis": "vendor",
   "region": ""
  },
@@ -33475,7 +33475,7 @@
   "company": "navapbc",
   "board_url": "https://job-boards.greenhouse.io/navapbc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/navapbc/jobs",
-  "open_roles": 12,
+  "open_roles": 11,
   "count_basis": "vendor",
   "region": ""
  },
@@ -33555,7 +33555,7 @@
   "company": "nebius",
   "board_url": "https://job-boards.greenhouse.io/nebius",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/nebius/jobs",
-  "open_roles": 375,
+  "open_roles": 376,
   "count_basis": "vendor",
   "region": ""
  },
@@ -33995,7 +33995,7 @@
   "company": "nice",
   "board_url": "https://job-boards.greenhouse.io/nice",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/nice/jobs",
-  "open_roles": 176,
+  "open_roles": 174,
   "count_basis": "vendor",
   "region": ""
  },
@@ -34145,7 +34145,7 @@
   "company": "noahmedical",
   "board_url": "https://job-boards.greenhouse.io/noahmedical",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/noahmedical/jobs",
-  "open_roles": 7,
+  "open_roles": 6,
   "count_basis": "vendor",
   "region": ""
  },
@@ -34165,7 +34165,7 @@
   "company": "noctrixhealth",
   "board_url": "https://job-boards.greenhouse.io/noctrixhealth",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/noctrixhealth/jobs",
-  "open_roles": 15,
+  "open_roles": 14,
   "count_basis": "vendor",
   "region": ""
  },
@@ -34385,7 +34385,7 @@
   "company": "numa",
   "board_url": "https://job-boards.greenhouse.io/numa",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/numa/jobs",
-  "open_roles": 7,
+  "open_roles": 8,
   "count_basis": "vendor",
   "region": ""
  },
@@ -35105,7 +35105,7 @@
   "company": "onemedical",
   "board_url": "https://job-boards.greenhouse.io/onemedical",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/onemedical/jobs",
-  "open_roles": 406,
+  "open_roles": 407,
   "count_basis": "vendor",
   "region": ""
  },
@@ -35175,7 +35175,7 @@
   "company": "onetrust",
   "board_url": "https://job-boards.greenhouse.io/onetrust",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/onetrust/jobs",
-  "open_roles": 92,
+  "open_roles": 91,
   "count_basis": "vendor",
   "region": ""
  },
@@ -35375,7 +35375,7 @@
   "company": "opswat",
   "board_url": "https://job-boards.greenhouse.io/opswat",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/opswat/jobs",
-  "open_roles": 94,
+  "open_roles": 95,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36315,7 +36315,7 @@
   "company": "payoneer",
   "board_url": "https://job-boards.greenhouse.io/payoneer",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/payoneer/jobs",
-  "open_roles": 102,
+  "open_roles": 103,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36785,7 +36785,7 @@
   "company": "pindropsecurity",
   "board_url": "https://job-boards.greenhouse.io/pindropsecurity",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/pindropsecurity/jobs",
-  "open_roles": 15,
+  "open_roles": 17,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36805,7 +36805,7 @@
   "company": "pingcap",
   "board_url": "https://job-boards.greenhouse.io/pingcap",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/pingcap/jobs",
-  "open_roles": 6,
+  "open_roles": 5,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36915,7 +36915,7 @@
   "company": "placerlabs",
   "board_url": "https://job-boards.greenhouse.io/placerlabs",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/placerlabs/jobs",
-  "open_roles": 19,
+  "open_roles": 18,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36925,7 +36925,7 @@
   "company": "planetlabs",
   "board_url": "https://job-boards.greenhouse.io/planetlabs",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs",
-  "open_roles": 119,
+  "open_roles": 118,
   "count_basis": "vendor",
   "region": ""
  },
@@ -36955,7 +36955,7 @@
   "company": "platacard",
   "board_url": "https://job-boards.greenhouse.io/platacard",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/platacard/jobs",
-  "open_roles": 158,
+  "open_roles": 149,
   "count_basis": "vendor",
   "region": ""
  },
@@ -37105,7 +37105,7 @@
   "company": "podium81",
   "board_url": "https://job-boards.greenhouse.io/podium81",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/podium81/jobs",
-  "open_roles": 59,
+  "open_roles": 58,
   "count_basis": "vendor",
   "region": ""
  },
@@ -37685,7 +37685,7 @@
   "company": "projectaservicesgmbhcokg",
   "board_url": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/projectaservicesgmbhcokg/jobs",
-  "open_roles": 57,
+  "open_roles": 58,
   "count_basis": "vendor",
   "region": ""
  },
@@ -37955,7 +37955,7 @@
   "company": "pulse",
   "board_url": "https://job-boards.greenhouse.io/pulse",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/pulse/jobs",
-  "open_roles": 2724,
+  "open_roles": 2727,
   "count_basis": "vendor",
   "region": ""
  },
@@ -38605,7 +38605,7 @@
   "company": "rdstation",
   "board_url": "https://job-boards.greenhouse.io/rdstation",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/rdstation/jobs",
-  "open_roles": 6,
+  "open_roles": 4,
   "count_basis": "vendor",
   "region": ""
  },
@@ -39625,7 +39625,7 @@
   "company": "rocketlab",
   "board_url": "https://job-boards.greenhouse.io/rocketlab",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs",
-  "open_roles": 571,
+  "open_roles": 570,
   "count_basis": "vendor",
   "region": ""
  },
@@ -40155,7 +40155,7 @@
   "company": "samsara",
   "board_url": "https://job-boards.greenhouse.io/samsara",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/samsara/jobs",
-  "open_roles": 236,
+  "open_roles": 240,
   "count_basis": "vendor",
   "region": ""
  },
@@ -40315,7 +40315,7 @@
   "company": "scaleai",
   "board_url": "https://job-boards.greenhouse.io/scaleai",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/scaleai/jobs",
-  "open_roles": 183,
+  "open_roles": 182,
   "count_basis": "vendor",
   "region": ""
  },
@@ -40735,7 +40735,7 @@
   "company": "sentinellabs",
   "board_url": "https://job-boards.greenhouse.io/sentinellabs",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/sentinellabs/jobs",
-  "open_roles": 267,
+  "open_roles": 268,
   "count_basis": "vendor",
   "region": ""
  },
@@ -40885,7 +40885,7 @@
   "company": "sevenresearch",
   "board_url": "https://job-boards.greenhouse.io/sevenresearch",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/sevenresearch/jobs",
-  "open_roles": 8,
+  "open_roles": 9,
   "count_basis": "vendor",
   "region": ""
  },
@@ -41335,7 +41335,7 @@
   "company": "similarweb",
   "board_url": "https://job-boards.greenhouse.io/similarweb",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/similarweb/jobs",
-  "open_roles": 72,
+  "open_roles": 71,
   "count_basis": "vendor",
   "region": ""
  },
@@ -41685,7 +41685,7 @@
   "company": "smaamerica",
   "board_url": "https://job-boards.greenhouse.io/smaamerica",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/smaamerica/jobs",
-  "open_roles": 21,
+  "open_roles": 22,
   "count_basis": "vendor",
   "region": ""
  },
@@ -42085,7 +42085,7 @@
   "company": "sonymusicentertainment",
   "board_url": "https://job-boards.greenhouse.io/sonymusicentertainment",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/sonymusicentertainment/jobs",
-  "open_roles": 134,
+  "open_roles": 133,
   "count_basis": "vendor",
   "region": ""
  },
@@ -42405,7 +42405,7 @@
   "company": "spektrum",
   "board_url": "https://job-boards.greenhouse.io/spektrum",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/spektrum/jobs",
-  "open_roles": 106,
+  "open_roles": 99,
   "count_basis": "vendor",
   "region": ""
  },
@@ -42415,7 +42415,7 @@
   "company": "sphereentertainment",
   "board_url": "https://job-boards.greenhouse.io/sphereentertainment",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/sphereentertainment/jobs",
-  "open_roles": 30,
+  "open_roles": 31,
   "count_basis": "vendor",
   "region": ""
  },
@@ -43125,7 +43125,7 @@
   "company": "stratolaunch",
   "board_url": "https://job-boards.greenhouse.io/stratolaunch",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/stratolaunch/jobs",
-  "open_roles": 62,
+  "open_roles": 63,
   "count_basis": "vendor",
   "region": ""
  },
@@ -43465,7 +43465,7 @@
   "company": "superset",
   "board_url": "https://job-boards.greenhouse.io/superset",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/superset/jobs",
-  "open_roles": 3,
+  "open_roles": 4,
   "count_basis": "vendor",
   "region": ""
  },
@@ -43555,7 +43555,7 @@
   "company": "svetness",
   "board_url": "https://job-boards.greenhouse.io/svetness",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/svetness/jobs",
-  "open_roles": 4998,
+  "open_roles": 5000,
   "count_basis": "vendor",
   "region": ""
  },
@@ -43745,7 +43745,7 @@
   "company": "tailscale",
   "board_url": "https://job-boards.greenhouse.io/tailscale",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/tailscale/jobs",
-  "open_roles": 61,
+  "open_roles": 63,
   "count_basis": "vendor",
   "region": ""
  },
@@ -43845,7 +43845,7 @@
   "company": "tamara",
   "board_url": "https://job-boards.greenhouse.io/tamara",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/tamara/jobs",
-  "open_roles": 35,
+  "open_roles": 36,
   "count_basis": "vendor",
   "region": ""
  },
@@ -44155,7 +44155,7 @@
   "company": "tecovas",
   "board_url": "https://job-boards.greenhouse.io/tecovas",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/tecovas/jobs",
-  "open_roles": 111,
+  "open_roles": 110,
   "count_basis": "vendor",
   "region": ""
  },
@@ -44245,7 +44245,7 @@
   "company": "tenableinc",
   "board_url": "https://job-boards.greenhouse.io/tenableinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/tenableinc/jobs",
-  "open_roles": 38,
+  "open_roles": 39,
   "count_basis": "vendor",
   "region": ""
  },
@@ -44575,7 +44575,7 @@
   "company": "thefloridapanthers",
   "board_url": "https://job-boards.greenhouse.io/thefloridapanthers",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/thefloridapanthers/jobs",
-  "open_roles": 36,
+  "open_roles": 35,
   "count_basis": "vendor",
   "region": ""
  },
@@ -44785,7 +44785,7 @@
   "company": "theplaceforchildrenwithautism",
   "board_url": "https://job-boards.greenhouse.io/theplaceforchildrenwithautism",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/theplaceforchildrenwithautism/jobs",
-  "open_roles": 34,
+  "open_roles": 33,
   "count_basis": "vendor",
   "region": ""
  },
@@ -45355,7 +45355,7 @@
   "company": "townsquaremedia",
   "board_url": "https://job-boards.greenhouse.io/townsquaremedia",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/townsquaremedia/jobs",
-  "open_roles": 103,
+  "open_roles": 104,
   "count_basis": "vendor",
   "region": ""
  },
@@ -46155,7 +46155,7 @@
   "company": "umaeducationinc",
   "board_url": "https://job-boards.greenhouse.io/umaeducationinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/umaeducationinc/jobs",
-  "open_roles": 7,
+  "open_roles": 6,
   "count_basis": "vendor",
   "region": ""
  },
@@ -46225,7 +46225,7 @@
   "company": "unframe",
   "board_url": "https://job-boards.greenhouse.io/unframe",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/unframe/jobs",
-  "open_roles": 30,
+  "open_roles": 29,
   "count_basis": "vendor",
   "region": ""
  },
@@ -46775,7 +46775,7 @@
   "company": "vardaspace",
   "board_url": "https://job-boards.greenhouse.io/vardaspace",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/vardaspace/jobs",
-  "open_roles": 109,
+  "open_roles": 110,
   "count_basis": "vendor",
   "region": ""
  },
@@ -47165,7 +47165,7 @@
   "company": "veterinaryemergencygroupst",
   "board_url": "https://job-boards.greenhouse.io/veterinaryemergencygroupst",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/veterinaryemergencygroupst/jobs",
-  "open_roles": 1168,
+  "open_roles": 1166,
   "count_basis": "vendor",
   "region": ""
  },
@@ -47185,7 +47185,7 @@
   "company": "veterinarypracticepartners",
   "board_url": "https://job-boards.greenhouse.io/veterinarypracticepartners",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/veterinarypracticepartners/jobs",
-  "open_roles": 284,
+  "open_roles": 282,
   "count_basis": "vendor",
   "region": ""
  },
@@ -47605,7 +47605,7 @@
   "company": "vooban",
   "board_url": "https://job-boards.greenhouse.io/vooban",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/vooban/jobs",
-  "open_roles": 23,
+  "open_roles": 24,
   "count_basis": "vendor",
   "region": ""
  },
@@ -47665,7 +47665,7 @@
   "company": "vscfiresecurityinc",
   "board_url": "https://job-boards.greenhouse.io/vscfiresecurityinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/vscfiresecurityinc/jobs",
-  "open_roles": 63,
+  "open_roles": 62,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48015,7 +48015,7 @@
   "company": "wekatest",
   "board_url": "https://job-boards.greenhouse.io/wekatest",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/wekatest/jobs",
-  "open_roles": 56,
+  "open_roles": 53,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48205,7 +48205,7 @@
   "company": "wikimedia",
   "board_url": "https://job-boards.greenhouse.io/wikimedia",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/wikimedia/jobs",
-  "open_roles": 12,
+  "open_roles": 11,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48325,7 +48325,7 @@
   "company": "winrock",
   "board_url": "https://job-boards.greenhouse.io/winrock",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/winrock/jobs",
-  "open_roles": 16,
+  "open_roles": 20,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48425,7 +48425,7 @@
   "company": "wolt",
   "board_url": "https://job-boards.greenhouse.io/wolt",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/wolt/jobs",
-  "open_roles": 221,
+  "open_roles": 222,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48585,7 +48585,7 @@
   "company": "workwize",
   "board_url": "https://job-boards.greenhouse.io/workwize",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/workwize/jobs",
-  "open_roles": 17,
+  "open_roles": 18,
   "count_basis": "vendor",
   "region": ""
  },
@@ -48905,7 +48905,7 @@
   "company": "xpinc",
   "board_url": "https://job-boards.greenhouse.io/xpinc",
   "api_url": "https://boards-api.greenhouse.io/v1/boards/xpinc/jobs",
-  "open_roles": 158,
+  "open_roles": 157,
   "count_basis": "vendor",
   "region": ""
  },
@@ -49455,7 +49455,7 @@
   "company": "1x",
   "board_url": "https://jobs.ashbyhq.com/1x",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/1x",
-  "open_roles": 98,
+  "open_roles": 99,
   "count_basis": "observed",
   "region": ""
  },
@@ -49585,7 +49585,7 @@
   "company": "abacum",
   "board_url": "https://jobs.ashbyhq.com/abacum",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/abacum",
-  "open_roles": 13,
+  "open_roles": 15,
   "count_basis": "observed",
   "region": ""
  },
@@ -49725,7 +49725,7 @@
   "company": "acorns",
   "board_url": "https://jobs.ashbyhq.com/acorns",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/acorns",
-  "open_roles": 10,
+  "open_roles": 9,
   "count_basis": "observed",
   "region": ""
  },
@@ -49835,7 +49835,7 @@
   "company": "adjoe",
   "board_url": "https://jobs.ashbyhq.com/adjoe",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/adjoe",
-  "open_roles": 52,
+  "open_roles": 53,
   "count_basis": "observed",
   "region": ""
  },
@@ -49945,7 +49945,7 @@
   "company": "AgentMail",
   "board_url": "https://jobs.ashbyhq.com/AgentMail",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/AgentMail",
-  "open_roles": 7,
+  "open_roles": 8,
   "count_basis": "observed",
   "region": ""
  },
@@ -50115,7 +50115,7 @@
   "company": "akasa",
   "board_url": "https://jobs.ashbyhq.com/akasa",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/akasa",
-  "open_roles": 12,
+  "open_roles": 9,
   "count_basis": "observed",
   "region": ""
  },
@@ -50215,7 +50215,7 @@
   "company": "allica-bank",
   "board_url": "https://jobs.ashbyhq.com/allica-bank",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/allica-bank",
-  "open_roles": 37,
+  "open_roles": 35,
   "count_basis": "observed",
   "region": ""
  },
@@ -50415,7 +50415,7 @@
   "company": "ambient.ai",
   "board_url": "https://jobs.ashbyhq.com/ambient.ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/ambient.ai",
-  "open_roles": 24,
+  "open_roles": 25,
   "count_basis": "observed",
   "region": ""
  },
@@ -50665,7 +50665,7 @@
   "company": "antares",
   "board_url": "https://jobs.ashbyhq.com/antares",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/antares",
-  "open_roles": 88,
+  "open_roles": 90,
   "count_basis": "observed",
   "region": ""
  },
@@ -50715,7 +50715,7 @@
   "company": "anyone-ai",
   "board_url": "https://jobs.ashbyhq.com/anyone-ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/anyone-ai",
-  "open_roles": 192,
+  "open_roles": 193,
   "count_basis": "observed",
   "region": ""
  },
@@ -51005,7 +51005,7 @@
   "company": "arena",
   "board_url": "https://jobs.ashbyhq.com/arena",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/arena",
-  "open_roles": 19,
+  "open_roles": 21,
   "count_basis": "observed",
   "region": ""
  },
@@ -52015,7 +52015,7 @@
   "company": "beam-up",
   "board_url": "https://jobs.ashbyhq.com/beam-up",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/beam-up",
-  "open_roles": 30,
+  "open_roles": 29,
   "count_basis": "observed",
   "region": ""
  },
@@ -52585,7 +52585,7 @@
   "company": "bobyard",
   "board_url": "https://jobs.ashbyhq.com/bobyard",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/bobyard",
-  "open_roles": 40,
+  "open_roles": 41,
   "count_basis": "observed",
   "region": ""
  },
@@ -53765,7 +53765,7 @@
   "company": "choco",
   "board_url": "https://jobs.ashbyhq.com/choco",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/choco",
-  "open_roles": 2,
+  "open_roles": 1,
   "count_basis": "observed",
   "region": ""
  },
@@ -53815,7 +53815,7 @@
   "company": "citadel-ai",
   "board_url": "https://jobs.ashbyhq.com/citadel-ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/citadel-ai",
-  "open_roles": 2,
+  "open_roles": 1,
   "count_basis": "observed",
   "region": ""
  },
@@ -53865,7 +53865,7 @@
   "company": "claimsorted",
   "board_url": "https://jobs.ashbyhq.com/claimsorted",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/claimsorted",
-  "open_roles": 18,
+  "open_roles": 17,
   "count_basis": "observed",
   "region": ""
  },
@@ -53985,7 +53985,7 @@
   "company": "Clera",
   "board_url": "https://jobs.ashbyhq.com/Clera",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/Clera",
-  "open_roles": 289,
+  "open_roles": 290,
   "count_basis": "observed",
   "region": ""
  },
@@ -54035,7 +54035,7 @@
   "company": "Clipbook",
   "board_url": "https://jobs.ashbyhq.com/Clipbook",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/Clipbook",
-  "open_roles": 12,
+  "open_roles": 17,
   "count_basis": "observed",
   "region": ""
  },
@@ -54815,7 +54815,7 @@
   "company": "cradlebio",
   "board_url": "https://jobs.ashbyhq.com/cradlebio",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/cradlebio",
-  "open_roles": 9,
+  "open_roles": 8,
   "count_basis": "observed",
   "region": ""
  },
@@ -55025,7 +55025,7 @@
   "company": "cuspai",
   "board_url": "https://jobs.ashbyhq.com/cuspai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/cuspai",
-  "open_roles": 14,
+  "open_roles": 15,
   "count_basis": "observed",
   "region": ""
  },
@@ -55205,7 +55205,7 @@
   "company": "datasnipper",
   "board_url": "https://jobs.ashbyhq.com/datasnipper",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/datasnipper",
-  "open_roles": 44,
+  "open_roles": 45,
   "count_basis": "observed",
   "region": ""
  },
@@ -55335,7 +55335,7 @@
   "company": "deepgram",
   "board_url": "https://jobs.ashbyhq.com/deepgram",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/deepgram",
-  "open_roles": 92,
+  "open_roles": 94,
   "count_basis": "observed",
   "region": ""
  },
@@ -55925,7 +55925,7 @@
   "company": "dust",
   "board_url": "https://jobs.ashbyhq.com/dust",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/dust",
-  "open_roles": 23,
+  "open_roles": 22,
   "count_basis": "observed",
   "region": ""
  },
@@ -56035,7 +56035,7 @@
   "company": "egra",
   "board_url": "https://jobs.ashbyhq.com/egra",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/egra",
-  "open_roles": 0,
+  "open_roles": 1,
   "count_basis": "observed",
   "region": ""
  },
@@ -56275,7 +56275,7 @@
   "company": "embedding-vc",
   "board_url": "https://jobs.ashbyhq.com/embedding-vc",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/embedding-vc",
-  "open_roles": 38,
+  "open_roles": 35,
   "count_basis": "observed",
   "region": ""
  },
@@ -56795,7 +56795,7 @@
   "company": "fal-ai",
   "board_url": "https://jobs.ashbyhq.com/fal-ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/fal-ai",
-  "open_roles": 43,
+  "open_roles": 44,
   "count_basis": "observed",
   "region": ""
  },
@@ -56835,7 +56835,7 @@
   "company": "faros-ai",
   "board_url": "https://jobs.ashbyhq.com/faros-ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/faros-ai",
-  "open_roles": 12,
+  "open_roles": 13,
   "count_basis": "observed",
   "region": ""
  },
@@ -57495,7 +57495,7 @@
   "company": "formenergy",
   "board_url": "https://jobs.ashbyhq.com/formenergy",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/formenergy",
-  "open_roles": 207,
+  "open_roles": 205,
   "count_basis": "observed",
   "region": ""
  },
@@ -58805,7 +58805,7 @@
   "company": "hadrian-automation",
   "board_url": "https://jobs.ashbyhq.com/hadrian-automation",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/hadrian-automation",
-  "open_roles": 134,
+  "open_roles": 133,
   "count_basis": "observed",
   "region": ""
  },
@@ -58835,7 +58835,7 @@
   "company": "halter",
   "board_url": "https://jobs.ashbyhq.com/halter",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/halter",
-  "open_roles": 263,
+  "open_roles": 267,
   "count_basis": "observed",
   "region": ""
  },
@@ -59385,7 +59385,7 @@
   "company": "hinge-health",
   "board_url": "https://jobs.ashbyhq.com/hinge-health",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/hinge-health",
-  "open_roles": 81,
+  "open_roles": 80,
   "count_basis": "observed",
   "region": ""
  },
@@ -59515,7 +59515,7 @@
   "company": "homebase",
   "board_url": "https://jobs.ashbyhq.com/homebase",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/homebase",
-  "open_roles": 23,
+  "open_roles": 22,
   "count_basis": "observed",
   "region": ""
  },
@@ -59595,7 +59595,7 @@
   "company": "horizon3ai",
   "board_url": "https://jobs.ashbyhq.com/horizon3ai",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/horizon3ai",
-  "open_roles": 128,
+  "open_roles": 127,
   "count_basis": "observed",
   "region": ""
  },
@@ -60035,7 +60035,7 @@
   "company": "incident",
   "board_url": "https://jobs.ashbyhq.com/incident",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/incident",
-  "open_roles": 33,
+  "open_roles": 36,
   "count_basis": "observed",
   "region": ""
  },
@@ -60495,7 +60495,7 @@
   "company": "jobber",
   "board_url": "https://jobs.ashbyhq.com/jobber",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/jobber",
-  "open_roles": 40,
+  "open_roles": 41,
   "count_basis": "observed",
   "region": ""
  },
@@ -61155,7 +61155,7 @@
   "company": "kraken-kinetics",
   "board_url": "https://jobs.ashbyhq.com/kraken-kinetics",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/kraken-kinetics",
-  "open_roles": 13,
+  "open_roles": 14,
   "count_basis": "observed",
   "region": ""
  },
@@ -61165,7 +61165,7 @@
   "company": "kraken.com",
   "board_url": "https://jobs.ashbyhq.com/kraken.com",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/kraken.com",
-  "open_roles": 82,
+  "open_roles": 81,
   "count_basis": "observed",
   "region": ""
  },
@@ -61285,7 +61285,7 @@
   "company": "langchain",
   "board_url": "https://jobs.ashbyhq.com/langchain",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/langchain",
-  "open_roles": 103,
+  "open_roles": 102,
   "count_basis": "observed",
   "region": ""
  },
@@ -61295,7 +61295,7 @@
   "company": "langdock",
   "board_url": "https://jobs.ashbyhq.com/langdock",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/langdock",
-  "open_roles": 25,
+  "open_roles": 24,
   "count_basis": "observed",
   "region": ""
  },
@@ -61535,7 +61535,7 @@
   "company": "lemfi",
   "board_url": "https://jobs.ashbyhq.com/lemfi",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/lemfi",
-  "open_roles": 15,
+  "open_roles": 13,
   "count_basis": "observed",
   "region": ""
  },
@@ -61745,7 +61745,7 @@
   "company": "lilt-production",
   "board_url": "https://jobs.ashbyhq.com/lilt-production",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/lilt-production",
-  "open_roles": 463,
+  "open_roles": 464,
   "count_basis": "observed",
   "region": ""
  },
@@ -61755,7 +61755,7 @@
   "company": "limbic",
   "board_url": "https://jobs.ashbyhq.com/limbic",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/limbic",
-  "open_roles": 4,
+  "open_roles": 5,
   "count_basis": "observed",
   "region": ""
  },
@@ -62945,7 +62945,7 @@
   "company": "meter",
   "board_url": "https://jobs.ashbyhq.com/meter",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/meter",
-  "open_roles": 48,
+  "open_roles": 50,
   "count_basis": "observed",
   "region": ""
  },
@@ -64765,7 +64765,7 @@
   "company": "onhires",
   "board_url": "https://jobs.ashbyhq.com/onhires",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/onhires",
-  "open_roles": 47,
+  "open_roles": 46,
   "count_basis": "observed",
   "region": ""
  },
@@ -64865,7 +64865,7 @@
   "company": "opengov",
   "board_url": "https://jobs.ashbyhq.com/opengov",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/opengov",
-  "open_roles": 74,
+  "open_roles": 73,
   "count_basis": "observed",
   "region": ""
  },
@@ -64955,7 +64955,7 @@
   "company": "optimum",
   "board_url": "https://jobs.ashbyhq.com/optimum",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/optimum",
-  "open_roles": 0,
+  "open_roles": 1,
   "count_basis": "observed",
   "region": ""
  },
@@ -66615,7 +66615,7 @@
   "company": "preply",
   "board_url": "https://jobs.ashbyhq.com/preply",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/preply",
-  "open_roles": 128,
+  "open_roles": 127,
   "count_basis": "observed",
   "region": ""
  },
@@ -66905,7 +66905,7 @@
   "company": "proxima-fusion",
   "board_url": "https://jobs.ashbyhq.com/proxima-fusion",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/proxima-fusion",
-  "open_roles": 47,
+  "open_roles": 50,
   "count_basis": "observed",
   "region": ""
  },
@@ -68505,7 +68505,7 @@
   "company": "salonkee",
   "board_url": "https://jobs.ashbyhq.com/salonkee",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/salonkee",
-  "open_roles": 98,
+  "open_roles": 110,
   "count_basis": "observed",
   "region": ""
  },
@@ -71305,7 +71305,7 @@
   "company": "telepatia",
   "board_url": "https://jobs.ashbyhq.com/telepatia",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/telepatia",
-  "open_roles": 18,
+  "open_roles": 20,
   "count_basis": "observed",
   "region": ""
  },
@@ -73275,7 +73275,7 @@
   "company": "voize",
   "board_url": "https://jobs.ashbyhq.com/voize",
   "api_url": "https://api.ashbyhq.com/posting-api/job-board/voize",
-  "open_roles": 42,
+  "open_roles": 43,
   "count_basis": "observed",
   "region": ""
  },
@@ -74545,7 +74545,7 @@
   "company": "crypto",
   "board_url": "https://jobs.lever.co/crypto",
   "api_url": "https://api.lever.co/v0/postings/crypto?mode=json",
-  "open_roles": 84,
+  "open_roles": 83,
   "count_basis": "observed",
   "region": "US"
  },
@@ -75025,7 +75025,7 @@
   "company": "lifestance",
   "board_url": "https://jobs.lever.co/lifestance",
   "api_url": "https://api.lever.co/v0/postings/lifestance?mode=json",
-  "open_roles": 1388,
+  "open_roles": 1393,
   "count_basis": "observed",
   "region": "US"
  },
@@ -75035,7 +75035,7 @@
   "company": "lindblad-expeditions",
   "board_url": "https://jobs.lever.co/lindblad-expeditions",
   "api_url": "https://api.lever.co/v0/postings/lindblad-expeditions?mode=json",
-  "open_roles": 30,
+  "open_roles": 31,
   "count_basis": "observed",
   "region": "US"
  },
@@ -75125,7 +75125,7 @@
   "company": "mobileye",
   "board_url": "https://jobs.eu.lever.co/mobileye",
   "api_url": "https://api.eu.lever.co/v0/postings/mobileye?mode=json",
-  "open_roles": 186,
+  "open_roles": 184,
   "count_basis": "observed",
   "region": "EU"
  },
@@ -75465,7 +75465,7 @@
   "company": "seb",
   "board_url": "https://jobs.eu.lever.co/seb",
   "api_url": "https://api.eu.lever.co/v0/postings/seb?mode=json",
-  "open_roles": 142,
+  "open_roles": 137,
   "count_basis": "observed",
   "region": "EU"
  },
@@ -75495,7 +75495,7 @@
   "company": "shieldai",
   "board_url": "https://jobs.lever.co/shieldai",
   "api_url": "https://api.lever.co/v0/postings/shieldai?mode=json",
-  "open_roles": 615,
+  "open_roles": 616,
   "count_basis": "observed",
   "region": "US"
  },
@@ -75525,7 +75525,7 @@
   "company": "sonatype",
   "board_url": "https://jobs.lever.co/sonatype",
   "api_url": "https://api.lever.co/v0/postings/sonatype?mode=json",
-  "open_roles": 20,
+  "open_roles": 19,
   "count_basis": "observed",
   "region": "US"
  },
@@ -75925,7 +75925,7 @@
   "company": "1global",
   "board_url": "https://apply.workable.com/1global",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/1global",
-  "open_roles": 36,
+  "open_roles": 34,
   "count_basis": "observed",
   "region": ""
  },
@@ -75935,7 +75935,7 @@
   "company": "1kosmos",
   "board_url": "https://apply.workable.com/1kosmos",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/1kosmos",
-  "open_roles": 14,
+  "open_roles": 15,
   "count_basis": "observed",
   "region": ""
  },
@@ -76785,7 +76785,7 @@
   "company": "allgrandbrands",
   "board_url": "https://apply.workable.com/allgrandbrands",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/allgrandbrands",
-  "open_roles": 4,
+  "open_roles": 5,
   "count_basis": "observed",
   "region": ""
  },
@@ -77345,7 +77345,7 @@
   "company": "apt-resources",
   "board_url": "https://apply.workable.com/apt-resources",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/apt-resources",
-  "open_roles": 134,
+  "open_roles": 135,
   "count_basis": "observed",
   "region": ""
  },
@@ -79595,7 +79595,7 @@
   "company": "citywide",
   "board_url": "https://apply.workable.com/citywide",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/citywide",
-  "open_roles": 468,
+  "open_roles": 469,
   "count_basis": "observed",
   "region": ""
  },
@@ -80525,7 +80525,7 @@
   "company": "d-one",
   "board_url": "https://apply.workable.com/d-one",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/d-one",
-  "open_roles": 9,
+  "open_roles": 8,
   "count_basis": "observed",
   "region": ""
  },
@@ -80585,7 +80585,7 @@
   "company": "datamark-inc",
   "board_url": "https://apply.workable.com/datamark-inc",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/datamark-inc",
-  "open_roles": 82,
+  "open_roles": 80,
   "count_basis": "observed",
   "region": ""
  },
@@ -80625,7 +80625,7 @@
   "company": "david-protein",
   "board_url": "https://apply.workable.com/david-protein",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/david-protein",
-  "open_roles": 34,
+  "open_roles": 35,
   "count_basis": "observed",
   "region": ""
  },
@@ -81265,7 +81265,7 @@
   "company": "eandd",
   "board_url": "https://apply.workable.com/eandd",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/eandd",
-  "open_roles": 44,
+  "open_roles": 45,
   "count_basis": "observed",
   "region": ""
  },
@@ -81835,7 +81835,7 @@
   "company": "eramtalent-1",
   "board_url": "https://apply.workable.com/eramtalent-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/eramtalent-1",
-  "open_roles": 454,
+  "open_roles": 455,
   "count_basis": "observed",
   "region": ""
  },
@@ -82005,7 +82005,7 @@
   "company": "evidence-action",
   "board_url": "https://apply.workable.com/evidence-action",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/evidence-action",
-  "open_roles": 34,
+  "open_roles": 33,
   "count_basis": "observed",
   "region": ""
  },
@@ -82525,7 +82525,7 @@
   "company": "flexxon-1",
   "board_url": "https://apply.workable.com/flexxon-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/flexxon-1",
-  "open_roles": 11,
+  "open_roles": 12,
   "count_basis": "observed",
   "region": ""
  },
@@ -82795,7 +82795,7 @@
   "company": "freedup",
   "board_url": "https://apply.workable.com/freedup",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/freedup",
-  "open_roles": 35,
+  "open_roles": 36,
   "count_basis": "observed",
   "region": ""
  },
@@ -84735,7 +84735,7 @@
   "company": "integrant",
   "board_url": "https://apply.workable.com/integrant",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/integrant",
-  "open_roles": 29,
+  "open_roles": 26,
   "count_basis": "observed",
   "region": ""
  },
@@ -85115,7 +85115,7 @@
   "company": "jasarapmc",
   "board_url": "https://apply.workable.com/jasarapmc",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/jasarapmc",
-  "open_roles": 198,
+  "open_roles": 197,
   "count_basis": "observed",
   "region": ""
  },
@@ -85735,7 +85735,7 @@
   "company": "lago-1",
   "board_url": "https://apply.workable.com/lago-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/lago-1",
-  "open_roles": 127,
+  "open_roles": 128,
   "count_basis": "observed",
   "region": ""
  },
@@ -86235,7 +86235,7 @@
   "company": "lucidya",
   "board_url": "https://apply.workable.com/lucidya",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/lucidya",
-  "open_roles": 24,
+  "open_roles": 25,
   "count_basis": "observed",
   "region": ""
  },
@@ -86275,7 +86275,7 @@
   "company": "lyka",
   "board_url": "https://apply.workable.com/lyka",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/lyka",
-  "open_roles": 15,
+  "open_roles": 17,
   "count_basis": "observed",
   "region": ""
  },
@@ -87435,7 +87435,7 @@
   "company": "nawy-real-estate",
   "board_url": "https://apply.workable.com/nawy-real-estate",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/nawy-real-estate",
-  "open_roles": 55,
+  "open_roles": 56,
   "count_basis": "observed",
   "region": ""
  },
@@ -88015,7 +88015,7 @@
   "company": "on-hire-1",
   "board_url": "https://apply.workable.com/on-hire-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/on-hire-1",
-  "open_roles": 22,
+  "open_roles": 12,
   "count_basis": "observed",
   "region": ""
  },
@@ -88085,7 +88085,7 @@
   "company": "openfn",
   "board_url": "https://apply.workable.com/openfn",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/openfn",
-  "open_roles": 6,
+  "open_roles": 8,
   "count_basis": "observed",
   "region": ""
  },
@@ -88195,7 +88195,7 @@
   "company": "origin-10x",
   "board_url": "https://apply.workable.com/origin-10x",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/origin-10x",
-  "open_roles": 44,
+  "open_roles": 36,
   "count_basis": "observed",
   "region": ""
  },
@@ -88345,7 +88345,7 @@
   "company": "pairedrecruiting",
   "board_url": "https://apply.workable.com/pairedrecruiting",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/pairedrecruiting",
-  "open_roles": 85,
+  "open_roles": 87,
   "count_basis": "observed",
   "region": ""
  },
@@ -88365,7 +88365,7 @@
   "company": "pakistan-single-window",
   "board_url": "https://apply.workable.com/pakistan-single-window",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/pakistan-single-window",
-  "open_roles": 3,
+  "open_roles": 5,
   "count_basis": "observed",
   "region": ""
  },
@@ -89105,7 +89105,7 @@
   "company": "procook-1",
   "board_url": "https://apply.workable.com/procook-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/procook-1",
-  "open_roles": 44,
+  "open_roles": 42,
   "count_basis": "observed",
   "region": ""
  },
@@ -89325,7 +89325,7 @@
   "company": "qiddiya-investment-company-1",
   "board_url": "https://apply.workable.com/qiddiya-investment-company-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/qiddiya-investment-company-1",
-  "open_roles": 271,
+  "open_roles": 272,
   "count_basis": "observed",
   "region": ""
  },
@@ -89345,7 +89345,7 @@
   "company": "qodeworld",
   "board_url": "https://apply.workable.com/qodeworld",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/qodeworld",
-  "open_roles": 43,
+  "open_roles": 41,
   "count_basis": "observed",
   "region": ""
  },
@@ -89785,7 +89785,7 @@
   "company": "remote-recruitment",
   "board_url": "https://apply.workable.com/remote-recruitment",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/remote-recruitment",
-  "open_roles": 21,
+  "open_roles": 30,
   "count_basis": "observed",
   "region": ""
  },
@@ -90275,7 +90275,7 @@
   "company": "salla",
   "board_url": "https://apply.workable.com/salla",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/salla",
-  "open_roles": 32,
+  "open_roles": 31,
   "count_basis": "observed",
   "region": ""
  },
@@ -91615,7 +91615,7 @@
   "company": "sumerge-1",
   "board_url": "https://apply.workable.com/sumerge-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/sumerge-1",
-  "open_roles": 21,
+  "open_roles": 22,
   "count_basis": "observed",
   "region": ""
  },
@@ -91685,7 +91685,7 @@
   "company": "supplycore-1",
   "board_url": "https://apply.workable.com/supplycore-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/supplycore-1",
-  "open_roles": 8,
+  "open_roles": 7,
   "count_basis": "observed",
   "region": ""
  },
@@ -91995,7 +91995,7 @@
   "company": "techop-solutions-international",
   "board_url": "https://apply.workable.com/techop-solutions-international",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/techop-solutions-international",
-  "open_roles": 39,
+  "open_roles": 40,
   "count_basis": "observed",
   "region": ""
  },
@@ -93065,7 +93065,7 @@
   "company": "uni-systems",
   "board_url": "https://apply.workable.com/uni-systems",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/uni-systems",
-  "open_roles": 24,
+  "open_roles": 25,
   "count_basis": "observed",
   "region": ""
  },
@@ -93925,7 +93925,7 @@
   "company": "weekday-1",
   "board_url": "https://apply.workable.com/weekday-1",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/weekday-1",
-  "open_roles": 758,
+  "open_roles": 760,
   "count_basis": "observed",
   "region": ""
  },
@@ -94015,7 +94015,7 @@
   "company": "whizz",
   "board_url": "https://apply.workable.com/whizz",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/whizz",
-  "open_roles": 81,
+  "open_roles": 83,
   "count_basis": "observed",
   "region": ""
  },
@@ -94285,7 +94285,7 @@
   "company": "world-central-kitchen",
   "board_url": "https://apply.workable.com/world-central-kitchen",
   "api_url": "https://apply.workable.com/api/v1/widget/accounts/world-central-kitchen",
-  "open_roles": 6,
+  "open_roles": 8,
   "count_basis": "observed",
   "region": ""
  },
@@ -94935,7 +94935,7 @@
   "company": "aikidosecurity",
   "board_url": "https://aikidosecurity.recruitee.com",
   "api_url": "https://aikidosecurity.recruitee.com/api/offers/",
-  "open_roles": 76,
+  "open_roles": 77,
   "count_basis": "observed",
   "region": ""
  },
@@ -96205,7 +96205,7 @@
   "company": "careersdeltacapita",
   "board_url": "https://careersdeltacapita.recruitee.com",
   "api_url": "https://careersdeltacapita.recruitee.com/api/offers/",
-  "open_roles": 56,
+  "open_roles": 55,
   "count_basis": "observed",
   "region": ""
  },
@@ -97135,7 +97135,7 @@
   "company": "distribusion",
   "board_url": "https://distribusion.recruitee.com",
   "api_url": "https://distribusion.recruitee.com/api/offers/",
-  "open_roles": 28,
+  "open_roles": 27,
   "count_basis": "observed",
   "region": ""
  },
@@ -97145,7 +97145,7 @@
   "company": "distribusiontechnologies",
   "board_url": "https://distribusiontechnologies.recruitee.com",
   "api_url": "https://distribusiontechnologies.recruitee.com/api/offers/",
-  "open_roles": 28,
+  "open_roles": 27,
   "count_basis": "observed",
   "region": ""
  },
@@ -99075,7 +99075,7 @@
   "company": "hudsonmanpower",
   "board_url": "https://hudsonmanpower.recruitee.com",
   "api_url": "https://hudsonmanpower.recruitee.com/api/offers/",
-  "open_roles": 140,
+  "open_roles": 141,
   "count_basis": "observed",
   "region": ""
  },
@@ -99285,7 +99285,7 @@
   "company": "institutminestelecom",
   "board_url": "https://institutminestelecom.recruitee.com",
   "api_url": "https://institutminestelecom.recruitee.com/api/offers/",
-  "open_roles": 52,
+  "open_roles": 51,
   "count_basis": "observed",
   "region": ""
  },
@@ -100975,7 +100975,7 @@
   "company": "neptun",
   "board_url": "https://neptun.recruitee.com",
   "api_url": "https://neptun.recruitee.com/api/offers/",
-  "open_roles": 4,
+  "open_roles": 3,
   "count_basis": "observed",
   "region": ""
  },
@@ -103855,7 +103855,7 @@
   "company": "tytantechnologiesgmbh",
   "board_url": "https://tytantechnologiesgmbh.recruitee.com",
   "api_url": "https://tytantechnologiesgmbh.recruitee.com/api/offers/",
-  "open_roles": 53,
+  "open_roles": 54,
   "count_basis": "observed",
   "region": ""
  },
@@ -104125,7 +104125,7 @@
   "company": "vebegofacilityservices3",
   "board_url": "https://vebegofacilityservices3.recruitee.com",
   "api_url": "https://vebegofacilityservices3.recruitee.com/api/offers/",
-  "open_roles": 143,
+  "open_roles": 142,
   "count_basis": "observed",
   "region": ""
  },
@@ -106025,7 +106025,7 @@
   "company": "beehive-industries",
   "board_url": "https://ats.rippling.com/beehive-industries",
   "api_url": "https://api.rippling.com/platform/api/ats/v1/board/beehive-industries/jobs",
-  "open_roles": 97,
+  "open_roles": 96,
   "count_basis": "observed",
   "region": ""
  },
@@ -110345,7 +110345,7 @@
   "company": "nucleus-biologics-careers",
   "board_url": "https://ats.rippling.com/nucleus-biologics-careers",
   "api_url": "https://api.rippling.com/platform/api/ats/v1/board/nucleus-biologics-careers/jobs",
-  "open_roles": 1,
+  "open_roles": 0,
   "count_basis": "observed",
   "region": ""
  },
@@ -111505,7 +111505,7 @@
   "company": "rippling",
   "board_url": "https://ats.rippling.com/rippling",
   "api_url": "https://api.rippling.com/platform/api/ats/v1/board/rippling/jobs",
-  "open_roles": 344,
+  "open_roles": 346,
   "count_basis": "observed",
   "region": ""
  },
@@ -111945,7 +111945,7 @@
   "company": "sharp-performance",
   "board_url": "https://ats.rippling.com/sharp-performance",
   "api_url": "https://api.rippling.com/platform/api/ats/v1/board/sharp-performance/jobs",
-  "open_roles": 4,
+  "open_roles": 6,
   "count_basis": "observed",
   "region": ""
  },
@@ -115115,7 +115115,7 @@
   "company": "clarius",
   "board_url": "https://clarius.jobs.personio.de",
   "api_url": "https://clarius.jobs.personio.de/xml",
-  "open_roles": 15,
+  "open_roles": 14,
   "count_basis": "observed",
   "region": ""
  },
@@ -120955,7 +120955,7 @@
   "company": "sungrow-emea",
   "board_url": "https://sungrow-emea.jobs.personio.de",
   "api_url": "https://sungrow-emea.jobs.personio.de/xml",
-  "open_roles": 116,
+  "open_roles": 117,
   "count_basis": "observed",
   "region": ""
  },

@@ -27,7 +27,7 @@ lever,coinspaid,coinspaid,https://jobs.eu.lever.co/coinspaid,https://api.eu.leve
 lever,controlai,controlai,https://jobs.eu.lever.co/controlai,https://api.eu.lever.co/v0/postings/controlai?mode=json,3,observed,EU
 lever,coretechsecurity,coretechsecurity,https://jobs.eu.lever.co/coretechsecurity,https://api.eu.lever.co/v0/postings/coretechsecurity?mode=json,15,observed,EU
 lever,creatio,creatio,https://jobs.eu.lever.co/creatio,https://api.eu.lever.co/v0/postings/creatio?mode=json,98,observed,EU
-lever,crypto,crypto,https://jobs.lever.co/crypto,https://api.lever.co/v0/postings/crypto?mode=json,84,observed,US
+lever,crypto,crypto,https://jobs.lever.co/crypto,https://api.lever.co/v0/postings/crypto?mode=json,83,observed,US
 lever,csmcy,csmcy,https://jobs.eu.lever.co/csmcy,https://api.eu.lever.co/v0/postings/csmcy?mode=json,215,observed,EU
 lever,diabolocom,diabolocom,https://jobs.eu.lever.co/diabolocom,https://api.eu.lever.co/v0/postings/diabolocom?mode=json,11,observed,EU
 lever,dlocal,dlocal,https://jobs.lever.co/dlocal,https://api.lever.co/v0/postings/dlocal?mode=json,53,observed,US
@@ -75,8 +75,8 @@ lever,kto,kto,https://jobs.eu.lever.co/kto,https://api.eu.lever.co/v0/postings/k
 lever,kwalee,kwalee,https://jobs.eu.lever.co/kwalee,https://api.eu.lever.co/v0/postings/kwalee?mode=json,15,observed,EU
 lever,kyivstar,kyivstar,https://jobs.lever.co/kyivstar,https://api.lever.co/v0/postings/kyivstar?mode=json,126,observed,US
 lever,life,life,https://jobs.lever.co/life,https://api.lever.co/v0/postings/life?mode=json,55,observed,US
-lever,lifestance,lifestance,https://jobs.lever.co/lifestance,https://api.lever.co/v0/postings/lifestance?mode=json,1388,observed,US
-lever,lindblad-expeditions,lindblad-expeditions,https://jobs.lever.co/lindblad-expeditions,https://api.lever.co/v0/postings/lindblad-expeditions?mode=json,30,observed,US
+lever,lifestance,lifestance,https://jobs.lever.co/lifestance,https://api.lever.co/v0/postings/lifestance?mode=json,1393,observed,US
+lever,lindblad-expeditions,lindblad-expeditions,https://jobs.lever.co/lindblad-expeditions,https://api.lever.co/v0/postings/lindblad-expeditions?mode=json,31,observed,US
 lever,lionbridge,lionbridge,https://jobs.eu.lever.co/lionbridge,https://api.eu.lever.co/v0/postings/lionbridge?mode=json,56,observed,EU
 lever,loadsmart,loadsmart,https://jobs.lever.co/loadsmart,https://api.lever.co/v0/postings/loadsmart?mode=json,12,observed,US
 lever,logrocket,logrocket,https://jobs.lever.co/logrocket,https://api.lever.co/v0/postings/logrocket?mode=json,9,observed,US
@@ -85,7 +85,7 @@ lever,markt-pilot,markt-pilot,https://jobs.eu.lever.co/markt-pilot,https://api.e
 lever,mavenoid,mavenoid,https://jobs.eu.lever.co/mavenoid,https://api.eu.lever.co/v0/postings/mavenoid?mode=json,0,observed,EU
 lever,mega,mega,https://jobs.lever.co/mega,https://api.lever.co/v0/postings/mega?mode=json,12,observed,US
 lever,metlife,metlife,https://jobs.lever.co/metlife,https://api.lever.co/v0/postings/metlife?mode=json,39,observed,US
-lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,186,observed,EU
+lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,184,observed,EU
 lever,neon,neon,https://jobs.lever.co/neon,https://api.lever.co/v0/postings/neon?mode=json,13,observed,US
 lever,newton,newton,https://jobs.lever.co/newton,https://api.lever.co/v0/postings/newton?mode=json,3,observed,US
 lever,numan,numan,https://jobs.eu.lever.co/numan,https://api.eu.lever.co/v0/postings/numan?mode=json,8,observed,EU
@@ -119,13 +119,13 @@ lever,rigetti,rigetti,https://jobs.lever.co/rigetti,https://api.lever.co/v0/post
 lever,rise,rise,https://jobs.lever.co/rise,https://api.lever.co/v0/postings/rise?mode=json,25,observed,US
 lever,scaleway,scaleway,https://jobs.lever.co/scaleway,https://api.lever.co/v0/postings/scaleway?mode=json,25,observed,US
 lever,scholarrock,scholarrock,https://jobs.lever.co/scholarrock,https://api.lever.co/v0/postings/scholarrock?mode=json,35,observed,US
-lever,seb,seb,https://jobs.eu.lever.co/seb,https://api.eu.lever.co/v0/postings/seb?mode=json,142,observed,EU
+lever,seb,seb,https://jobs.eu.lever.co/seb,https://api.eu.lever.co/v0/postings/seb?mode=json,137,observed,EU
 lever,second,second,https://jobs.eu.lever.co/second,https://api.eu.lever.co/v0/postings/second?mode=json,4,observed,EU
 lever,secureframe,secureframe,https://jobs.lever.co/secureframe,https://api.lever.co/v0/postings/secureframe?mode=json,15,observed,US
-lever,shieldai,shieldai,https://jobs.lever.co/shieldai,https://api.lever.co/v0/postings/shieldai?mode=json,615,observed,US
+lever,shieldai,shieldai,https://jobs.lever.co/shieldai,https://api.lever.co/v0/postings/shieldai?mode=json,616,observed,US
 lever,sila,sila,https://jobs.lever.co/sila,https://api.lever.co/v0/postings/sila?mode=json,219,observed,US
 lever,silverfin,silverfin,https://jobs.eu.lever.co/silverfin,https://api.eu.lever.co/v0/postings/silverfin?mode=json,6,observed,EU
-lever,sonatype,sonatype,https://jobs.lever.co/sonatype,https://api.lever.co/v0/postings/sonatype?mode=json,20,observed,US
+lever,sonatype,sonatype,https://jobs.lever.co/sonatype,https://api.lever.co/v0/postings/sonatype?mode=json,19,observed,US
 lever,sportalliance,sportalliance,https://jobs.eu.lever.co/sportalliance,https://api.eu.lever.co/v0/postings/sportalliance?mode=json,7,observed,EU
 lever,spotify,spotify,https://jobs.lever.co/spotify,https://api.lever.co/v0/postings/spotify?mode=json,85,observed,US
 lever,stellar,stellar,https://jobs.eu.lever.co/stellar,https://api.eu.lever.co/v0/postings/stellar?mode=json,10,observed,EU
