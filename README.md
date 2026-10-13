@@ -1,21 +1,20 @@
 # Job board directory
 
-Public, free directory of **12,784 job board addresses** across nine
+Public, free directory of **12,237 job board addresses** across eight
 applicant-tracking systems, each one confirmed live against the vendor's own
-public API.
+public API. Counts are from the 2026-10-12 build. The live page is rebuilt nightly.
 
 **https://kalebconfer-sys.github.io/job-board-directory**
 
 | Platform | Boards |
 |---|---|
-| Greenhouse | 3,574 |
+| Greenhouse | 3,576 |
 | Ashby | 2,486 |
 | Workable | 1,875 |
-| Workday | 1,251 |
+| Workday | 1,364 |
 | Recruitee | 1,043 |
 | Personio | 866 |
 | Rippling | 864 |
-| SmartRecruiters | 662 |
 | Lever | 163 |
 
 ## Why
