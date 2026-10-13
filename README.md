@@ -41,5 +41,10 @@ are timestamped observations, not promises — boards change daily.
 
 ## As data
 
-Each platform has a matching Actor that returns the whole directory free, or the
-postings from any board you name: https://apify.com/blooming_gator
+The postings themselves, from every board in the live directory, are in one API
+on RapidAPI: https://rapidapi.com/KalebConfer/api/nightly-ats-hiring-index
+Search by title, company or location, and pull each night's opened and closed
+postings. Free for 100 requests a month, $45 a month for 2,500.
+
+Each platform also has a matching Actor that returns the whole directory free,
+or the postings from any board you name: https://apify.com/blooming_gator
