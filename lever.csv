@@ -85,7 +85,7 @@ lever,markt-pilot,markt-pilot,https://jobs.eu.lever.co/markt-pilot,https://api.e
 lever,mavenoid,mavenoid,https://jobs.eu.lever.co/mavenoid,https://api.eu.lever.co/v0/postings/mavenoid?mode=json,0,observed,EU
 lever,mega,mega,https://jobs.lever.co/mega,https://api.lever.co/v0/postings/mega?mode=json,12,observed,US
 lever,metlife,metlife,https://jobs.lever.co/metlife,https://api.lever.co/v0/postings/metlife?mode=json,39,observed,US
-lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,187,observed,EU
+lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,182,observed,EU
 lever,neon,neon,https://jobs.lever.co/neon,https://api.lever.co/v0/postings/neon?mode=json,8,observed,US
 lever,newton,newton,https://jobs.lever.co/newton,https://api.lever.co/v0/postings/newton?mode=json,2,observed,US
 lever,numan,numan,https://jobs.eu.lever.co/numan,https://api.eu.lever.co/v0/postings/numan?mode=json,13,observed,EU
