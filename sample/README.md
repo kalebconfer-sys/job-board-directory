@@ -1,6 +1,6 @@
 # jobs-index — sample pack
 
-Five CSVs and a manifest. Everything here is real output from the running
+Six CSVs and a manifest. Everything here is real output from the running
 system on the date in `manifest.json`; nothing is mocked, trimmed to flatter,
 or hand-corrected.
 
@@ -17,6 +17,7 @@ Read `boards-completeness.csv` first. It is the file the product is about.
 | `change-events-sample.csv` | ~1,000 | Openings and closures, each carrying a confidence grade **and the written basis for that grade**. |
 | `postings-sample.csv` | 1,000 | One posting per company, so the sample reads as breadth rather than one big board. |
 | `snapshot-series.csv` | every recorded day | The point-in-time series, including the days it is missing. |
+| `sp500-daily.csv` | every S&P 500 board, every recorded day | Roles observed per board per day for every constituent with a board here, keyed by ticker. |
 
 ---
 
@@ -39,8 +40,9 @@ count treats all four identically. Only the first is a signal. Here they are
 four different rows.
 
 `vendor_publishes_count` tells you, before you look at anything else, whether
-a verdict on that board was even possible. Three platforms publish a total:
-Greenhouse, Workday, BambooHR. The rest do not, and their
+a verdict on that board was even possible. Seven platforms publish a total:
+Greenhouse, Workday, BambooHR, Eightfold, SuccessFactors, Phenom and Oracle HCM.
+The rest do not, and their
 boards are labelled `unverifiable` rather than assumed good.
 
 ---
@@ -92,6 +94,27 @@ Two guards produce refusals rather than rows:
   snapshot row and does not persist to the next day.
 
 ---
+
+## `sp500-daily.csv` — the S&P 500, board by board, day by day
+
+One row per board per recorded day for every S&P 500 constituent that has a
+board in the index, keyed by the ticker as filed with the SEC (one ticker per
+board, so a dual-class name appears once). `roles_observed` is the count held
+for that board on that day. A board's rows begin on the first day the index
+read it; earlier days are absent, not zero. `roles_observed` counts requisitions,
+the same thing `roles_fetched` counts in `boards-completeness.csv`. A day the board could not be read has
+`unreachable = 1` and `roles_observed` left blank: it is not a zero. `via`
+reads `subsidiary` where the board belongs to a subsidiary of the constituent,
+so those rows are not summed as the parent's own hiring. Which constituents are
+covered is in `manifest.json` (`sp500_tickers`, `sp500_boards`); the ones with
+no board here are absent, never estimated. Greenhouse requisition ids carry no
+board token, so a Greenhouse board is counted by the employer name it publishes;
+one that publishes none is left out and counted in `sp500_boards_left_out`.
+`at_cap = 1` marks a Workday read that hit the collector's 2,000-posting cap:
+the true count that day is at least the number shown. Capped tenants that
+publish a total were completed from 2026-10-06, so a step up on that date is
+the cap lifting, not hiring; a few tenants that publish no total still read at
+the cap and stay flagged.
 
 ## Limits of this sample, stated up front
 
