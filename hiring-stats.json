@@ -1,37 +1,37 @@
 {
- "closed": 188915,
- "closures_provable": 82507,
+ "closed": 191226,
+ "closures_provable": 83472,
  "closures_provable_pct": 43.7,
- "companies": 9221,
+ "companies": 9159,
  "control": {
-  "baseline_day": "2026-10-23",
-  "control_median_lag": 31,
-  "control_within_2d_pct": 7.6,
-  "opened_median_lag": 9,
-  "opened_within_2d_pct": 25.4,
-  "reference_day": "2026-10-30",
-  "separation": 3.4,
-  "usable_as_evidence": true
+  "baseline_day": "2026-10-24",
+  "control_median_lag": 32,
+  "control_within_2d_pct": 10.8,
+  "opened_median_lag": 10,
+  "opened_within_2d_pct": 23.0,
+  "reference_day": "2026-10-31",
+  "separation": 2.1,
+  "usable_as_evidence": false
  },
- "coverage_rows": 156905,
+ "coverage_rows": 147694,
  "days": 8,
- "events": 436763,
- "first_day": "2026-10-23",
+ "events": 421358,
+ "first_day": "2026-10-24",
  "freshness": {
-  "measured": 73923,
-  "median_lag": 8,
-  "stale_over_7d": 40034,
-  "stale_over_7d_pct": 54.2,
-  "within_2d": 27366,
-  "within_2d_pct": 37.0
+  "measured": 71750,
+  "median_lag": 13,
+  "stale_over_7d": 40943,
+  "stale_over_7d_pct": 57.1,
+  "within_2d": 24716,
+  "within_2d_pct": 34.4
  },
- "last_day": "2026-10-30",
+ "last_day": "2026-10-31",
  "location": {
-  "placed": 42707,
-  "placed_pct": 15.3,
+  "placed": 42410,
+  "placed_pct": 15.5,
   "places": 57,
-  "unplaced": 237151
+  "unplaced": 231254
  },
- "location_moves": 78446,
- "opened": 247848
+ "location_moves": 76026,
+ "opened": 230132
 }
