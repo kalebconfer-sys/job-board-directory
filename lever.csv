@@ -19,7 +19,7 @@ lever,blue,blue,https://jobs.lever.co/blue,https://api.lever.co/v0/postings/blue
 lever,byborgenterprises,byborgenterprises,https://jobs.eu.lever.co/byborgenterprises,https://api.eu.lever.co/v0/postings/byborgenterprises?mode=json,9,observed,EU
 lever,callan,callan,https://jobs.lever.co/callan,https://api.lever.co/v0/postings/callan?mode=json,4,observed,US
 lever,cambiumnetworks,cambiumnetworks,https://jobs.lever.co/cambiumnetworks,https://api.lever.co/v0/postings/cambiumnetworks?mode=json,1,observed,US
-lever,capital,capital,https://jobs.lever.co/capital,https://api.lever.co/v0/postings/capital?mode=json,55,observed,US
+lever,capital,capital,https://jobs.lever.co/capital,https://api.lever.co/v0/postings/capital?mode=json,54,observed,US
 lever,cirrus,cirrus,https://jobs.eu.lever.co/cirrus,https://api.eu.lever.co/v0/postings/cirrus?mode=json,124,observed,EU
 lever,cleanspark,cleanspark,https://jobs.lever.co/cleanspark,https://api.lever.co/v0/postings/cleanspark?mode=json,13,observed,US
 lever,cloudinary,cloudinary,https://jobs.lever.co/cloudinary,https://api.lever.co/v0/postings/cloudinary?mode=json,11,observed,US
@@ -35,7 +35,7 @@ lever,dnl,dnl,https://jobs.eu.lever.co/dnl,https://api.eu.lever.co/v0/postings/d
 lever,dutch,dutch,https://jobs.lever.co/dutch,https://api.lever.co/v0/postings/dutch?mode=json,17,observed,US
 lever,dwolla,dwolla,https://jobs.lever.co/dwolla,https://api.lever.co/v0/postings/dwolla?mode=json,0,observed,US
 lever,easol,easol,https://jobs.eu.lever.co/easol,https://api.eu.lever.co/v0/postings/easol?mode=json,6,observed,EU
-lever,efficioconsulting,efficioconsulting,https://jobs.eu.lever.co/efficioconsulting,https://api.eu.lever.co/v0/postings/efficioconsulting?mode=json,35,observed,EU
+lever,efficioconsulting,efficioconsulting,https://jobs.eu.lever.co/efficioconsulting,https://api.eu.lever.co/v0/postings/efficioconsulting?mode=json,36,observed,EU
 lever,elementsolutions,elementsolutions,https://jobs.lever.co/elementsolutions,https://api.lever.co/v0/postings/elementsolutions?mode=json,2,observed,US
 lever,elfbeauty,elfbeauty,https://jobs.lever.co/elfbeauty,https://api.lever.co/v0/postings/elfbeauty?mode=json,77,observed,US
 lever,engelvoelkers,engelvoelkers,https://jobs.eu.lever.co/engelvoelkers,https://api.eu.lever.co/v0/postings/engelvoelkers?mode=json,339,observed,EU
@@ -59,7 +59,7 @@ lever,harmony,harmony,https://jobs.lever.co/harmony,https://api.lever.co/v0/post
 lever,healthcare,healthcare,https://jobs.lever.co/healthcare,https://api.lever.co/v0/postings/healthcare?mode=json,7,observed,US
 lever,hkr,hkr,https://jobs.eu.lever.co/hkr,https://api.eu.lever.co/v0/postings/hkr?mode=json,16,observed,EU
 lever,horizon,horizon,https://jobs.lever.co/horizon,https://api.lever.co/v0/postings/horizon?mode=json,1,observed,US
-lever,idt,idt,https://jobs.lever.co/idt,https://api.lever.co/v0/postings/idt?mode=json,104,observed,US
+lever,idt,idt,https://jobs.lever.co/idt,https://api.lever.co/v0/postings/idt?mode=json,105,observed,US
 lever,immuta,immuta,https://jobs.lever.co/immuta,https://api.lever.co/v0/postings/immuta?mode=json,12,observed,US
 lever,infinitygroup,infinitygroup,https://jobs.eu.lever.co/infinitygroup,https://api.eu.lever.co/v0/postings/infinitygroup?mode=json,9,observed,EU
 lever,innodata,innodata,https://jobs.lever.co/innodata,https://api.lever.co/v0/postings/innodata?mode=json,3,observed,US
@@ -85,7 +85,7 @@ lever,markt-pilot,markt-pilot,https://jobs.eu.lever.co/markt-pilot,https://api.e
 lever,mavenoid,mavenoid,https://jobs.eu.lever.co/mavenoid,https://api.eu.lever.co/v0/postings/mavenoid?mode=json,0,observed,EU
 lever,mega,mega,https://jobs.lever.co/mega,https://api.lever.co/v0/postings/mega?mode=json,12,observed,US
 lever,metlife,metlife,https://jobs.lever.co/metlife,https://api.lever.co/v0/postings/metlife?mode=json,39,observed,US
-lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,183,observed,EU
+lever,mobileye,mobileye,https://jobs.eu.lever.co/mobileye,https://api.eu.lever.co/v0/postings/mobileye?mode=json,188,observed,EU
 lever,neon,neon,https://jobs.lever.co/neon,https://api.lever.co/v0/postings/neon?mode=json,9,observed,US
 lever,newton,newton,https://jobs.lever.co/newton,https://api.lever.co/v0/postings/newton?mode=json,2,observed,US
 lever,numan,numan,https://jobs.eu.lever.co/numan,https://api.eu.lever.co/v0/postings/numan?mode=json,16,observed,EU
@@ -98,7 +98,7 @@ lever,optotune,optotune,https://jobs.eu.lever.co/optotune,https://api.eu.lever.c
 lever,orasio,orasio,https://jobs.eu.lever.co/orasio,https://api.eu.lever.co/v0/postings/orasio?mode=json,10,observed,EU
 lever,outreach,outreach,https://jobs.lever.co/outreach,https://api.lever.co/v0/postings/outreach?mode=json,19,observed,US
 lever,ovoko,ovoko,https://jobs.eu.lever.co/ovoko,https://api.eu.lever.co/v0/postings/ovoko?mode=json,22,observed,EU
-lever,palantir,palantir,https://jobs.lever.co/palantir,https://api.lever.co/v0/postings/palantir?mode=json,299,observed,US
+lever,palantir,palantir,https://jobs.lever.co/palantir,https://api.lever.co/v0/postings/palantir?mode=json,301,observed,US
 lever,pattern,pattern,https://jobs.lever.co/pattern,https://api.lever.co/v0/postings/pattern?mode=json,99,observed,US
 lever,paydock,paydock,https://jobs.eu.lever.co/paydock,https://api.eu.lever.co/v0/postings/paydock?mode=json,0,observed,EU
 lever,peppy,peppy,https://jobs.eu.lever.co/peppy,https://api.eu.lever.co/v0/postings/peppy?mode=json,1,observed,EU
@@ -119,7 +119,7 @@ lever,rigetti,rigetti,https://jobs.lever.co/rigetti,https://api.lever.co/v0/post
 lever,rise,rise,https://jobs.lever.co/rise,https://api.lever.co/v0/postings/rise?mode=json,25,observed,US
 lever,scaleway,scaleway,https://jobs.lever.co/scaleway,https://api.lever.co/v0/postings/scaleway?mode=json,34,observed,US
 lever,scholarrock,scholarrock,https://jobs.lever.co/scholarrock,https://api.lever.co/v0/postings/scholarrock?mode=json,29,observed,US
-lever,seb,seb,https://jobs.eu.lever.co/seb,https://api.eu.lever.co/v0/postings/seb?mode=json,119,observed,EU
+lever,seb,seb,https://jobs.eu.lever.co/seb,https://api.eu.lever.co/v0/postings/seb?mode=json,115,observed,EU
 lever,second,second,https://jobs.eu.lever.co/second,https://api.eu.lever.co/v0/postings/second?mode=json,4,observed,EU
 lever,secureframe,secureframe,https://jobs.lever.co/secureframe,https://api.lever.co/v0/postings/secureframe?mode=json,15,observed,US
 lever,shieldai,shieldai,https://jobs.lever.co/shieldai,https://api.lever.co/v0/postings/shieldai?mode=json,655,observed,US
