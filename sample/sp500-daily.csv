@@ -30,6 +30,7 @@ A,,workday,wd5/agilent/Agilent_Careers,2026-10-30,353,0,0
 A,,workday,wd5/agilent/Agilent_Careers,2026-10-31,354,0,0
 A,,workday,wd5/agilent/Agilent_Careers,2026-11-01,354,0,0
 A,,workday,wd5/agilent/Agilent_Careers,2026-11-02,352,0,0
+A,,workday,wd5/agilent/Agilent_Careers,2026-11-03,353,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-10-02,36,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-10-03,37,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-10-04,37,0,0
@@ -61,6 +62,7 @@ A,,workday,wd5/agilent/Agilent_Student_Careers,2026-10-30,29,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-10-31,31,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-11-01,31,0,0
 A,,workday,wd5/agilent/Agilent_Student_Careers,2026-11-02,31,0,0
+A,,workday,wd5/agilent/Agilent_Student_Careers,2026-11-03,27,0,0
 ABNB,,greenhouse,airbnb,2026-08-29,167,0,0
 ABNB,,greenhouse,airbnb,2026-08-30,167,0,0
 ABNB,,greenhouse,airbnb,2026-08-31,163,0,0
@@ -123,6 +125,7 @@ ABNB,,greenhouse,airbnb,2026-10-30,197,0,0
 ABNB,,greenhouse,airbnb,2026-10-31,202,0,0
 ABNB,,greenhouse,airbnb,2026-11-01,202,0,0
 ABNB,,greenhouse,airbnb,2026-11-02,202,0,0
+ABNB,,greenhouse,airbnb,2026-11-03,211,0,0
 ABT,,workday,wd5/abbott/abbottcareers,2026-10-02,2000,0,1
 ABT,,workday,wd5/abbott/abbottcareers,2026-10-03,1999,0,1
 ABT,,workday,wd5/abbott/abbottcareers,2026-10-04,2000,0,1
@@ -154,6 +157,7 @@ ABT,,workday,wd5/abbott/abbottcareers,2026-10-30,2499,0,0
 ABT,,workday,wd5/abbott/abbottcareers,2026-10-31,2456,0,0
 ABT,,workday,wd5/abbott/abbottcareers,2026-11-01,2458,0,0
 ABT,,workday,wd5/abbott/abbottcareers,2026-11-02,2434,0,0
+ABT,,workday,wd5/abbott/abbottcareers,2026-11-03,2458,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-09-15,177,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-09-16,175,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-09-17,177,0,0
@@ -201,6 +205,7 @@ ACGL,,workday,wd1/archgroup/careers,2026-10-30,202,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-10-31,197,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-11-01,197,0,0
 ACGL,,workday,wd1/archgroup/careers,2026-11-02,197,0,0
+ACGL,,workday,wd1/archgroup/careers,2026-11-03,213,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-09-15,1645,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-09-16,610,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-09-17,1918,0,0
@@ -248,6 +253,7 @@ ACN,,workday,wd103/accenture/AccentureCareers,2026-10-30,1962,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-10-31,1980,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-11-01,1960,0,0
 ACN,,workday,wd103/accenture/AccentureCareers,2026-11-02,839,0,0
+ACN,,workday,wd103/accenture/AccentureCareers,2026-11-03,1994,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-10-02,536,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-10-03,527,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-10-04,526,0,0
@@ -279,6 +285,7 @@ ADBE,,workday,wd5/adobe/external_experienced,2026-10-30,285,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-10-31,281,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-11-01,278,0,0
 ADBE,,workday,wd5/adobe/external_experienced,2026-11-02,281,0,0
+ADBE,,workday,wd5/adobe/external_experienced,2026-11-03,275,0,0
 ADI,,workday,wd1/analogdevices/External,2026-09-15,793,0,0
 ADI,,workday,wd1/analogdevices/External,2026-09-16,818,0,0
 ADI,,workday,wd1/analogdevices/External,2026-09-17,821,0,0
@@ -326,6 +333,7 @@ ADI,,workday,wd1/analogdevices/External,2026-10-30,818,0,0
 ADI,,workday,wd1/analogdevices/External,2026-10-31,800,0,0
 ADI,,workday,wd1/analogdevices/External,2026-11-01,796,0,0
 ADI,,workday,wd1/analogdevices/External,2026-11-02,798,0,0
+ADI,,workday,wd1/analogdevices/External,2026-11-03,798,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-09-15,397,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-09-16,402,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-09-17,393,0,0
@@ -373,6 +381,7 @@ ADSK,,workday,wd1/autodesk/Ext,2026-10-30,7,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-10-31,3,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-11-01,3,0,0
 ADSK,,workday,wd1/autodesk/Ext,2026-11-02,5,0,0
+ADSK,,workday,wd1/autodesk/Ext,2026-11-03,5,0,0
 AEE,,workday,wd1/ameren/External,2026-09-15,81,0,0
 AEE,,workday,wd1/ameren/External,2026-09-16,83,0,0
 AEE,,workday,wd1/ameren/External,2026-09-17,86,0,0
@@ -420,6 +429,7 @@ AEE,,workday,wd1/ameren/External,2026-10-30,102,0,0
 AEE,,workday,wd1/ameren/External,2026-10-31,105,0,0
 AEE,,workday,wd1/ameren/External,2026-11-01,105,0,0
 AEE,,workday,wd1/ameren/External,2026-11-02,104,0,0
+AEE,,workday,wd1/ameren/External,2026-11-03,106,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-10-02,292,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-10-03,288,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-10-04,282,0,0
@@ -451,6 +461,7 @@ AEP,,workday,wd1/aep/AEPCareerSite,2026-10-30,274,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-10-31,251,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-11-01,242,0,0
 AEP,,workday,wd1/aep/AEPCareerSite,2026-11-02,232,0,0
+AEP,,workday,wd1/aep/AEPCareerSite,2026-11-03,258,0,0
 AES,,workday,wd1/aes/AES_US,2026-09-15,156,0,0
 AES,,workday,wd1/aes/AES_US,2026-09-16,156,0,0
 AES,,workday,wd1/aes/AES_US,2026-09-17,156,0,0
@@ -498,6 +509,7 @@ AES,,workday,wd1/aes/AES_US,2026-10-30,148,0,0
 AES,,workday,wd1/aes/AES_US,2026-10-31,137,0,0
 AES,,workday,wd1/aes/AES_US,2026-11-01,141,0,0
 AES,,workday,wd1/aes/AES_US,2026-11-02,141,0,0
+AES,,workday,wd1/aes/AES_US,2026-11-03,140,0,0
 AFL,,successfactors,careers.aflac.com,2026-10-04,32,0,0
 AFL,,successfactors,careers.aflac.com,2026-10-05,32,0,0
 AFL,,successfactors,careers.aflac.com,2026-10-06,35,0,0
@@ -527,6 +539,7 @@ AFL,,successfactors,careers.aflac.com,2026-10-30,50,0,0
 AFL,,successfactors,careers.aflac.com,2026-10-31,44,0,0
 AFL,,successfactors,careers.aflac.com,2026-11-01,34,0,0
 AFL,,successfactors,careers.aflac.com,2026-11-02,34,0,0
+AFL,,successfactors,careers.aflac.com,2026-11-03,41,0,0
 AIG,,workday,wd1/aig/aig,2026-09-15,497,0,0
 AIG,,workday,wd1/aig/aig,2026-09-16,500,0,0
 AIG,,workday,wd1/aig/aig,2026-09-17,504,0,0
@@ -574,6 +587,7 @@ AIG,,workday,wd1/aig/aig,2026-10-30,425,0,0
 AIG,,workday,wd1/aig/aig,2026-10-31,410,0,0
 AIG,,workday,wd1/aig/aig,2026-11-01,404,0,0
 AIG,,workday,wd1/aig/aig,2026-11-02,404,0,0
+AIG,,workday,wd1/aig/aig,2026-11-03,413,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-09-15,120,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-09-16,113,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-09-17,114,0,0
@@ -621,6 +635,7 @@ AIZ,,workday,wd1/assurant/Assurant_Careers,2026-10-30,122,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-10-31,119,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-11-01,119,0,0
 AIZ,,workday,wd1/assurant/Assurant_Careers,2026-11-02,120,0,0
+AIZ,,workday,wd1/assurant/Assurant_Careers,2026-11-03,126,0,0
 ALB,,workday,wd5/albemarle/External,2026-10-02,53,0,0
 ALB,,workday,wd5/albemarle/External,2026-10-03,55,0,0
 ALB,,workday,wd5/albemarle/External,2026-10-04,55,0,0
@@ -652,6 +667,7 @@ ALB,,workday,wd5/albemarle/External,2026-10-30,73,0,0
 ALB,,workday,wd5/albemarle/External,2026-10-31,73,0,0
 ALB,,workday,wd5/albemarle/External,2026-11-01,73,0,0
 ALB,,workday,wd5/albemarle/External,2026-11-02,73,0,0
+ALB,,workday,wd5/albemarle/External,2026-11-03,70,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-10-09,431,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-10-10,436,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-10-11,437,0,0
@@ -677,6 +693,7 @@ ALL,,workday,wd5/allstate/allstate_careers,2026-10-30,430,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-10-31,439,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-11-01,435,0,0
 ALL,,workday,wd5/allstate/allstate_careers,2026-11-02,433,0,0
+ALL,,workday,wd5/allstate/allstate_careers,2026-11-03,429,0,0
 ALLE,,workday,wd5/allegion/careers,2026-10-02,321,0,0
 ALLE,,workday,wd5/allegion/careers,2026-10-03,331,0,0
 ALLE,,workday,wd5/allegion/careers,2026-10-04,330,0,0
@@ -708,6 +725,7 @@ ALLE,,workday,wd5/allegion/careers,2026-10-30,335,0,0
 ALLE,,workday,wd5/allegion/careers,2026-10-31,334,0,0
 ALLE,,workday,wd5/allegion/careers,2026-11-01,333,0,0
 ALLE,,workday,wd5/allegion/careers,2026-11-02,332,0,0
+ALLE,,workday,wd5/allegion/careers,2026-11-03,336,0,0
 AMAT,,workday,wd1/amat/External,2026-09-15,2000,0,1
 AMAT,,workday,wd1/amat/External,2026-09-16,2000,0,1
 AMAT,,workday,wd1/amat/External,2026-09-17,1998,0,1
@@ -755,6 +773,7 @@ AMAT,,workday,wd1/amat/External,2026-10-30,2099,0,0
 AMAT,,workday,wd1/amat/External,2026-10-31,2127,0,0
 AMAT,,workday,wd1/amat/External,2026-11-01,2137,0,0
 AMAT,,workday,wd1/amat/External,2026-11-02,2132,0,0
+AMAT,,workday,wd1/amat/External,2026-11-03,2160,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-10-09,762,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-10-10,766,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-10-11,767,0,0
@@ -780,6 +799,7 @@ AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-10-30,799,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-10-31,789,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-11-01,789,0,0
 AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-11-02,787,0,0
+AMCR,,workday,wd5/amcor/Amcor_External_Career_Site,2026-11-03,764,0,0
 AME,,successfactors,jobs.ametek.com,2026-10-04,756,0,0
 AME,,successfactors,jobs.ametek.com,2026-10-05,761,0,0
 AME,,successfactors,jobs.ametek.com,2026-10-06,761,0,0
@@ -809,6 +829,7 @@ AME,,successfactors,jobs.ametek.com,2026-10-30,806,0,0
 AME,,successfactors,jobs.ametek.com,2026-10-31,799,0,0
 AME,,successfactors,jobs.ametek.com,2026-11-01,801,0,0
 AME,,successfactors,jobs.ametek.com,2026-11-02,801,0,0
+AME,,successfactors,jobs.ametek.com,2026-11-03,798,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-09-15,1761,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-09-16,1752,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-09-17,1754,0,0
@@ -856,6 +877,7 @@ AMGN,,workday,wd1/amgen/Careers,2026-10-30,1839,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-10-31,1991,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-11-01,1987,0,0
 AMGN,,workday,wd1/amgen/Careers,2026-11-02,1986,0,0
+AMGN,,workday,wd1/amgen/Careers,2026-11-03,1980,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-10-02,211,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-10-03,197,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-10-04,191,0,0
@@ -887,6 +909,7 @@ AMP,,workday,wd5/ameriprise/Ameriprise,2026-10-30,213,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-10-31,217,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-11-01,216,0,0
 AMP,,workday,wd5/ameriprise/Ameriprise,2026-11-02,210,0,0
+AMP,,workday,wd5/ameriprise/Ameriprise,2026-11-03,222,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-09-15,358,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-09-16,355,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-09-17,362,0,0
@@ -934,6 +957,7 @@ AMZN,subsidiary,greenhouse,onemedical,2026-10-30,383,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-10-31,370,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-11-01,373,0,0
 AMZN,subsidiary,greenhouse,onemedical,2026-11-02,371,0,0
+AMZN,subsidiary,greenhouse,onemedical,2026-11-03,363,0,0
 AMZN,subsidiary,lever,zoox,2026-08-29,245,0,0
 AMZN,subsidiary,lever,zoox,2026-08-30,245,0,0
 AMZN,subsidiary,lever,zoox,2026-08-31,245,0,0
@@ -996,6 +1020,7 @@ AMZN,subsidiary,lever,zoox,2026-10-30,231,0,0
 AMZN,subsidiary,lever,zoox,2026-10-31,227,0,0
 AMZN,subsidiary,lever,zoox,2026-11-01,227,0,0
 AMZN,subsidiary,lever,zoox,2026-11-02,226,0,0
+AMZN,subsidiary,lever,zoox,2026-11-03,222,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-10-09,5,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-10-10,5,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-10-11,4,0,0
@@ -1021,6 +1046,7 @@ APD,,workday,wd5/airproducts/AP0003,2026-10-30,4,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-10-31,4,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-11-01,4,0,0
 APD,,workday,wd5/airproducts/AP0003,2026-11-02,4,0,0
+APD,,workday,wd5/airproducts/AP0003,2026-11-03,4,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-10-09,402,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-10-10,397,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-10-11,394,0,0
@@ -1046,6 +1072,7 @@ APD,,workday,wd5/airproducts/ap0001,2026-10-30,408,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-10-31,388,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-11-01,386,0,0
 APD,,workday,wd5/airproducts/ap0001,2026-11-02,387,0,0
+APD,,workday,wd5/airproducts/ap0001,2026-11-03,387,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-10-02,65,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-10-03,66,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-10-04,66,0,0
@@ -1077,6 +1104,7 @@ APO,,workday,wd5/athene/Apollo_Careers,2026-10-30,53,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-10-31,53,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-11-01,53,0,0
 APO,,workday,wd5/athene/Apollo_Careers,2026-11-02,53,0,0
+APO,,workday,wd5/athene/Apollo_Careers,2026-11-03,52,0,0
 APP,,greenhouse,applovin,2026-08-29,33,0,0
 APP,,greenhouse,applovin,2026-08-30,33,0,0
 APP,,greenhouse,applovin,2026-08-31,33,0,0
@@ -1139,6 +1167,7 @@ APP,,greenhouse,applovin,2026-10-30,44,0,0
 APP,,greenhouse,applovin,2026-10-31,43,0,0
 APP,,greenhouse,applovin,2026-11-01,43,0,0
 APP,,greenhouse,applovin,2026-11-02,43,0,0
+APP,,greenhouse,applovin,2026-11-03,43,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-10-09,754,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-10-10,761,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-10-11,760,0,0
@@ -1164,6 +1193,7 @@ APTV,,workday,wd5/aptiv/aptiv_careers,2026-10-30,819,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-10-31,790,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-11-01,790,0,0
 APTV,,workday,wd5/aptiv/aptiv_careers,2026-11-02,793,0,0
+APTV,,workday,wd5/aptiv/aptiv_careers,2026-11-03,785,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-09-15,289,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-09-16,287,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-09-17,287,0,0
@@ -1211,6 +1241,7 @@ ARES,,workday,wd1/aresmgmt/External,2026-10-30,238,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-10-31,241,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-11-01,241,0,0
 ARES,,workday,wd1/aresmgmt/External,2026-11-02,240,0,0
+ARES,,workday,wd1/aresmgmt/External,2026-11-03,232,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-10-09,34,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-10-10,34,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-10-11,34,0,0
@@ -1236,6 +1267,7 @@ ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-10-30,34,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-10-31,34,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-11-01,34,0,0
 ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-11-02,33,0,0
+ATO,,workday,wd108/atmosenergy/External_Career_Site,2026-11-03,36,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-09-15,370,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-09-16,371,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-09-17,367,0,0
@@ -1283,6 +1315,7 @@ AVGO,,workday,wd1/broadcom/External_Career,2026-10-30,370,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-10-31,372,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-11-01,372,0,0
 AVGO,,workday,wd1/broadcom/External_Career,2026-11-02,368,0,0
+AVGO,,workday,wd1/broadcom/External_Career,2026-11-03,388,0,0
 AXON,,greenhouse,axon,2026-08-29,485,0,0
 AXON,,greenhouse,axon,2026-08-30,485,0,0
 AXON,,greenhouse,axon,2026-08-31,483,0,0
@@ -1345,6 +1378,7 @@ AXON,,greenhouse,axon,2026-10-30,461,0,0
 AXON,,greenhouse,axon,2026-10-31,471,0,0
 AXON,,greenhouse,axon,2026-11-01,471,0,0
 AXON,,greenhouse,axon,2026-11-02,471,0,0
+AXON,,greenhouse,axon,2026-11-03,478,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-09-15,657,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-09-16,665,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-09-17,688,0,0
@@ -1392,6 +1426,7 @@ BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-10-30,665,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-10-31,670,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-11-01,668,0,0
 BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-11-02,625,0,0
+BA,,workday,wd1/boeing/EXTERNAL_CAREERS,2026-11-03,705,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-09-15,2001,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-09-16,1995,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-09-17,1997,0,0
@@ -1439,6 +1474,7 @@ BAC,,workday,wd1/ghr/Lateral-US,2026-10-30,1931,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-10-31,1925,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-11-01,1928,0,0
 BAC,,workday,wd1/ghr/Lateral-US,2026-11-02,1928,0,0
+BAC,,workday,wd1/ghr/Lateral-US,2026-11-03,1923,0,0
 BALL,,successfactors,jobs.ball.com,2026-10-04,280,0,0
 BALL,,successfactors,jobs.ball.com,2026-10-05,278,0,0
 BALL,,successfactors,jobs.ball.com,2026-10-06,286,0,0
@@ -1468,6 +1504,7 @@ BALL,,successfactors,jobs.ball.com,2026-10-30,243,0,0
 BALL,,successfactors,jobs.ball.com,2026-10-31,245,0,0
 BALL,,successfactors,jobs.ball.com,2026-11-01,242,0,0
 BALL,,successfactors,jobs.ball.com,2026-11-02,240,0,0
+BALL,,successfactors,jobs.ball.com,2026-11-03,239,0,0
 BAX,,workday,wd1/baxter/baxter,2026-09-15,525,0,0
 BAX,,workday,wd1/baxter/baxter,2026-09-16,524,0,0
 BAX,,workday,wd1/baxter/baxter,2026-09-17,528,0,0
@@ -1515,6 +1552,7 @@ BAX,,workday,wd1/baxter/baxter,2026-10-30,524,0,0
 BAX,,workday,wd1/baxter/baxter,2026-10-31,506,0,0
 BAX,,workday,wd1/baxter/baxter,2026-11-01,506,0,0
 BAX,,workday,wd1/baxter/baxter,2026-11-02,513,0,0
+BAX,,workday,wd1/baxter/baxter,2026-11-03,525,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-09-15,122,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-09-16,128,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-09-17,129,0,0
@@ -1562,6 +1600,7 @@ BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-10-30,141,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-10-31,96,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-11-01,93,0,0
 BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-11-02,91,0,0
+BBY,subsidiary,workday,wd3/bestbuycanada/BestBuyCA_Career,2026-11-03,101,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-09-15,622,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-09-16,639,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-09-17,633,0,0
@@ -1609,6 +1648,7 @@ BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-10-30,591,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-10-31,596,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-11-01,596,0,0
 BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-11-02,596,0,0
+BDX,,workday,wd1/bdx/EXTERNAL_CAREER_SITE_USA,2026-11-03,588,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-10-03,28,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-10-04,28,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-10-05,28,0,0
@@ -1639,6 +1679,7 @@ BF-B,,workday,wd5/bf/USA_Canada,2026-10-30,21,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-10-31,22,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-11-01,22,0,0
 BF-B,,workday,wd5/bf/USA_Canada,2026-11-02,22,0,0
+BF-B,,workday,wd5/bf/USA_Canada,2026-11-03,22,0,0
 BIIB,,workday,wd3/biibhr/external,2026-09-15,229,0,0
 BIIB,,workday,wd3/biibhr/external,2026-09-16,233,0,0
 BIIB,,workday,wd3/biibhr/external,2026-09-17,235,0,0
@@ -1686,6 +1727,7 @@ BIIB,,workday,wd3/biibhr/external,2026-10-30,275,0,0
 BIIB,,workday,wd3/biibhr/external,2026-10-31,275,0,0
 BIIB,,workday,wd3/biibhr/external,2026-11-01,275,0,0
 BIIB,,workday,wd3/biibhr/external,2026-11-02,274,0,0
+BIIB,,workday,wd3/biibhr/external,2026-11-03,269,0,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-09-15,,1,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-09-16,56,0,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-09-17,52,0,0
@@ -1733,6 +1775,7 @@ BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-10-30,58,0,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-10-31,58,0,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-11-01,58,0,0
 BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-11-02,58,0,0
+BKNG,subsidiary,workday,wd1/priceline/Priceline,2026-11-03,59,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-10-09,21,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-10-10,20,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-10-11,21,0,0
@@ -1758,6 +1801,7 @@ BKNG,,workday,wd1/priceline/bookingholdings,2026-10-30,18,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-10-31,18,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-11-01,18,0,0
 BKNG,,workday,wd1/priceline/bookingholdings,2026-11-02,18,0,0
+BKNG,,workday,wd1/priceline/bookingholdings,2026-11-03,17,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-10-02,675,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-10-03,668,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-10-04,663,0,0
@@ -1789,6 +1833,7 @@ BKR,,workday,wd5/bakerhughes/BakerHughes,2026-10-30,679,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-10-31,684,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-11-01,680,0,0
 BKR,,workday,wd5/bakerhughes/BakerHughes,2026-11-02,671,0,0
+BKR,,workday,wd5/bakerhughes/BakerHughes,2026-11-03,662,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-09-15,328,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-09-16,342,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-09-17,345,0,0
@@ -1836,6 +1881,7 @@ BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-10-30,254,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-10-31,245,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-11-01,241,0,0
 BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-11-02,245,0,0
+BLK,,workday,wd1/blackrock/BlackRock_Professional,2026-11-03,253,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-10-02,677,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-10-03,679,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-10-04,677,0,0
@@ -1867,11 +1913,13 @@ BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-10-30,609,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-10-31,541,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-11-01,533,0,0
 BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-11-02,545,0,0
+BMY,,workday,wd5/bristolmyerssquibb/BMS,2026-11-03,592,0,0
 BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-10-29,1339,0,0
 BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-10-30,1327,0,0
 BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-10-31,1303,0,0
 BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-11-01,1303,0,0
 BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-11-02,1299,0,0
+BNY,,oracle,eofe.fa.us2.oraclecloud.com/BNY-Careers,2026-11-03,1292,0,0
 BR,,workday,wd5/broadridge/Careers,2026-10-02,274,0,0
 BR,,workday,wd5/broadridge/Careers,2026-10-03,284,0,0
 BR,,workday,wd5/broadridge/Careers,2026-10-04,284,0,0
@@ -1903,6 +1951,7 @@ BR,,workday,wd5/broadridge/Careers,2026-10-30,316,0,0
 BR,,workday,wd5/broadridge/Careers,2026-10-31,308,0,0
 BR,,workday,wd5/broadridge/Careers,2026-11-01,308,0,0
 BR,,workday,wd5/broadridge/Careers,2026-11-02,307,0,0
+BR,,workday,wd5/broadridge/Careers,2026-11-03,309,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-09-15,430,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-09-16,436,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-09-17,446,0,0
@@ -1950,6 +1999,7 @@ BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-10-30,434,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-10-31,437,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-11-01,436,0,0
 BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-11-02,436,0,0
+BRK-B,subsidiary,workday,wd1/claytonhomes/ClaytonCareers,2026-11-03,428,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-09-15,295,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-09-16,298,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-09-17,298,0,0
@@ -1997,6 +2047,7 @@ BRK-B,subsidiary,workday,wd1/geico/External,2026-10-30,295,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-10-31,300,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-11-01,299,0,0
 BRK-B,subsidiary,workday,wd1/geico/External,2026-11-02,300,0,0
+BRK-B,subsidiary,workday,wd1/geico/External,2026-11-03,309,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-09-15,268,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-09-16,265,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-09-17,266,0,0
@@ -2044,6 +2095,7 @@ BRO,,workday,wd1/bbinsurance/Careers,2026-10-30,272,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-10-31,279,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-11-01,279,0,0
 BRO,,workday,wd1/bbinsurance/Careers,2026-11-02,286,0,0
+BRO,,workday,wd1/bbinsurance/Careers,2026-11-03,282,0,0
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-10-03,520,0,0
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-10-04,515,0,0
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-10-05,506,0,0
@@ -2074,6 +2126,7 @@ BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-10-3
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-10-31,516,0,0
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-11-01,513,0,0
 BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-11-02,504,0,0
+BSX,,eightfold,bostonscientific.eightfold.ai/bostonscientific.com/pcsx,2026-11-03,512,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-09-15,176,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-09-16,176,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-09-17,178,0,0
@@ -2121,11 +2174,13 @@ BX,,workday,wd1/blackstone/Blackstone_Careers,2026-10-30,134,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-10-31,133,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-11-01,133,0,0
 BX,,workday,wd1/blackstone/Blackstone_Careers,2026-11-02,133,0,0
+BX,,workday,wd1/blackstone/Blackstone_Careers,2026-11-03,131,0,0
 BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-10-29,38,0,0
 BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-10-30,38,0,0
 BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-10-31,37,0,0
 BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-11-01,37,0,0
 BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-11-02,37,0,0
+BXP,,oracle,edxn.fa.us2.oraclecloud.com/CX_4001,2026-11-03,37,0,0
 C,,workday,wd5/citi/2,2026-10-02,1996,0,0
 C,,workday,wd5/citi/2,2026-10-03,2000,0,1
 C,,workday,wd5/citi/2,2026-10-04,2000,0,1
@@ -2157,6 +2212,7 @@ C,,workday,wd5/citi/2,2026-10-30,2000,0,1
 C,,workday,wd5/citi/2,2026-10-31,2000,0,1
 C,,workday,wd5/citi/2,2026-11-01,2000,0,1
 C,,workday,wd5/citi/2,2026-11-02,1999,0,1
+C,,workday,wd5/citi/2,2026-11-03,1999,0,1
 CAH,,workday,wd1/cardinalhealth/EXT,2026-09-15,781,0,0
 CAH,,workday,wd1/cardinalhealth/EXT,2026-09-16,780,0,0
 CAH,,workday,wd1/cardinalhealth/EXT,2026-09-17,787,0,0
@@ -2204,6 +2260,7 @@ CAH,,workday,wd1/cardinalhealth/EXT,2026-10-30,854,0,0
 CAH,,workday,wd1/cardinalhealth/EXT,2026-10-31,851,0,0
 CAH,,workday,wd1/cardinalhealth/EXT,2026-11-01,848,0,0
 CAH,,workday,wd1/cardinalhealth/EXT,2026-11-02,846,0,0
+CAH,,workday,wd1/cardinalhealth/EXT,2026-11-03,847,0,0
 CARR,,workday,wd5/carrier/jobs,2026-10-02,1059,0,0
 CARR,,workday,wd5/carrier/jobs,2026-10-03,1054,0,0
 CARR,,workday,wd5/carrier/jobs,2026-10-04,1053,0,0
@@ -2235,6 +2292,7 @@ CARR,,workday,wd5/carrier/jobs,2026-10-30,1010,0,0
 CARR,,workday,wd5/carrier/jobs,2026-10-31,1004,0,0
 CARR,,workday,wd5/carrier/jobs,2026-11-01,973,0,0
 CARR,,workday,wd5/carrier/jobs,2026-11-02,1006,0,0
+CARR,,workday,wd5/carrier/jobs,2026-11-03,,1,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-10-02,891,0,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-10-03,892,0,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-10-04,886,0,0
@@ -2266,6 +2324,7 @@ CAT,,workday,wd5/cat/CaterpillarCareers,2026-10-30,937,0,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-10-31,917,0,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-11-01,900,0,0
 CAT,,workday,wd5/cat/CaterpillarCareers,2026-11-02,879,0,0
+CAT,,workday,wd5/cat/CaterpillarCareers,2026-11-03,951,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-09-15,52,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-09-16,53,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-09-17,56,0,0
@@ -2313,6 +2372,7 @@ CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-10-30,111,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-10-31,113,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-11-01,113,0,0
 CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-11-02,112,0,0
+CBOE,,workday,wd1/cboe/External_Career_CBOE,2026-11-03,114,0,0
 CBRE,subsidiary,ashby,industrious,2026-09-15,62,0,0
 CBRE,subsidiary,ashby,industrious,2026-09-16,64,0,0
 CBRE,subsidiary,ashby,industrious,2026-09-17,64,0,0
@@ -2360,11 +2420,13 @@ CBRE,subsidiary,ashby,industrious,2026-10-30,66,0,0
 CBRE,subsidiary,ashby,industrious,2026-10-31,66,0,0
 CBRE,subsidiary,ashby,industrious,2026-11-01,66,0,0
 CBRE,subsidiary,ashby,industrious,2026-11-02,66,0,0
+CBRE,subsidiary,ashby,industrious,2026-11-03,70,0,0
 CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-10-29,219,0,0
 CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-10-30,223,0,0
 CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-10-31,225,0,0
 CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-11-01,225,0,0
 CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-11-02,221,0,0
+CCL,,oracle,eicl.fa.em5.oraclecloud.com/CORP,2026-11-03,221,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-09-15,600,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-09-16,604,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-09-17,611,0,0
@@ -2412,6 +2474,7 @@ CDNS,,workday,wd1/cadence/External_Careers,2026-10-30,677,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-10-31,676,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-11-01,676,0,0
 CDNS,,workday,wd1/cadence/External_Careers,2026-11-02,678,0,0
+CDNS,,workday,wd1/cadence/External_Careers,2026-11-03,688,0,0
 CDW,,workday,wd5/cdw/careers,2026-10-09,145,0,0
 CDW,,workday,wd5/cdw/careers,2026-10-10,142,0,0
 CDW,,workday,wd5/cdw/careers,2026-10-11,142,0,0
@@ -2437,6 +2500,7 @@ CDW,,workday,wd5/cdw/careers,2026-10-30,192,0,0
 CDW,,workday,wd5/cdw/careers,2026-10-31,188,0,0
 CDW,,workday,wd5/cdw/careers,2026-11-01,188,0,0
 CDW,,workday,wd5/cdw/careers,2026-11-02,188,0,0
+CDW,,workday,wd5/cdw/careers,2026-11-03,205,0,0
 CF,,workday,wd1/cfindustries/careers,2026-09-15,67,0,0
 CF,,workday,wd1/cfindustries/careers,2026-09-16,68,0,0
 CF,,workday,wd1/cfindustries/careers,2026-09-17,69,0,0
@@ -2484,6 +2548,7 @@ CF,,workday,wd1/cfindustries/careers,2026-10-30,52,0,0
 CF,,workday,wd1/cfindustries/careers,2026-10-31,52,0,0
 CF,,workday,wd1/cfindustries/careers,2026-11-01,52,0,0
 CF,,workday,wd1/cfindustries/careers,2026-11-02,51,0,0
+CF,,workday,wd1/cfindustries/careers,2026-11-03,53,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-09-15,75,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-09-16,77,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-09-17,77,0,0
@@ -2531,6 +2596,7 @@ CHD,,workday,wd1/churchdwight/chdcareers,2026-10-30,93,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-10-31,94,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-11-01,94,0,0
 CHD,,workday,wd1/churchdwight/chdcareers,2026-11-02,94,0,0
+CHD,,workday,wd1/churchdwight/chdcareers,2026-11-03,96,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-10-09,152,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-10-10,165,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-10-11,165,0,0
@@ -2556,6 +2622,7 @@ CHRW,,workday,wd5/chrobinson/chrobinson,2026-10-30,154,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-10-31,157,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-11-01,157,0,0
 CHRW,,workday,wd5/chrobinson/chrobinson,2026-11-02,161,0,0
+CHRW,,workday,wd5/chrobinson/chrobinson,2026-11-03,158,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-10-02,567,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-10-03,563,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-10-04,561,0,0
@@ -2587,6 +2654,7 @@ CI,,workday,wd5/cigna/cignacareers,2026-10-30,529,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-10-31,534,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-11-01,532,0,0
 CI,,workday,wd5/cigna/cignacareers,2026-11-02,525,0,0
+CI,,workday,wd5/cigna/cignacareers,2026-11-03,537,0,0
 CIEN,,workday,wd5/ciena/careers,2026-10-09,151,0,0
 CIEN,,workday,wd5/ciena/careers,2026-10-10,150,0,0
 CIEN,,workday,wd5/ciena/careers,2026-10-11,151,0,0
@@ -2612,6 +2680,7 @@ CIEN,,workday,wd5/ciena/careers,2026-10-30,156,0,0
 CIEN,,workday,wd5/ciena/careers,2026-10-31,157,0,0
 CIEN,,workday,wd5/ciena/careers,2026-11-01,156,0,0
 CIEN,,workday,wd5/ciena/careers,2026-11-02,155,0,0
+CIEN,,workday,wd5/ciena/careers,2026-11-03,152,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-10-02,201,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-10-03,194,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-10-04,194,0,0
@@ -2643,6 +2712,7 @@ CLX,,workday,wd1/clorox/Clorox,2026-10-30,188,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-10-31,181,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-11-01,181,0,0
 CLX,,workday,wd1/clorox/Clorox,2026-11-02,184,0,0
+CLX,,workday,wd1/clorox/Clorox,2026-11-03,189,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-09-15,37,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-09-16,36,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-09-17,35,0,0
@@ -2690,6 +2760,7 @@ CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-10-30,34,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-10-31,33,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-11-01,34,0,0
 CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-11-02,34,0,0
+CMCSA,subsidiary,workday,wd3/sky/sky_careers,2026-11-03,34,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-09-15,36,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-09-16,42,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-09-17,45,0,0
@@ -2737,6 +2808,7 @@ CME,,workday,wd1/cmegroup/cme_careers,2026-10-30,68,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-10-31,67,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-11-01,67,0,0
 CME,,workday,wd1/cmegroup/cme_careers,2026-11-02,68,0,0
+CME,,workday,wd1/cmegroup/cme_careers,2026-11-03,69,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-10-09,219,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-10-10,216,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-10-11,217,0,0
@@ -2762,9 +2834,11 @@ CMG,,workday,wd5/chipotle/chipotlecareers,2026-10-30,208,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-10-31,209,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-11-01,209,0,0
 CMG,,workday,wd5/chipotle/chipotlecareers,2026-11-02,209,0,0
+CMG,,workday,wd5/chipotle/chipotlecareers,2026-11-03,220,0,0
 CMI,,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-31,1194,0,0
 CMI,,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-01,1190,0,0
 CMI,,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-02,1190,0,0
+CMI,,oracle,fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-03,1223,0,0
 CNC,,workday,wd5/centene/centene_external,2026-10-02,349,0,0
 CNC,,workday,wd5/centene/centene_external,2026-10-03,347,0,0
 CNC,,workday,wd5/centene/centene_external,2026-10-04,327,0,0
@@ -2796,6 +2870,7 @@ CNC,,workday,wd5/centene/centene_external,2026-10-30,385,0,0
 CNC,,workday,wd5/centene/centene_external,2026-10-31,373,0,0
 CNC,,workday,wd5/centene/centene_external,2026-11-01,377,0,0
 CNC,,workday,wd5/centene/centene_external,2026-11-02,380,0,0
+CNC,,workday,wd5/centene/centene_external,2026-11-03,420,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-10-09,1950,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-10-10,1958,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-10-11,1957,0,0
@@ -2821,9 +2896,11 @@ COF,,workday,wd12/capitalone/capital_one,2026-10-30,2028,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-10-31,2039,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-11-01,2040,0,0
 COF,,workday,wd12/capitalone/capital_one,2026-11-02,2038,0,0
+COF,,workday,wd12/capitalone/capital_one,2026-11-03,2018,0,0
 COHR,,oracle,hcwp.fa.us2.oraclecloud.com/CX_1,2026-10-31,328,0,0
 COHR,,oracle,hcwp.fa.us2.oraclecloud.com/CX_1,2026-11-01,328,0,0
 COHR,,oracle,hcwp.fa.us2.oraclecloud.com/CX_1,2026-11-02,328,0,0
+COHR,,oracle,hcwp.fa.us2.oraclecloud.com/CX_1,2026-11-03,325,0,0
 COIN,,greenhouse,coinbase,2026-08-29,179,0,0
 COIN,,greenhouse,coinbase,2026-08-30,179,0,0
 COIN,,greenhouse,coinbase,2026-08-31,180,0,0
@@ -2886,6 +2963,7 @@ COIN,,greenhouse,coinbase,2026-10-30,234,0,0
 COIN,,greenhouse,coinbase,2026-10-31,250,0,0
 COIN,,greenhouse,coinbase,2026-11-01,254,0,0
 COIN,,greenhouse,coinbase,2026-11-02,264,0,0
+COIN,,greenhouse,coinbase,2026-11-03,264,0,0
 COP,,workday,wd1/conocophillips/External,2026-10-02,51,0,0
 COP,,workday,wd1/conocophillips/External,2026-10-03,51,0,0
 COP,,workday,wd1/conocophillips/External,2026-10-04,51,0,0
@@ -2917,6 +2995,7 @@ COP,,workday,wd1/conocophillips/External,2026-10-30,41,0,0
 COP,,workday,wd1/conocophillips/External,2026-10-31,37,0,0
 COP,,workday,wd1/conocophillips/External,2026-11-01,25,0,0
 COP,,workday,wd1/conocophillips/External,2026-11-02,24,0,0
+COP,,workday,wd1/conocophillips/External,2026-11-03,26,0,0
 COR,,workday,wd5/myhrabc/Global,2026-09-15,947,0,0
 COR,,workday,wd5/myhrabc/Global,2026-09-16,950,0,0
 COR,,workday,wd5/myhrabc/Global,2026-09-17,982,0,0
@@ -2964,6 +3043,7 @@ COR,,workday,wd5/myhrabc/Global,2026-10-30,1011,0,0
 COR,,workday,wd5/myhrabc/Global,2026-10-31,1008,0,0
 COR,,workday,wd5/myhrabc/Global,2026-11-01,1006,0,0
 COR,,workday,wd5/myhrabc/Global,2026-11-02,1006,0,0
+COR,,workday,wd5/myhrabc/Global,2026-11-03,1009,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-10-02,112,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-10-03,113,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-10-04,113,0,0
@@ -2995,6 +3075,7 @@ CPAY,,workday,wd103/corpay/Ext_001,2026-10-30,119,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-10-31,120,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-11-01,120,0,0
 CPAY,,workday,wd103/corpay/Ext_001,2026-11-02,121,0,0
+CPAY,,workday,wd103/corpay/Ext_001,2026-11-03,126,0,0
 CPRT,,workday,wd12/copart/Copart,2026-09-15,403,0,0
 CPRT,,workday,wd12/copart/Copart,2026-09-16,392,0,0
 CPRT,,workday,wd12/copart/Copart,2026-09-17,394,0,0
@@ -3042,6 +3123,7 @@ CPRT,,workday,wd12/copart/Copart,2026-10-30,416,0,0
 CPRT,,workday,wd12/copart/Copart,2026-10-31,402,0,0
 CPRT,,workday,wd12/copart/Copart,2026-11-01,402,0,0
 CPRT,,workday,wd12/copart/Copart,2026-11-02,403,0,0
+CPRT,,workday,wd12/copart/Copart,2026-11-03,408,0,0
 CRL,,successfactors,careers.criver.com,2026-10-04,293,0,0
 CRL,,successfactors,careers.criver.com,2026-10-05,295,0,0
 CRL,,successfactors,careers.criver.com,2026-10-06,300,0,0
@@ -3071,6 +3153,7 @@ CRL,,successfactors,careers.criver.com,2026-10-30,375,0,0
 CRL,,successfactors,careers.criver.com,2026-10-31,378,0,0
 CRL,,successfactors,careers.criver.com,2026-11-01,368,0,0
 CRL,,successfactors,careers.criver.com,2026-11-02,373,0,0
+CRL,,successfactors,careers.criver.com,2026-11-03,380,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-10-09,16,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-10-10,16,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-10-11,16,0,0
@@ -3096,6 +3179,7 @@ CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-10-30,13,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-10-31,13,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-11-01,13,0,0
 CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-11-02,13,0,0
+CRM,,workday,wd12/salesforce/Mulesoft_Careersite,2026-11-03,14,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-10-09,1546,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-10-10,1535,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-10-11,1534,0,0
@@ -3121,6 +3205,7 @@ CRM,,workday,wd12/salesforce/external_career_site,2026-10-30,1577,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-10-31,1555,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-11-01,1542,0,0
 CRM,,workday,wd12/salesforce/external_career_site,2026-11-02,1543,0,0
+CRM,,workday,wd12/salesforce/external_career_site,2026-11-03,1545,0,0
 CRM,,workday,wd12/salesforce/slack,2026-10-09,18,0,0
 CRM,,workday,wd12/salesforce/slack,2026-10-10,18,0,0
 CRM,,workday,wd12/salesforce/slack,2026-10-11,18,0,0
@@ -3146,6 +3231,7 @@ CRM,,workday,wd12/salesforce/slack,2026-10-30,16,0,0
 CRM,,workday,wd12/salesforce/slack,2026-10-31,17,0,0
 CRM,,workday,wd12/salesforce/slack,2026-11-01,17,0,0
 CRM,,workday,wd12/salesforce/slack,2026-11-02,18,0,0
+CRM,,workday,wd12/salesforce/slack,2026-11-03,17,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-10-02,361,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-10-03,356,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-10-04,356,0,0
@@ -3177,6 +3263,7 @@ CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-10-30,369,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-10-31,367,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-11-01,365,0,0
 CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-11-02,400,0,0
+CRWD,,workday,wd5/crowdstrike/crowdstrikecareers,2026-11-03,395,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-10-02,1325,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-10-03,1341,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-10-04,1338,0,0
@@ -3208,6 +3295,7 @@ CSCO,,workday,wd5/cisco/Cisco_Careers,2026-10-30,1437,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-10-31,1446,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-11-01,1435,0,0
 CSCO,,workday,wd5/cisco/Cisco_Careers,2026-11-02,1422,0,0
+CSCO,,workday,wd5/cisco/Cisco_Careers,2026-11-03,1452,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-09-15,402,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-09-16,402,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-09-17,400,0,0
@@ -3255,9 +3343,11 @@ CSGP,,workday,wd1/costar/CoStarCareers,2026-10-30,399,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-10-31,395,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-11-01,394,0,0
 CSGP,,workday,wd1/costar/CoStarCareers,2026-11-02,394,0,0
+CSGP,,workday,wd1/costar/CoStarCareers,2026-11-03,378,0,0
 CSX,,oracle,fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/CSXCareers,2026-10-31,81,0,0
 CSX,,oracle,fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/CSXCareers,2026-11-01,80,0,0
 CSX,,oracle,fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/CSXCareers,2026-11-02,78,0,0
+CSX,,oracle,fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/CSXCareers,2026-11-03,93,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-10-02,117,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-10-03,115,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-10-04,115,0,0
@@ -3289,6 +3379,7 @@ CTVA,,workday,wd5/corteva/Corteva,2026-10-30,52,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-10-31,47,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-11-01,47,0,0
 CTVA,,workday,wd5/corteva/Corteva,2026-11-02,45,0,0
+CTVA,,workday,wd5/corteva/Corteva,2026-11-03,51,0,0
 CVNA,,greenhouse,carvana,2026-08-29,1553,0,0
 CVNA,,greenhouse,carvana,2026-08-30,1553,0,0
 CVNA,,greenhouse,carvana,2026-08-31,1547,0,0
@@ -3351,6 +3442,7 @@ CVNA,,greenhouse,carvana,2026-10-30,1692,0,0
 CVNA,,greenhouse,carvana,2026-10-31,1693,0,0
 CVNA,,greenhouse,carvana,2026-11-01,1693,0,0
 CVNA,,greenhouse,carvana,2026-11-02,1693,0,0
+CVNA,,greenhouse,carvana,2026-11-03,1714,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-09-15,9988,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-09-16,9997,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-09-17,10020,0,0
@@ -3398,6 +3490,7 @@ CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-10-30,19369,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-10-31,19153,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-11-01,18898,0,0
 CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-11-02,18846,0,0
+CVS,,workday,wd1/cvshealth/CVS_Health_Careers,2026-11-03,19474,0,0
 CVX,,workday,wd5/chevron/jobs,2026-10-02,124,0,0
 CVX,,workday,wd5/chevron/jobs,2026-10-03,125,0,0
 CVX,,workday,wd5/chevron/jobs,2026-10-04,123,0,0
@@ -3429,6 +3522,7 @@ CVX,,workday,wd5/chevron/jobs,2026-10-30,144,0,0
 CVX,,workday,wd5/chevron/jobs,2026-10-31,129,0,0
 CVX,,workday,wd5/chevron/jobs,2026-11-01,127,0,0
 CVX,,workday,wd5/chevron/jobs,2026-11-02,126,0,0
+CVX,,workday,wd5/chevron/jobs,2026-11-03,134,0,0
 D,,successfactors,careers.dominionenergy.com,2026-10-04,148,0,0
 D,,successfactors,careers.dominionenergy.com,2026-10-05,145,0,0
 D,,successfactors,careers.dominionenergy.com,2026-10-06,149,0,0
@@ -3458,6 +3552,7 @@ D,,successfactors,careers.dominionenergy.com,2026-10-30,90,0,0
 D,,successfactors,careers.dominionenergy.com,2026-10-31,82,0,0
 D,,successfactors,careers.dominionenergy.com,2026-11-01,80,0,0
 D,,successfactors,careers.dominionenergy.com,2026-11-02,76,0,0
+D,,successfactors,careers.dominionenergy.com,2026-11-03,80,0,0
 DASH,,greenhouse,doordashusa,2026-09-15,455,0,0
 DASH,,greenhouse,doordashusa,2026-09-16,465,0,0
 DASH,,greenhouse,doordashusa,2026-09-17,466,0,0
@@ -3505,6 +3600,7 @@ DASH,,greenhouse,doordashusa,2026-10-30,442,0,0
 DASH,,greenhouse,doordashusa,2026-10-31,439,0,0
 DASH,,greenhouse,doordashusa,2026-11-01,439,0,0
 DASH,,greenhouse,doordashusa,2026-11-02,439,0,0
+DASH,,greenhouse,doordashusa,2026-11-03,438,0,0
 DD,,workday,wd5/dupont/Jobs,2026-10-02,204,0,0
 DD,,workday,wd5/dupont/Jobs,2026-10-03,201,0,0
 DD,,workday,wd5/dupont/Jobs,2026-10-04,201,0,0
@@ -3536,6 +3632,7 @@ DD,,workday,wd5/dupont/Jobs,2026-10-30,205,0,0
 DD,,workday,wd5/dupont/Jobs,2026-10-31,206,0,0
 DD,,workday,wd5/dupont/Jobs,2026-11-01,205,0,0
 DD,,workday,wd5/dupont/Jobs,2026-11-02,203,0,0
+DD,,workday,wd5/dupont/Jobs,2026-11-03,207,0,0
 DDOG,,greenhouse,datadog,2026-08-29,420,0,0
 DDOG,,greenhouse,datadog,2026-08-30,420,0,0
 DDOG,,greenhouse,datadog,2026-08-31,417,0,0
@@ -3598,6 +3695,7 @@ DDOG,,greenhouse,datadog,2026-10-30,397,0,0
 DDOG,,greenhouse,datadog,2026-10-31,397,0,0
 DDOG,,greenhouse,datadog,2026-11-01,397,0,0
 DDOG,,greenhouse,datadog,2026-11-02,397,0,0
+DDOG,,greenhouse,datadog,2026-11-03,399,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-10-02,415,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-10-03,418,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-10-04,418,0,0
@@ -3629,9 +3727,11 @@ DECK,,workday,wd5/deckers/Deckers,2026-10-30,364,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-10-31,354,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-11-01,350,0,0
 DECK,,workday,wd5/deckers/Deckers,2026-11-02,350,0,0
+DECK,,workday,wd5/deckers/Deckers,2026-11-03,351,0,0
 DHI,,taleo,drhorton.taleo.net/2/101430233,2026-10-31,,1,0
 DHI,,taleo,drhorton.taleo.net/2/101430233,2026-11-01,562,0,0
 DHI,,taleo,drhorton.taleo.net/2/101430233,2026-11-02,569,0,0
+DHI,,taleo,drhorton.taleo.net/2/101430233,2026-11-03,565,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-10-02,1426,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-10-03,1420,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-10-04,1417,0,0
@@ -3663,6 +3763,7 @@ DHR,,workday,wd1/danaher/DanaherJobs,2026-10-30,1441,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-10-31,1440,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-11-01,1438,0,0
 DHR,,workday,wd1/danaher/DanaherJobs,2026-11-02,1436,0,0
+DHR,,workday,wd1/danaher/DanaherJobs,2026-11-03,1442,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-10-02,606,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-10-03,604,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-10-04,601,0,0
@@ -3694,11 +3795,13 @@ DIS,,workday,wd5/disney/disneycareer,2026-10-30,293,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-10-31,266,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-11-01,264,0,0
 DIS,,workday,wd5/disney/disneycareer,2026-11-02,233,0,0
+DIS,,workday,wd5/disney/disneycareer,2026-11-03,217,0,0
 DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-10-29,167,0,0
 DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-10-30,171,0,0
 DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-10-31,171,0,0
 DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-11-01,171,0,0
 DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-11-02,170,0,0
+DLR,,oracle,hdep.fa.us2.oraclecloud.com/CX,2026-11-03,166,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-10-02,10017,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-10-03,10016,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-10-04,10020,0,0
@@ -3730,6 +3833,7 @@ DLTR,,workday,wd5/dollartree/dollartreeus,2026-10-30,10018,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-10-31,10016,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-11-01,10018,0,0
 DLTR,,workday,wd5/dollartree/dollartreeus,2026-11-02,10020,0,0
+DLTR,,workday,wd5/dollartree/dollartreeus,2026-11-03,10015,0,0
 DOV,,workday,wd103/dover/Dover,2026-10-02,621,0,0
 DOV,,workday,wd103/dover/Dover,2026-10-03,623,0,0
 DOV,,workday,wd103/dover/Dover,2026-10-04,622,0,0
@@ -3761,6 +3865,7 @@ DOV,,workday,wd103/dover/Dover,2026-10-30,773,0,0
 DOV,,workday,wd103/dover/Dover,2026-10-31,762,0,0
 DOV,,workday,wd103/dover/Dover,2026-11-01,759,0,0
 DOV,,workday,wd103/dover/Dover,2026-11-02,756,0,0
+DOV,,workday,wd103/dover/Dover,2026-11-03,758,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-09-15,153,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-09-16,156,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-09-17,164,0,0
@@ -3808,6 +3913,7 @@ DOW,,workday,wd1/dow/ExternalCareers,2026-10-30,178,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-10-31,166,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-11-01,162,0,0
 DOW,,workday,wd1/dow/ExternalCareers,2026-11-02,171,0,0
+DOW,,workday,wd1/dow/ExternalCareers,2026-11-03,175,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-09-15,98,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-09-16,101,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-09-17,102,0,0
@@ -3855,6 +3961,7 @@ DUK,,workday,wd1/dukeenergy/search,2026-10-30,93,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-10-31,96,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-11-01,93,0,0
 DUK,,workday,wd1/dukeenergy/search,2026-11-02,85,0,0
+DUK,,workday,wd1/dukeenergy/search,2026-11-03,89,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-09-15,3300,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-09-16,3349,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-09-17,3399,0,0
@@ -3902,6 +4009,7 @@ DVA,,workday,wd1/davita/DKC_External,2026-10-30,3383,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-10-31,3384,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-11-01,3361,0,0
 DVA,,workday,wd1/davita/DKC_External,2026-11-02,3329,0,0
+DVA,,workday,wd1/davita/DKC_External,2026-11-03,3362,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-10-02,48,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-10-03,48,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-10-04,48,0,0
@@ -3933,6 +4041,7 @@ DVN,,workday,wd5/devonenergy/Careers,2026-10-30,60,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-10-31,60,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-11-01,60,0,0
 DVN,,workday,wd5/devonenergy/Careers,2026-11-02,60,0,0
+DVN,,workday,wd5/devonenergy/Careers,2026-11-03,57,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-09-15,305,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-09-16,298,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-09-17,292,0,0
@@ -3980,6 +4089,7 @@ DXCM,,workday,wd1/dexcom/Dexcom,2026-10-30,299,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-10-31,295,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-11-01,295,0,0
 DXCM,,workday,wd1/dexcom/Dexcom,2026-11-02,292,0,0
+DXCM,,workday,wd1/dexcom/Dexcom,2026-11-03,299,0,0
 EBAY,,workday,wd5/ebay/apply,2026-10-02,297,0,0
 EBAY,,workday,wd5/ebay/apply,2026-10-03,294,0,0
 EBAY,,workday,wd5/ebay/apply,2026-10-04,294,0,0
@@ -4011,6 +4121,7 @@ EBAY,,workday,wd5/ebay/apply,2026-10-30,267,0,0
 EBAY,,workday,wd5/ebay/apply,2026-10-31,259,0,0
 EBAY,,workday,wd5/ebay/apply,2026-11-01,259,0,0
 EBAY,,workday,wd5/ebay/apply,2026-11-02,255,0,0
+EBAY,,workday,wd5/ebay/apply,2026-11-03,258,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-09-15,821,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-09-16,838,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-09-17,842,0,0
@@ -4058,11 +4169,13 @@ ECL,,workday,wd1/ecolab/Ecolab_External,2026-10-30,1011,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-10-31,993,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-11-01,989,0,0
 ECL,,workday,wd1/ecolab/Ecolab_External,2026-11-02,984,0,0
+ECL,,workday,wd1/ecolab/Ecolab_External,2026-11-03,1006,0,0
 ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-10-29,63,0,0
 ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-10-30,64,0,0
 ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-10-31,66,0,0
 ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-11-01,65,0,0
 ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-11-02,63,0,0
+ED,,oracle,ejcu.fa.us6.oraclecloud.com/CX_1033,2026-11-03,65,0,0
 EFX,,workday,wd5/equifax/external,2026-10-09,228,0,0
 EFX,,workday,wd5/equifax/external,2026-10-10,215,0,0
 EFX,,workday,wd5/equifax/external,2026-10-11,214,0,0
@@ -4088,6 +4201,7 @@ EFX,,workday,wd5/equifax/external,2026-10-30,162,0,0
 EFX,,workday,wd5/equifax/external,2026-10-31,165,0,0
 EFX,,workday,wd5/equifax/external,2026-11-01,165,0,0
 EFX,,workday,wd5/equifax/external,2026-11-02,167,0,0
+EFX,,workday,wd5/equifax/external,2026-11-03,167,0,0
 EG,,workday,wd5/everestre/careers,2026-10-02,51,0,0
 EG,,workday,wd5/everestre/careers,2026-10-03,51,0,0
 EG,,workday,wd5/everestre/careers,2026-10-04,51,0,0
@@ -4119,6 +4233,7 @@ EG,,workday,wd5/everestre/careers,2026-10-30,55,0,0
 EG,,workday,wd5/everestre/careers,2026-10-31,55,0,0
 EG,,workday,wd5/everestre/careers,2026-11-01,55,0,0
 EG,,workday,wd5/everestre/careers,2026-11-02,55,0,0
+EG,,workday,wd5/everestre/careers,2026-11-03,52,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-10-03,1954,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-10-04,1971,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-10-05,2000,0,0
@@ -4149,6 +4264,7 @@ EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-10-30,2070,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-10-31,2045,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-11-01,2089,0,0
 EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-11-02,2073,0,0
+EL,,eightfold,careers.elcompanies.com/elcompanies.com/pcsx,2026-11-03,2056,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-09-15,290,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-09-16,300,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-09-17,312,0,0
@@ -4196,16 +4312,19 @@ ELV,,workday,wd1/elevancehealth/ANT,2026-10-30,271,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-10-31,253,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-11-01,254,0,0
 ELV,,workday,wd1/elevancehealth/ANT,2026-11-02,241,0,0
+ELV,,workday,wd1/elevancehealth/ANT,2026-11-03,259,0,0
 EME,,icims,careers-emcorgroup.icims.com,2026-10-29,1505,0,0
 EME,,icims,careers-emcorgroup.icims.com,2026-10-30,1511,0,0
 EME,,icims,careers-emcorgroup.icims.com,2026-10-31,1502,0,0
 EME,,icims,careers-emcorgroup.icims.com,2026-11-01,1502,0,0
 EME,,icims,careers-emcorgroup.icims.com,2026-11-02,1505,0,0
+EME,,icims,careers-emcorgroup.icims.com,2026-11-03,1507,0,0
 EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-10-29,1137,0,0
 EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-10-30,1133,0,0
 EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-10-31,1118,0,0
 EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-11-01,1119,0,0
 EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-11-02,1128,0,0
+EMR,,oracle,hdjq.fa.us2.oraclecloud.com/CX_1,2026-11-03,1143,0,0
 EQIX,,workday,wd1/equinix/external,2026-10-09,274,0,0
 EQIX,,workday,wd1/equinix/external,2026-10-10,277,0,0
 EQIX,,workday,wd1/equinix/external,2026-10-11,277,0,0
@@ -4231,6 +4350,7 @@ EQIX,,workday,wd1/equinix/external,2026-10-30,286,0,0
 EQIX,,workday,wd1/equinix/external,2026-10-31,288,0,0
 EQIX,,workday,wd1/equinix/external,2026-11-01,288,0,0
 EQIX,,workday,wd1/equinix/external,2026-11-02,286,0,0
+EQIX,,workday,wd1/equinix/external,2026-11-03,288,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-10-04,59,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-10-05,58,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-10-06,56,0,0
@@ -4260,6 +4380,7 @@ ERIE,,successfactors,jobs.erieinsurance.com,2026-10-30,44,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-10-31,42,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-11-01,41,0,0
 ERIE,,successfactors,jobs.erieinsurance.com,2026-11-02,40,0,0
+ERIE,,successfactors,jobs.erieinsurance.com,2026-11-03,42,0,0
 ES,,workday,wd1/eversource/externalsite,2026-10-09,247,0,0
 ES,,workday,wd1/eversource/externalsite,2026-10-10,253,0,0
 ES,,workday,wd1/eversource/externalsite,2026-10-11,253,0,0
@@ -4285,6 +4406,7 @@ ES,,workday,wd1/eversource/externalsite,2026-10-30,211,0,0
 ES,,workday,wd1/eversource/externalsite,2026-10-31,210,0,0
 ES,,workday,wd1/eversource/externalsite,2026-11-01,210,0,0
 ES,,workday,wd1/eversource/externalsite,2026-11-02,209,0,0
+ES,,workday,wd1/eversource/externalsite,2026-11-03,203,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-10-09,71,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-10-10,74,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-10-11,74,0,0
@@ -4310,6 +4432,7 @@ ESS,,workday,wd5/essex/essexcareers,2026-10-30,78,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-10-31,78,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-11-01,78,0,0
 ESS,,workday,wd5/essex/essexcareers,2026-11-02,78,0,0
+ESS,,workday,wd5/essex/essexcareers,2026-11-03,81,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-10-03,2348,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-10-04,2329,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-10-05,2323,0,0
@@ -4340,6 +4463,7 @@ ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-10-30,2423,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-10-31,2424,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-11-01,2417,0,0
 ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-11-02,2404,0,0
+ETN,,eightfold,eaton.eightfold.ai/eaton.com/pcsx,2026-11-03,2410,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-10-09,392,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-10-10,397,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-10-11,394,0,0
@@ -4365,6 +4489,7 @@ EW,,workday,wd5/edwards/edwardscareers,2026-10-30,374,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-10-31,370,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-11-01,369,0,0
 EW,,workday,wd5/edwards/edwardscareers,2026-11-02,365,0,0
+EW,,workday,wd5/edwards/edwardscareers,2026-11-03,359,0,0
 EXPE,,workday,wd108/expedia/search,2026-09-15,153,0,0
 EXPE,,workday,wd108/expedia/search,2026-09-16,161,0,0
 EXPE,,workday,wd108/expedia/search,2026-09-17,172,0,0
@@ -4412,6 +4537,7 @@ EXPE,,workday,wd108/expedia/search,2026-10-30,124,0,0
 EXPE,,workday,wd108/expedia/search,2026-10-31,122,0,0
 EXPE,,workday,wd108/expedia/search,2026-11-01,119,0,0
 EXPE,,workday,wd108/expedia/search,2026-11-02,118,0,0
+EXPE,,workday,wd108/expedia/search,2026-11-03,122,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-10-09,50,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-10-10,51,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-10-11,51,0,0
@@ -4437,6 +4563,7 @@ EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-10-30,54,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-10-31,53,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-11-01,53,0,0
 EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-11-02,53,0,0
+EXR,,workday,wd5/extraspace/ESS_Acquisitions,2026-11-03,55,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-10-09,545,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-10-10,558,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-10-11,558,0,0
@@ -4462,9 +4589,11 @@ EXR,,workday,wd5/extraspace/ESS_External,2026-10-30,560,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-10-31,551,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-11-01,551,0,0
 EXR,,workday,wd5/extraspace/ESS_External,2026-11-02,550,0,0
+EXR,,workday,wd5/extraspace/ESS_External,2026-11-03,561,0,0
 F,,oracle,efds.fa.em5.oraclecloud.com/CX_1,2026-10-31,880,0,0
 F,,oracle,efds.fa.em5.oraclecloud.com/CX_1,2026-11-01,876,0,0
 F,,oracle,efds.fa.em5.oraclecloud.com/CX_1,2026-11-02,870,0,0
+F,,oracle,efds.fa.em5.oraclecloud.com/CX_1,2026-11-03,895,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-10-09,30,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-10-10,30,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-10-11,30,0,0
@@ -4490,6 +4619,7 @@ FANG,,workday,wd12/diamondbackenergy/dbe,2026-10-30,32,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-10-31,32,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-11-01,32,0,0
 FANG,,workday,wd12/diamondbackenergy/dbe,2026-11-02,32,0,0
+FANG,,workday,wd12/diamondbackenergy/dbe,2026-11-03,31,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-10-09,92,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-10-10,94,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-10-11,93,0,0
@@ -4515,6 +4645,7 @@ FDS,,workday,wd108/factset/factsetcareers,2026-10-30,99,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-10-31,98,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-11-01,98,0,0
 FDS,,workday,wd108/factset/factsetcareers,2026-11-02,102,0,0
+FDS,,workday,wd108/factset/factsetcareers,2026-11-03,102,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-09-15,361,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-09-16,366,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-09-17,381,0,0
@@ -4562,11 +4693,14 @@ FDX,,workday,wd1/fedex/FXE-EU_External,2026-10-30,888,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-10-31,289,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-11-01,283,0,0
 FDX,,workday,wd1/fedex/FXE-EU_External,2026-11-02,286,0,0
+FDX,,workday,wd1/fedex/FXE-EU_External,2026-11-03,296,0,0
 FDXF,,workday,wd108/freight/FXF_External_Career_Site,2026-11-01,629,0,0
 FDXF,,workday,wd108/freight/FXF_External_Career_Site,2026-11-02,639,0,0
+FDXF,,workday,wd108/freight/FXF_External_Career_Site,2026-11-03,642,0,0
 FE,,oracle,fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/FirstEnergyCareers,2026-10-31,313,0,0
 FE,,oracle,fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/FirstEnergyCareers,2026-11-01,310,0,0
 FE,,oracle,fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/FirstEnergyCareers,2026-11-02,308,0,0
+FE,,oracle,fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/FirstEnergyCareers,2026-11-03,321,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-09-15,474,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-09-16,476,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-09-17,469,0,0
@@ -4614,6 +4748,7 @@ FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-10-30,423,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-10-31,422,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-11-01,422,0,0
 FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-11-02,424,0,0
+FERG,,workday,wd1/ferguson/Ferguson_Experienced,2026-11-03,426,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-10-02,211,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-10-03,210,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-10-04,210,0,0
@@ -4645,6 +4780,7 @@ FFIV,,workday,wd5/ffive/f5jobs,2026-10-30,259,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-10-31,259,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-11-01,259,0,0
 FFIV,,workday,wd5/ffive/f5jobs,2026-11-02,259,0,0
+FFIV,,workday,wd5/ffive/f5jobs,2026-11-03,264,0,0
 FICO,,workday,wd1/fico/External,2026-09-15,90,0,0
 FICO,,workday,wd1/fico/External,2026-09-16,86,0,0
 FICO,,workday,wd1/fico/External,2026-09-17,85,0,0
@@ -4692,6 +4828,7 @@ FICO,,workday,wd1/fico/External,2026-10-30,78,0,0
 FICO,,workday,wd1/fico/External,2026-10-31,78,0,0
 FICO,,workday,wd1/fico/External,2026-11-01,78,0,0
 FICO,,workday,wd1/fico/External,2026-11-02,77,0,0
+FICO,,workday,wd1/fico/External,2026-11-03,76,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-10-02,504,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-10-03,503,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-10-04,503,0,0
@@ -4723,6 +4860,7 @@ FIS,,workday,wd5/fis/SearchJobs,2026-10-30,519,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-10-31,513,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-11-01,512,0,0
 FIS,,workday,wd5/fis/SearchJobs,2026-11-02,511,0,0
+FIS,,workday,wd5/fis/SearchJobs,2026-11-03,515,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-10-02,265,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-10-03,279,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-10-04,275,0,0
@@ -4754,6 +4892,7 @@ FISV,,workday,wd5/fiserv/EXT,2026-10-30,388,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-10-31,373,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-11-01,370,0,0
 FISV,,workday,wd5/fiserv/EXT,2026-11-02,367,0,0
+FISV,,workday,wd5/fiserv/EXT,2026-11-03,401,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-10-09,993,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-10-10,987,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-10-11,986,0,0
@@ -4779,6 +4918,7 @@ FITB,,workday,wd5/fifththird/53careers,2026-10-30,973,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-10-31,890,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-11-01,888,0,0
 FITB,,workday,wd5/fifththird/53careers,2026-11-02,867,0,0
+FITB,,workday,wd5/fifththird/53careers,2026-11-03,939,0,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-10-09,3,0,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-10-10,3,0,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-10-11,3,0,0
@@ -4804,6 +4944,7 @@ FITB,,workday,wd5/fifththird/Dividendcareers,2026-10-30,,1,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-10-31,,1,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-11-01,,1,0
 FITB,,workday,wd5/fifththird/Dividendcareers,2026-11-02,,1,0
+FITB,,workday,wd5/fifththird/Dividendcareers,2026-11-03,,1,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-10-09,1,0,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-10-10,1,0,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-10-11,1,0,0
@@ -4829,6 +4970,7 @@ FITB,,workday,wd5/fifththird/Providecareers,2026-10-30,0,0,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-10-31,0,0,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-11-01,0,0,0
 FITB,,workday,wd5/fifththird/Providecareers,2026-11-02,0,0,0
+FITB,,workday,wd5/fifththird/Providecareers,2026-11-03,0,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-09-15,39,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-09-16,39,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-09-17,39,0,0
@@ -4876,6 +5018,7 @@ FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-10-30,41,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-10-31,41,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-11-01,41,0,0
 FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-11-02,41,0,0
+FIX,,workday,wd1/comfortsystemsusa/CUSASW,2026-11-03,41,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-09-15,1606,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-09-16,1632,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-09-17,1618,0,0
@@ -4923,6 +5066,7 @@ FLEX,,workday,wd1/flextronics/Careers,2026-10-30,1542,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-10-31,1515,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-11-01,1512,0,0
 FLEX,,workday,wd1/flextronics/Careers,2026-11-02,1519,0,0
+FLEX,,workday,wd1/flextronics/Careers,2026-11-03,,1,0
 FOX,,workday,wd1/fox/Domestic,2026-09-15,318,0,0
 FOX,,workday,wd1/fox/Domestic,2026-09-16,317,0,0
 FOX,,workday,wd1/fox/Domestic,2026-09-17,313,0,0
@@ -4970,14 +5114,17 @@ FOX,,workday,wd1/fox/Domestic,2026-10-30,322,0,0
 FOX,,workday,wd1/fox/Domestic,2026-10-31,321,0,0
 FOX,,workday,wd1/fox/Domestic,2026-11-01,319,0,0
 FOX,,workday,wd1/fox/Domestic,2026-11-02,319,0,0
+FOX,,workday,wd1/fox/Domestic,2026-11-03,313,0,0
 FRT,,icims,careers-federalrealty.icims.com,2026-10-31,13,0,0
 FRT,,icims,careers-federalrealty.icims.com,2026-11-01,13,0,0
 FRT,,icims,careers-federalrealty.icims.com,2026-11-02,13,0,0
+FRT,,icims,careers-federalrealty.icims.com,2026-11-03,13,0,0
 FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-29,266,0,0
 FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-30,264,0,0
 FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-31,268,0,0
 FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-01,268,0,0
 FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-02,267,0,0
+FSLR,,oracle,fa-esbv-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-03,269,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-10-03,269,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-10-04,269,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-10-05,270,0,0
@@ -5008,6 +5155,7 @@ FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-10-30,292,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-10-31,287,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-11-01,287,0,0
 FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-11-02,287,0,0
+FTV,,eightfold,fortive.eightfold.ai/fortive.com/pcsx,2026-11-03,292,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-09-15,1195,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-09-16,1199,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-09-17,1206,0,0
@@ -5055,6 +5203,7 @@ GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-10-30,1296,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-10-31,1314,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-11-01,1323,0,0
 GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-11-02,1328,0,0
+GD,subsidiary,workday,wd5/gdit/External_Career_Site,2026-11-03,1309,0,0
 GDDY,,greenhouse,godaddy,2026-08-29,34,0,0
 GDDY,,greenhouse,godaddy,2026-08-30,34,0,0
 GDDY,,greenhouse,godaddy,2026-08-31,36,0,0
@@ -5117,6 +5266,7 @@ GDDY,,greenhouse,godaddy,2026-10-30,27,0,0
 GDDY,,greenhouse,godaddy,2026-10-31,28,0,0
 GDDY,,greenhouse,godaddy,2026-11-01,28,0,0
 GDDY,,greenhouse,godaddy,2026-11-02,25,0,0
+GDDY,,greenhouse,godaddy,2026-11-03,28,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-09-15,501,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-09-16,496,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-09-17,504,0,0
@@ -5164,6 +5314,7 @@ GE,,workday,wd5/geaerospace/ge_externalsite,2026-10-30,651,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-10-31,643,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-11-01,639,0,0
 GE,,workday,wd5/geaerospace/ge_externalsite,2026-11-02,640,0,0
+GE,,workday,wd5/geaerospace/ge_externalsite,2026-11-03,649,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-09-15,981,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-09-16,987,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-09-17,984,0,0
@@ -5211,6 +5362,7 @@ GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-10-30,1035,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-10-31,1047,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-11-01,1047,0,0
 GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-11-02,1048,0,0
+GEHC,,workday,wd5/gehc/GEHC_ExternalSite,2026-11-03,1044,0,0
 GEN,,ashby,gen-digital,2026-08-29,120,0,0
 GEN,,ashby,gen-digital,2026-08-30,120,0,0
 GEN,,ashby,gen-digital,2026-08-31,121,0,0
@@ -5273,6 +5425,7 @@ GEN,,ashby,gen-digital,2026-10-30,108,0,0
 GEN,,ashby,gen-digital,2026-10-31,110,0,0
 GEN,,ashby,gen-digital,2026-11-01,110,0,0
 GEN,,ashby,gen-digital,2026-11-02,109,0,0
+GEN,,ashby,gen-digital,2026-11-03,104,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-09-15,2119,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-09-16,2135,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-09-17,2161,0,0
@@ -5320,6 +5473,7 @@ GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-10-30,2234,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-10-31,2186,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-11-01,2174,0,0
 GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-11-02,2160,0,0
+GEV,,workday,wd5/gevernova/Vernova_ExternalSite,2026-11-03,2205,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-09-15,483,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-09-16,478,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-09-17,488,0,0
@@ -5367,6 +5521,7 @@ GILD,,workday,wd1/gilead/gileadcareers,2026-10-30,414,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-10-31,404,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-11-01,402,0,0
 GILD,,workday,wd1/gilead/gileadcareers,2026-11-02,399,0,0
+GILD,,workday,wd1/gilead/gileadcareers,2026-11-03,406,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-10-02,353,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-10-03,361,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-10-04,360,0,0
@@ -5398,6 +5553,7 @@ GIS,,workday,wd1/genmills/GMI_External_Careers,2026-10-30,387,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-10-31,383,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-11-01,382,0,0
 GIS,,workday,wd1/genmills/GMI_External_Careers,2026-11-02,386,0,0
+GIS,,workday,wd1/genmills/GMI_External_Careers,2026-11-03,382,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-09-15,27,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-09-16,30,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-09-17,30,0,0
@@ -5445,6 +5601,7 @@ GL,,workday,wd5/globelife/Globe-Life-Careers,2026-10-30,21,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-10-31,27,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-11-01,27,0,0
 GL,,workday,wd5/globelife/Globe-Life-Careers,2026-11-02,27,0,0
+GL,,workday,wd5/globelife/Globe-Life-Careers,2026-11-03,29,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-09-15,831,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-09-16,839,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-09-17,852,0,0
@@ -5492,6 +5649,7 @@ GM,,workday,wd5/generalmotors/Careers_GM,2026-10-30,783,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-10-31,784,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-11-01,781,0,0
 GM,,workday,wd5/generalmotors/Careers_GM,2026-11-02,749,0,0
+GM,,workday,wd5/generalmotors/Careers_GM,2026-11-03,767,0,0
 GNRC,,workday,wd5/generac/External,2026-10-02,442,0,0
 GNRC,,workday,wd5/generac/External,2026-10-03,451,0,0
 GNRC,,workday,wd5/generac/External,2026-10-04,451,0,0
@@ -5523,6 +5681,7 @@ GNRC,,workday,wd5/generac/External,2026-10-30,461,0,0
 GNRC,,workday,wd5/generac/External,2026-10-31,461,0,0
 GNRC,,workday,wd5/generac/External,2026-11-01,460,0,0
 GNRC,,workday,wd5/generac/External,2026-11-02,460,0,0
+GNRC,,workday,wd5/generac/External,2026-11-03,465,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-10-02,55,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-10-03,55,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-10-04,55,0,0
@@ -5554,6 +5713,7 @@ GNRC,,workday,wd5/generac/ExternalCareers,2026-10-30,101,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-10-31,101,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-11-01,101,0,0
 GNRC,,workday,wd5/generac/ExternalCareers,2026-11-02,102,0,0
+GNRC,,workday,wd5/generac/ExternalCareers,2026-11-03,104,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-08-29,350,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-08-30,348,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-08-31,347,0,0
@@ -5616,6 +5776,7 @@ GOOGL,subsidiary,greenhouse,waymo,2026-10-30,369,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-10-31,372,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-11-01,372,0,0
 GOOGL,subsidiary,greenhouse,waymo,2026-11-02,372,0,0
+GOOGL,subsidiary,greenhouse,waymo,2026-11-03,372,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-09-15,132,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-09-16,134,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-09-17,139,0,0
@@ -5663,6 +5824,7 @@ GOOGL,subsidiary,greenhouse,wizinc,2026-10-30,115,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-10-31,113,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-11-01,115,0,0
 GOOGL,subsidiary,greenhouse,wizinc,2026-11-02,115,0,0
+GOOGL,subsidiary,greenhouse,wizinc,2026-11-03,114,0,0
 GPC,,workday,wd1/genpt/Careers,2026-09-15,2000,0,1
 GPC,,workday,wd1/genpt/Careers,2026-09-16,2000,0,1
 GPC,,workday,wd1/genpt/Careers,2026-09-17,2000,0,1
@@ -5710,6 +5872,7 @@ GPC,,workday,wd1/genpt/Careers,2026-10-30,2695,0,0
 GPC,,workday,wd1/genpt/Careers,2026-10-31,2680,0,0
 GPC,,workday,wd1/genpt/Careers,2026-11-01,2679,0,0
 GPC,,workday,wd1/genpt/Careers,2026-11-02,2714,0,0
+GPC,,workday,wd1/genpt/Careers,2026-11-03,2709,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-09-15,301,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-09-16,304,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-09-17,316,0,0
@@ -5757,6 +5920,7 @@ GPN,,workday,wd1/tsys/TSYS,2026-10-30,450,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-10-31,450,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-11-01,446,0,0
 GPN,,workday,wd1/tsys/TSYS,2026-11-02,439,0,0
+GPN,,workday,wd1/tsys/TSYS,2026-11-03,455,0,0
 GWW,,successfactors,jobs.grainger.com,2026-10-04,333,0,0
 GWW,,successfactors,jobs.grainger.com,2026-10-05,333,0,0
 GWW,,successfactors,jobs.grainger.com,2026-10-06,326,0,0
@@ -5786,6 +5950,7 @@ GWW,,successfactors,jobs.grainger.com,2026-10-30,324,0,0
 GWW,,successfactors,jobs.grainger.com,2026-10-31,313,0,0
 GWW,,successfactors,jobs.grainger.com,2026-11-01,315,0,0
 GWW,,successfactors,jobs.grainger.com,2026-11-02,314,0,0
+GWW,,successfactors,jobs.grainger.com,2026-11-03,327,0,0
 HAS,,greenhouse,hasbro,2026-08-29,159,0,0
 HAS,,greenhouse,hasbro,2026-08-30,159,0,0
 HAS,,greenhouse,hasbro,2026-08-31,159,0,0
@@ -5848,6 +6013,7 @@ HAS,,greenhouse,hasbro,2026-10-30,118,0,0
 HAS,,greenhouse,hasbro,2026-10-31,122,0,0
 HAS,,greenhouse,hasbro,2026-11-01,122,0,0
 HAS,,greenhouse,hasbro,2026-11-02,121,0,0
+HAS,,greenhouse,hasbro,2026-11-03,119,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-09-15,635,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-09-16,630,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-09-17,645,0,0
@@ -5895,6 +6061,7 @@ HBAN,,workday,wd12/huntington/HNBcareers,2026-10-30,677,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-10-31,684,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-11-01,684,0,0
 HBAN,,workday,wd12/huntington/HNBcareers,2026-11-02,682,0,0
+HBAN,,workday,wd12/huntington/HNBcareers,2026-11-03,691,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-09-15,1079,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-09-16,1079,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-09-17,1067,0,0
@@ -5942,6 +6109,7 @@ HD,,workday,wd5/homedepot/careerdepot,2026-10-30,979,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-10-31,973,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-11-01,976,0,0
 HD,,workday,wd5/homedepot/careerdepot,2026-11-02,976,0,0
+HD,,workday,wd5/homedepot/careerdepot,2026-11-03,973,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-09-15,234,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-09-16,233,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-09-17,239,0,0
@@ -5989,6 +6157,7 @@ HIG,,workday,wd5/thehartford/Careers_External,2026-10-30,243,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-10-31,242,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-11-01,241,0,0
 HIG,,workday,wd5/thehartford/Careers_External,2026-11-02,238,0,0
+HIG,,workday,wd5/thehartford/Careers_External,2026-11-03,231,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-10-04,373,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-10-05,331,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-10-06,368,0,0
@@ -6018,6 +6187,7 @@ HII,,successfactors,careers.huntingtoningalls.com,2026-10-30,446,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-10-31,420,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-11-01,414,0,0
 HII,,successfactors,careers.huntingtoningalls.com,2026-11-02,350,0,0
+HII,,successfactors,careers.huntingtoningalls.com,2026-11-03,396,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-10-04,640,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-10-05,638,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-10-06,644,0,0
@@ -6047,6 +6217,7 @@ HII,,successfactors,jobs.hii-tsd.com,2026-10-30,670,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-10-31,666,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-11-01,665,0,0
 HII,,successfactors,jobs.hii-tsd.com,2026-11-02,665,0,0
+HII,,successfactors,jobs.hii-tsd.com,2026-11-03,661,0,0
 HOOD,,greenhouse,robinhood,2026-08-29,129,0,0
 HOOD,,greenhouse,robinhood,2026-08-30,129,0,0
 HOOD,,greenhouse,robinhood,2026-08-31,128,0,0
@@ -6109,6 +6280,7 @@ HOOD,,greenhouse,robinhood,2026-10-30,167,0,0
 HOOD,,greenhouse,robinhood,2026-10-31,160,0,0
 HOOD,,greenhouse,robinhood,2026-11-01,160,0,0
 HOOD,,greenhouse,robinhood,2026-11-02,162,0,0
+HOOD,,greenhouse,robinhood,2026-11-03,160,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-09-15,1183,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-09-16,1164,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-09-17,1177,0,0
@@ -6156,6 +6328,7 @@ HPE,,workday,wd5/hpe/Jobsathpe,2026-10-30,1755,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-10-31,1743,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-11-01,1743,0,0
 HPE,,workday,wd5/hpe/Jobsathpe,2026-11-02,1744,0,0
+HPE,,workday,wd5/hpe/Jobsathpe,2026-11-03,1699,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-09-15,839,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-09-16,845,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-09-17,864,0,0
@@ -6203,11 +6376,13 @@ HPQ,,workday,wd5/hp/ExternalCareerSite,2026-10-30,883,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-10-31,890,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-11-01,892,0,0
 HPQ,,workday,wd5/hp/ExternalCareerSite,2026-11-02,896,0,0
+HPQ,,workday,wd5/hp/ExternalCareerSite,2026-11-03,914,0,0
 HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-10-29,245,0,0
 HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-10-30,237,0,0
 HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-10-31,233,0,0
 HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-11-01,225,0,0
 HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-11-02,222,0,0
+HRL,,oracle,ekkh.fa.us2.oraclecloud.com/CX,2026-11-03,217,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-09-15,262,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-09-16,255,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-09-17,256,0,0
@@ -6255,6 +6430,7 @@ HSIC,,workday,wd1/henryschein/External_Careers,2026-10-30,250,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-10-31,247,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-11-01,247,0,0
 HSIC,,workday,wd1/henryschein/External_Careers,2026-11-02,244,0,0
+HSIC,,workday,wd1/henryschein/External_Careers,2026-11-03,251,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-10-09,5,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-10-10,5,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-10-11,5,0,0
@@ -6280,6 +6456,7 @@ HST,,workday,wd5/hosthotels/hosthotels,2026-10-30,3,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-10-31,3,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-11-01,3,0,0
 HST,,workday,wd5/hosthotels/hosthotels,2026-11-02,3,0,0
+HST,,workday,wd5/hosthotels/hosthotels,2026-11-03,3,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-10-04,314,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-10-05,314,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-10-06,320,0,0
@@ -6309,6 +6486,7 @@ HSY,,successfactors,careers.thehersheycompany.com,2026-10-30,316,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-10-31,317,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-11-01,316,0,0
 HSY,,successfactors,careers.thehersheycompany.com,2026-11-02,315,0,0
+HSY,,successfactors,careers.thehersheycompany.com,2026-11-03,317,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-09-15,368,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-09-16,394,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-09-17,388,0,0
@@ -6356,14 +6534,17 @@ HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-10-30,228,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-10-31,229,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-11-01,224,0,0
 HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-11-02,211,0,0
+HUM,,workday,wd5/humana/Humana_External_Career_Site,2026-11-03,230,0,0
 HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-29,768,0,0
 HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-30,783,0,0
 HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-10-31,781,0,0
 HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-01,773,0,0
 HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-02,769,0,0
+HWM,,oracle,fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/CX_1,2026-11-03,789,0,0
 IBM,subsidiary,workday,wd5/redhat/jobs,2026-10-31,128,0,0
 IBM,subsidiary,workday,wd5/redhat/jobs,2026-11-01,127,0,0
 IBM,subsidiary,workday,wd5/redhat/jobs,2026-11-02,134,0,0
+IBM,subsidiary,workday,wd5/redhat/jobs,2026-11-03,134,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-10-02,177,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-10-03,177,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-10-04,177,0,0
@@ -6395,9 +6576,11 @@ IDXX,,workday,wd115/idexx/IDEXX,2026-10-30,218,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-10-31,222,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-11-01,222,0,0
 IDXX,,workday,wd115/idexx/IDEXX,2026-11-02,233,0,0
+IDXX,,workday,wd115/idexx/IDEXX,2026-11-03,236,0,0
 IEX,,workday,wd5/idexcorp/IDEX_Careers,2026-10-31,221,0,0
 IEX,,workday,wd5/idexcorp/IDEX_Careers,2026-11-01,222,0,0
 IEX,,workday,wd5/idexcorp/IDEX_Careers,2026-11-02,221,0,0
+IEX,,workday,wd5/idexcorp/IDEX_Careers,2026-11-03,232,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-09-15,403,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-09-16,411,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-09-17,396,0,0
@@ -6445,6 +6628,7 @@ IFF,,workday,wd5/iff/IFF_Careers,2026-10-30,385,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-10-31,348,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-11-01,336,0,0
 IFF,,workday,wd5/iff/IFF_Careers,2026-11-02,333,0,0
+IFF,,workday,wd5/iff/IFF_Careers,2026-11-03,346,0,0
 INTC,,workday,wd1/intel/External,2026-09-15,593,0,0
 INTC,,workday,wd1/intel/External,2026-09-16,597,0,0
 INTC,,workday,wd1/intel/External,2026-09-17,601,0,0
@@ -6492,6 +6676,7 @@ INTC,,workday,wd1/intel/External,2026-10-30,798,0,0
 INTC,,workday,wd1/intel/External,2026-10-31,798,0,0
 INTC,,workday,wd1/intel/External,2026-11-01,807,0,0
 INTC,,workday,wd1/intel/External,2026-11-02,817,0,0
+INTC,,workday,wd1/intel/External,2026-11-03,824,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-09-15,62,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-09-16,57,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-09-17,57,0,0
@@ -6539,6 +6724,7 @@ INVH,,workday,wd503/invitationhomes/INVH,2026-10-30,57,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-10-31,55,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-11-01,55,0,0
 INVH,,workday,wd503/invitationhomes/INVH,2026-11-02,55,0,0
+INVH,,workday,wd503/invitationhomes/INVH,2026-11-03,57,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-09-15,231,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-09-16,231,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-09-17,227,0,0
@@ -6586,6 +6772,7 @@ IP,subsidiary,workday,wd3/dssmith/careers,2026-10-30,179,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-10-31,179,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-11-01,179,0,0
 IP,subsidiary,workday,wd3/dssmith/careers,2026-11-02,182,0,0
+IP,subsidiary,workday,wd3/dssmith/careers,2026-11-03,182,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-09-15,1930,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-09-16,1936,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-09-17,1940,0,0
@@ -6633,6 +6820,7 @@ IQV,,workday,wd1/iqvia/IQVIA,2026-10-30,1930,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-10-31,1905,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-11-01,1901,0,0
 IQV,,workday,wd1/iqvia/IQVIA,2026-11-02,1902,0,0
+IQV,,workday,wd1/iqvia/IQVIA,2026-11-03,,1,0
 IR,,successfactors,careers.irco.com,2026-10-04,267,0,0
 IR,,successfactors,careers.irco.com,2026-10-05,270,0,0
 IR,,successfactors,careers.irco.com,2026-10-06,264,0,0
@@ -6662,6 +6850,7 @@ IR,,successfactors,careers.irco.com,2026-10-30,277,0,0
 IR,,successfactors,careers.irco.com,2026-10-31,277,0,0
 IR,,successfactors,careers.irco.com,2026-11-01,276,0,0
 IR,,successfactors,careers.irco.com,2026-11-02,278,0,0
+IR,,successfactors,careers.irco.com,2026-11-03,281,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-09-15,366,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-09-16,378,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-09-17,366,0,0
@@ -6709,6 +6898,7 @@ IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-10-30,356,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-10-31,348,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-11-01,348,0,0
 IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-11-02,338,0,0
+IRM,,workday,wd5/ironmountain/iron-mountain-jobs,2026-11-03,330,0,0
 IT,,workday,wd5/gartner/EXT,2026-09-15,763,0,0
 IT,,workday,wd5/gartner/EXT,2026-09-16,750,0,0
 IT,,workday,wd5/gartner/EXT,2026-09-17,740,0,0
@@ -6756,6 +6946,7 @@ IT,,workday,wd5/gartner/EXT,2026-10-30,808,0,0
 IT,,workday,wd5/gartner/EXT,2026-10-31,798,0,0
 IT,,workday,wd5/gartner/EXT,2026-11-01,799,0,0
 IT,,workday,wd5/gartner/EXT,2026-11-02,801,0,0
+IT,,workday,wd5/gartner/EXT,2026-11-03,794,0,0
 ITW,,workday,wd5/itw/external,2026-09-15,782,0,0
 ITW,,workday,wd5/itw/external,2026-09-16,789,0,0
 ITW,,workday,wd5/itw/external,2026-09-17,799,0,0
@@ -6803,6 +6994,7 @@ ITW,,workday,wd5/itw/external,2026-10-30,788,0,0
 ITW,,workday,wd5/itw/external,2026-10-31,786,0,0
 ITW,,workday,wd5/itw/external,2026-11-01,782,0,0
 ITW,,workday,wd5/itw/external,2026-11-02,782,0,0
+ITW,,workday,wd5/itw/external,2026-11-03,774,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-09-15,241,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-09-16,248,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-09-17,248,0,0
@@ -6850,6 +7042,7 @@ IVZ,,workday,wd1/invesco/IVZ,2026-10-30,214,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-10-31,204,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-11-01,208,0,0
 IVZ,,workday,wd1/invesco/IVZ,2026-11-02,209,0,0
+IVZ,,workday,wd1/invesco/IVZ,2026-11-03,206,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-09-15,466,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-09-16,478,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-09-17,492,0,0
@@ -6897,6 +7090,7 @@ JBHT,,workday,wd501/jbhunt/Careers,2026-10-30,468,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-10-31,470,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-11-01,466,0,0
 JBHT,,workday,wd501/jbhunt/Careers,2026-11-02,466,0,0
+JBHT,,workday,wd501/jbhunt/Careers,2026-11-03,449,0,0
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-09-15,2000,0,1
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-09-16,2000,0,1
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-09-17,2000,0,1
@@ -6944,6 +7138,7 @@ JBL,,workday,wd5/jabil/Jabil_Careers,2026-10-30,2220,0,0
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-10-31,2200,0,0
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-11-01,2197,0,0
 JBL,,workday,wd5/jabil/Jabil_Careers,2026-11-02,2205,0,0
+JBL,,workday,wd5/jabil/Jabil_Careers,2026-11-03,2235,0,0
 JCI,,workday,wd5/jci/JCI,2026-09-15,2642,0,0
 JCI,,workday,wd5/jci/JCI,2026-09-16,2686,0,0
 JCI,,workday,wd5/jci/JCI,2026-09-17,2693,0,0
@@ -6991,6 +7186,7 @@ JCI,,workday,wd5/jci/JCI,2026-10-30,2780,0,0
 JCI,,workday,wd5/jci/JCI,2026-10-31,2776,0,0
 JCI,,workday,wd5/jci/JCI,2026-11-01,2771,0,0
 JCI,,workday,wd5/jci/JCI,2026-11-02,2783,0,0
+JCI,,workday,wd5/jci/JCI,2026-11-03,2793,0,0
 JNJ,,workday,wd5/jj/JJ,2026-09-15,1771,0,0
 JNJ,,workday,wd5/jj/JJ,2026-09-16,1834,0,0
 JNJ,,workday,wd5/jj/JJ,2026-09-17,1874,0,0
@@ -7038,6 +7234,7 @@ JNJ,,workday,wd5/jj/JJ,2026-10-30,1779,0,0
 JNJ,,workday,wd5/jj/JJ,2026-10-31,1706,0,0
 JNJ,,workday,wd5/jj/JJ,2026-11-01,1694,0,0
 JNJ,,workday,wd5/jj/JJ,2026-11-02,1618,0,0
+JNJ,,workday,wd5/jj/JJ,2026-11-03,1702,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-10-03,738,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-10-04,737,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-10-05,737,0,0
@@ -7068,6 +7265,7 @@ KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-10-30,708,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-10-31,706,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-11-01,706,0,0
 KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-11-02,704,0,0
+KDP,,eightfold,kdrp.eightfold.ai/kdrp.com/pcsx,2026-11-03,718,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-09-15,603,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-09-16,596,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-09-17,613,0,0
@@ -7115,6 +7313,7 @@ KEY,,workday,wd5/keybank/External_Career_Site,2026-10-30,558,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-10-31,556,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-11-01,549,0,0
 KEY,,workday,wd5/keybank/External_Career_Site,2026-11-02,545,0,0
+KEY,,workday,wd5/keybank/External_Career_Site,2026-11-03,562,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-09-15,921,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-09-16,917,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-09-17,920,0,0
@@ -7162,6 +7361,7 @@ KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-10-30,915,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-10-31,914,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-11-01,913,0,0
 KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-11-02,915,0,0
+KHC,,workday,wd1/heinz/KraftHeinz_Careers,2026-11-03,910,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-10-09,11,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-10-10,16,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-10-11,16,0,0
@@ -7187,6 +7387,7 @@ KIM,,workday,wd503/kimcorealty/kimcocareers,2026-10-30,17,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-10-31,16,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-11-01,16,0,0
 KIM,,workday,wd503/kimcorealty/kimcocareers,2026-11-02,16,0,0
+KIM,,workday,wd503/kimcorealty/kimcocareers,2026-11-03,19,0,0
 KLAC,,workday,wd1/kla/Search,2026-09-15,1009,0,0
 KLAC,,workday,wd1/kla/Search,2026-09-16,1008,0,0
 KLAC,,workday,wd1/kla/Search,2026-09-17,1013,0,0
@@ -7234,6 +7435,7 @@ KLAC,,workday,wd1/kla/Search,2026-10-30,1162,0,0
 KLAC,,workday,wd1/kla/Search,2026-10-31,1156,0,0
 KLAC,,workday,wd1/kla/Search,2026-11-01,1151,0,0
 KLAC,,workday,wd1/kla/Search,2026-11-02,1143,0,0
+KLAC,,workday,wd1/kla/Search,2026-11-03,1145,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-09-15,178,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-09-16,175,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-09-17,180,0,0
@@ -7281,6 +7483,7 @@ KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-10-30,147,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-10-31,145,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-11-01,144,0,0
 KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-11-02,143,0,0
+KMB,,workday,wd1/kimberlyclark/GLOBAL,2026-11-03,136,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-09-15,188,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-09-16,205,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-09-17,210,0,0
@@ -7328,9 +7531,11 @@ KO,,workday,wd1/coke/coca-cola-careers,2026-10-30,223,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-10-31,215,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-11-01,211,0,0
 KO,,workday,wd1/coke/coca-cola-careers,2026-11-02,203,0,0
+KO,,workday,wd1/coke/coca-cola-careers,2026-11-03,228,0,0
 KR,,oracle,eluq.fa.us2.oraclecloud.com/CX_2001,2026-10-31,10000,0,0
 KR,,oracle,eluq.fa.us2.oraclecloud.com/CX_2001,2026-11-01,10000,0,0
 KR,,oracle,eluq.fa.us2.oraclecloud.com/CX_2001,2026-11-02,10000,0,0
+KR,,oracle,eluq.fa.us2.oraclecloud.com/CX_2001,2026-11-03,10000,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-10-09,166,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-10-10,163,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-10-11,163,0,0
@@ -7356,6 +7561,7 @@ KVUE,,workday,wd5/kenvue/kenvue,2026-10-30,180,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-10-31,168,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-11-01,164,0,0
 KVUE,,workday,wd5/kenvue/kenvue,2026-11-02,165,0,0
+KVUE,,workday,wd5/kenvue/kenvue,2026-11-03,167,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-09-15,2,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-09-16,2,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-09-17,2,0,0
@@ -7403,6 +7609,7 @@ L,,workday,wd1/loewscorp/loewscorp,2026-10-30,2,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-10-31,2,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-11-01,2,0,0
 L,,workday,wd1/loewscorp/loewscorp,2026-11-02,2,0,0
+L,,workday,wd1/loewscorp/loewscorp,2026-11-03,2,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-09-15,293,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-09-16,288,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-09-17,282,0,0
@@ -7450,6 +7657,7 @@ L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-10-30,313,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-10-31,311,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-11-01,313,0,0
 L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-11-02,314,0,0
+L,subsidiary,workday,wd5/loewshotels/loewshotels,2026-11-03,311,0,0
 LDOS,,workday,wd5/leidos/External,2026-09-15,1999,0,1
 LDOS,,workday,wd5/leidos/External,2026-09-16,1998,0,1
 LDOS,,workday,wd5/leidos/External,2026-09-17,1999,0,1
@@ -7497,6 +7705,7 @@ LDOS,,workday,wd5/leidos/External,2026-10-30,2283,0,0
 LDOS,,workday,wd5/leidos/External,2026-10-31,2291,0,0
 LDOS,,workday,wd5/leidos/External,2026-11-01,2292,0,0
 LDOS,,workday,wd5/leidos/External,2026-11-02,2306,0,0
+LDOS,,workday,wd5/leidos/External,2026-11-03,2303,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-09-15,324,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-09-16,319,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-09-17,318,0,0
@@ -7544,6 +7753,7 @@ LEN,,workday,wd1/lennar/Lennar_Jobs,2026-10-30,278,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-10-31,275,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-11-01,275,0,0
 LEN,,workday,wd1/lennar/Lennar_Jobs,2026-11-02,275,0,0
+LEN,,workday,wd1/lennar/Lennar_Jobs,2026-11-03,263,0,0
 LH,,workday,wd1/labcorp/External,2026-09-15,1814,0,0
 LH,,workday,wd1/labcorp/External,2026-09-16,1856,0,0
 LH,,workday,wd1/labcorp/External,2026-09-17,1839,0,0
@@ -7591,6 +7801,7 @@ LH,,workday,wd1/labcorp/External,2026-10-30,1804,0,0
 LH,,workday,wd1/labcorp/External,2026-10-31,1768,0,0
 LH,,workday,wd1/labcorp/External,2026-11-01,1758,0,0
 LH,,workday,wd1/labcorp/External,2026-11-02,1755,0,0
+LH,,workday,wd1/labcorp/External,2026-11-03,1759,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-10-02,256,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-10-03,257,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-10-04,257,0,0
@@ -7622,6 +7833,7 @@ LITE,,workday,wd5/lumentum/LITE,2026-10-30,276,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-10-31,276,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-11-01,276,0,0
 LITE,,workday,wd5/lumentum/LITE,2026-11-02,282,0,0
+LITE,,workday,wd5/lumentum/LITE,2026-11-03,285,0,0
 LLY,,workday,wd115/lilly/LLY,2026-09-15,659,0,0
 LLY,,workday,wd115/lilly/LLY,2026-09-16,678,0,0
 LLY,,workday,wd115/lilly/LLY,2026-09-17,675,0,0
@@ -7669,6 +7881,7 @@ LLY,,workday,wd115/lilly/LLY,2026-10-30,740,0,0
 LLY,,workday,wd115/lilly/LLY,2026-10-31,732,0,0
 LLY,,workday,wd115/lilly/LLY,2026-11-01,730,0,0
 LLY,,workday,wd115/lilly/LLY,2026-11-02,687,0,0
+LLY,,workday,wd115/lilly/LLY,2026-11-03,610,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-09-15,41,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-09-16,41,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-09-17,45,0,0
@@ -7716,6 +7929,7 @@ LNT,,workday,wd1/alliantenergy/alliant,2026-10-30,34,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-10-31,33,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-11-01,33,0,0
 LNT,,workday,wd1/alliantenergy/alliant,2026-11-02,33,0,0
+LNT,,workday,wd1/alliantenergy/alliant,2026-11-03,34,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-09-15,10019,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-09-16,10014,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-09-17,10014,0,0
@@ -7763,6 +7977,7 @@ LOW,,workday,wd5/lowes/lws_external_cs,2026-10-30,12655,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-10-31,12598,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-11-01,12535,0,0
 LOW,,workday,wd5/lowes/lws_external_cs,2026-11-02,12535,0,0
+LOW,,workday,wd5/lowes/lws_external_cs,2026-11-03,12960,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-10-04,52,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-10-05,49,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-10-06,57,0,0
@@ -7792,6 +8007,7 @@ LUV,,phenom,careers.southwestair.com/us/en,2026-10-30,29,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-10-31,18,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-11-01,16,0,0
 LUV,,phenom,careers.southwestair.com/us/en,2026-11-02,15,0,0
+LUV,,phenom,careers.southwestair.com/us/en,2026-11-03,20,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-09-15,349,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-09-16,351,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-09-17,352,0,0
@@ -7839,6 +8055,7 @@ LVS,subsidiary,workday,wd102/marinabaysands/External,2026-10-30,352,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-10-31,352,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-11-01,352,0,0
 LVS,subsidiary,workday,wd102/marinabaysands/External,2026-11-02,351,0,0
+LVS,subsidiary,workday,wd102/marinabaysands/External,2026-11-03,352,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-10-02,1425,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-10-03,1424,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-10-04,1423,0,0
@@ -7870,6 +8087,7 @@ LYV,,workday,wd503/livenation/LNExternalSite,2026-10-30,1273,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-10-31,1269,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-11-01,1254,0,0
 LYV,,workday,wd503/livenation/LNExternalSite,2026-11-02,1253,0,0
+LYV,,workday,wd503/livenation/LNExternalSite,2026-11-03,1257,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-09-15,1065,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-09-16,1072,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-09-17,1063,0,0
@@ -7917,6 +8135,7 @@ MA,,workday,wd1/mastercard/CorporateCareers,2026-10-30,1085,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-10-31,1020,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-11-01,1013,0,0
 MA,,workday,wd1/mastercard/CorporateCareers,2026-11-02,1010,0,0
+MA,,workday,wd1/mastercard/CorporateCareers,2026-11-03,1006,0,0
 MAS,,workday,wd1/masco/Masco,2026-10-02,176,0,0
 MAS,,workday,wd1/masco/Masco,2026-10-03,178,0,0
 MAS,,workday,wd1/masco/Masco,2026-10-04,178,0,0
@@ -7948,6 +8167,7 @@ MAS,,workday,wd1/masco/Masco,2026-10-30,147,0,0
 MAS,,workday,wd1/masco/Masco,2026-10-31,146,0,0
 MAS,,workday,wd1/masco/Masco,2026-11-01,145,0,0
 MAS,,workday,wd1/masco/Masco,2026-11-02,145,0,0
+MAS,,workday,wd1/masco/Masco,2026-11-03,148,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-10-04,207,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-10-05,207,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-10-06,205,0,0
@@ -7977,6 +8197,7 @@ MCD,,successfactors,jobs.mcdonalds.com,2026-10-30,204,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-10-31,200,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-11-01,199,0,0
 MCD,,successfactors,jobs.mcdonalds.com,2026-11-02,198,0,0
+MCD,,successfactors,jobs.mcdonalds.com,2026-11-03,197,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-10-09,495,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-10-10,496,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-10-11,495,0,0
@@ -8002,6 +8223,7 @@ MCHP,,workday,wd5/microchiphr/external,2026-10-30,522,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-10-31,515,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-11-01,515,0,0
 MCHP,,workday,wd5/microchiphr/external,2026-11-02,511,0,0
+MCHP,,workday,wd5/microchiphr/external,2026-11-03,519,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-09-15,484,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-09-16,489,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-09-17,503,0,0
@@ -8049,6 +8271,7 @@ MCK,,workday,wd3/mckesson/External_Careers,2026-10-30,707,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-10-31,692,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-11-01,691,0,0
 MCK,,workday,wd3/mckesson/External_Careers,2026-11-02,687,0,0
+MCK,,workday,wd3/mckesson/External_Careers,2026-11-03,672,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-10-02,1267,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-10-03,1246,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-10-04,1238,0,0
@@ -8080,6 +8303,7 @@ MDLZ,,workday,wd3/mdlz/External,2026-10-30,1374,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-10-31,1345,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-11-01,1346,0,0
 MDLZ,,workday,wd3/mdlz/External,2026-11-02,1340,0,0
+MDLZ,,workday,wd3/mdlz/External,2026-11-03,1379,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-09-15,1090,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-09-16,1138,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-09-17,1150,0,0
@@ -8127,6 +8351,7 @@ MDT,,workday,wd1/medtronic/MedtronicCareers,2026-10-30,1011,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-10-31,1025,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-11-01,1009,0,0
 MDT,,workday,wd1/medtronic/MedtronicCareers,2026-11-02,956,0,0
+MDT,,workday,wd1/medtronic/MedtronicCareers,2026-11-03,999,0,0
 MET,subsidiary,lever,metlife,2026-08-29,39,0,0
 MET,subsidiary,lever,metlife,2026-08-30,39,0,0
 MET,subsidiary,lever,metlife,2026-08-31,39,0,0
@@ -8189,6 +8414,7 @@ MET,subsidiary,lever,metlife,2026-10-30,39,0,0
 MET,subsidiary,lever,metlife,2026-10-31,39,0,0
 MET,subsidiary,lever,metlife,2026-11-01,39,0,0
 MET,subsidiary,lever,metlife,2026-11-02,39,0,0
+MET,subsidiary,lever,metlife,2026-11-03,39,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-10-02,442,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-10-03,440,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-10-04,442,0,0
@@ -8220,6 +8446,7 @@ MGM,,workday,wd5/mgmresorts/MGMCareers,2026-10-30,471,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-10-31,473,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-11-01,470,0,0
 MGM,,workday,wd5/mgmresorts/MGMCareers,2026-11-02,460,0,0
+MGM,,workday,wd5/mgmresorts/MGMCareers,2026-11-03,470,0,0
 MMM,,workday,wd1/3m/Search,2026-09-15,689,0,0
 MMM,,workday,wd1/3m/Search,2026-09-16,681,0,0
 MMM,,workday,wd1/3m/Search,2026-09-17,687,0,0
@@ -8267,6 +8494,7 @@ MMM,,workday,wd1/3m/Search,2026-10-30,751,0,0
 MMM,,workday,wd1/3m/Search,2026-10-31,755,0,0
 MMM,,workday,wd1/3m/Search,2026-11-01,753,0,0
 MMM,,workday,wd1/3m/Search,2026-11-02,755,0,0
+MMM,,workday,wd1/3m/Search,2026-11-03,753,0,0
 MNST,,greenhouse,monsterenergy,2026-09-15,136,0,0
 MNST,,greenhouse,monsterenergy,2026-09-16,138,0,0
 MNST,,greenhouse,monsterenergy,2026-09-17,138,0,0
@@ -8314,6 +8542,7 @@ MNST,,greenhouse,monsterenergy,2026-10-30,169,0,0
 MNST,,greenhouse,monsterenergy,2026-10-31,166,0,0
 MNST,,greenhouse,monsterenergy,2026-11-01,166,0,0
 MNST,,greenhouse,monsterenergy,2026-11-02,166,0,0
+MNST,,greenhouse,monsterenergy,2026-11-03,163,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-09-15,119,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-09-16,121,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-09-17,121,0,0
@@ -8361,6 +8590,7 @@ MOS,,workday,wd5/mosaic/mosaic,2026-10-30,96,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-10-31,95,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-11-01,95,0,0
 MOS,,workday,wd5/mosaic/mosaic,2026-11-02,94,0,0
+MOS,,workday,wd5/mosaic/mosaic,2026-11-03,92,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-09-15,126,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-09-16,132,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-09-17,130,0,0
@@ -8408,6 +8638,7 @@ MPC,,workday,wd1/mpc/MPCCareers,2026-10-30,116,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-10-31,123,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-11-01,121,0,0
 MPC,,workday,wd1/mpc/MPCCareers,2026-11-02,110,0,0
+MPC,,workday,wd1/mpc/MPCCareers,2026-11-03,119,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-09-15,247,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-09-16,249,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-09-17,250,0,0
@@ -8455,6 +8686,7 @@ MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-10-30,234,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-10-31,231,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-11-01,231,0,0
 MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-11-02,233,0,0
+MPWR,,workday,wd12/monolithicpower/MPS_Careers,2026-11-03,233,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-09-15,1177,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-09-16,1114,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-09-17,1107,0,0
@@ -8502,6 +8734,7 @@ MRK,,workday,wd5/msd/SearchJobs,2026-10-30,896,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-10-31,835,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-11-01,807,0,0
 MRK,,workday,wd5/msd/SearchJobs,2026-11-02,811,0,0
+MRK,,workday,wd5/msd/SearchJobs,2026-11-03,873,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-09-15,189,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-09-16,183,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-09-17,193,0,0
@@ -8549,6 +8782,7 @@ MRNA,,workday,wd1/modernatx/M_tx,2026-10-30,264,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-10-31,263,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-11-01,263,0,0
 MRNA,,workday,wd1/modernatx/M_tx,2026-11-02,264,0,0
+MRNA,,workday,wd1/modernatx/M_tx,2026-11-03,264,0,0
 MRSH,,workday,wd1/mmc/mmc,2026-09-15,1973,0,0
 MRSH,,workday,wd1/mmc/mmc,2026-09-16,1980,0,0
 MRSH,,workday,wd1/mmc/mmc,2026-09-17,1981,0,0
@@ -8596,6 +8830,7 @@ MRSH,,workday,wd1/mmc/mmc,2026-10-30,2000,0,1
 MRSH,,workday,wd1/mmc/mmc,2026-10-31,2001,0,0
 MRSH,,workday,wd1/mmc/mmc,2026-11-01,2003,0,0
 MRSH,,workday,wd1/mmc/mmc,2026-11-02,2009,0,0
+MRSH,,workday,wd1/mmc/mmc,2026-11-03,,1,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-09-15,179,0,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-09-16,194,0,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-09-17,196,0,0
@@ -8643,6 +8878,7 @@ MRVL,,workday,wd1/marvell/MarvellCareers,2026-10-30,345,0,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-10-31,344,0,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-11-01,344,0,0
 MRVL,,workday,wd1/marvell/MarvellCareers,2026-11-02,348,0,0
+MRVL,,workday,wd1/marvell/MarvellCareers,2026-11-03,350,0,0
 MS,,workday,wd5/ms/External,2026-09-15,1291,0,0
 MS,,workday,wd5/ms/External,2026-09-16,1334,0,0
 MS,,workday,wd5/ms/External,2026-09-17,1332,0,0
@@ -8690,6 +8926,7 @@ MS,,workday,wd5/ms/External,2026-10-30,1243,0,0
 MS,,workday,wd5/ms/External,2026-10-31,1236,0,0
 MS,,workday,wd5/ms/External,2026-11-01,1235,0,0
 MS,,workday,wd5/ms/External,2026-11-02,1226,0,0
+MS,,workday,wd5/ms/External,2026-11-03,1222,0,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-09-15,49,0,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-09-16,46,0,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-09-17,45,0,0
@@ -8737,6 +8974,7 @@ MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-10-30,47,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-10-31,46,0,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-11-01,45,0,0
 MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-11-02,45,0,0
+MSFT,subsidiary,workday,wd1/xboxgaming/Blizzard_External_Careers,2026-11-03,45,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-09-15,868,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-09-16,860,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-09-17,867,0,0
@@ -8784,6 +9022,7 @@ MSI,,workday,wd5/motorolasolutions/Careers,2026-10-30,879,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-10-31,874,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-11-01,873,0,0
 MSI,,workday,wd5/motorolasolutions/Careers,2026-11-02,869,0,0
+MSI,,workday,wd5/motorolasolutions/Careers,2026-11-03,840,0,0
 MTB,,workday,wd5/mtb/MTB,2026-09-15,879,0,0
 MTB,,workday,wd5/mtb/MTB,2026-09-16,876,0,0
 MTB,,workday,wd5/mtb/MTB,2026-09-17,863,0,0
@@ -8831,6 +9070,7 @@ MTB,,workday,wd5/mtb/MTB,2026-10-30,754,0,0
 MTB,,workday,wd5/mtb/MTB,2026-10-31,750,0,0
 MTB,,workday,wd5/mtb/MTB,2026-11-01,749,0,0
 MTB,,workday,wd5/mtb/MTB,2026-11-02,744,0,0
+MTB,,workday,wd5/mtb/MTB,2026-11-03,745,0,0
 MU,,workday,wd1/micron/External,2026-09-15,2998,0,0
 MU,,workday,wd1/micron/External,2026-09-16,3032,0,0
 MU,,workday,wd1/micron/External,2026-09-17,3042,0,0
@@ -8878,6 +9118,7 @@ MU,,workday,wd1/micron/External,2026-10-30,2949,0,0
 MU,,workday,wd1/micron/External,2026-10-31,2903,0,0
 MU,,workday,wd1/micron/External,2026-11-01,2905,0,0
 MU,,workday,wd1/micron/External,2026-11-02,2909,0,0
+MU,,workday,wd1/micron/External,2026-11-03,2889,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-10-09,95,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-10-10,95,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-10-11,95,0,0
@@ -8903,6 +9144,7 @@ NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-10-30,96,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-10-31,97,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-11-01,97,0,0
 NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-11-02,96,0,0
+NCLH,,workday,wd108/nclh/NCL_Shoreside_Careers,2026-11-03,99,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-10-09,17,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-10-10,18,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-10-11,17,0,0
@@ -8928,6 +9170,7 @@ NCLH,,workday,wd108/nclh/nclh_careers,2026-10-30,13,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-10-31,14,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-11-01,14,0,0
 NCLH,,workday,wd108/nclh/nclh_careers,2026-11-02,14,0,0
+NCLH,,workday,wd108/nclh/nclh_careers,2026-11-03,14,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-09-15,173,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-09-16,180,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-09-17,186,0,0
@@ -8975,6 +9218,7 @@ NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-10-30,163,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-10-31,160,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-11-01,160,0,0
 NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-11-02,158,0,0
+NDAQ,,workday,wd1/nasdaq/Global_External_Site,2026-11-03,154,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-10-02,256,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-10-03,250,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-10-04,250,0,0
@@ -9006,6 +9250,7 @@ NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-10-30,220,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-10-31,219,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-11-01,219,0,0
 NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-11-02,216,0,0
+NDSN,,workday,wd501/nordsonhcm/nordsoncareers,2026-11-03,218,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-10-04,96,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-10-05,90,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-10-06,81,0,0
@@ -9035,6 +9280,7 @@ NEM,,phenom,jobs.newmont.com/us/en,2026-10-30,113,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-10-31,105,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-11-01,103,0,0
 NEM,,phenom,jobs.newmont.com/us/en,2026-11-02,105,0,0
+NEM,,phenom,jobs.newmont.com/us/en,2026-11-03,109,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-10-03,471,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-10-04,471,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-10-05,470,0,0
@@ -9065,6 +9311,7 @@ NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-10-30,404,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-10-31,403,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-11-01,403,0,0
 NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-11-02,399,0,0
+NFLX,,eightfold,netflix.eightfold.ai/netflix.com/v2,2026-11-03,399,0,0
 NI,,workday,wd1/nisource/NiSource,2026-10-02,77,0,0
 NI,,workday,wd1/nisource/NiSource,2026-10-03,47,0,0
 NI,,workday,wd1/nisource/NiSource,2026-10-04,47,0,0
@@ -9096,6 +9343,7 @@ NI,,workday,wd1/nisource/NiSource,2026-10-30,41,0,0
 NI,,workday,wd1/nisource/NiSource,2026-10-31,40,0,0
 NI,,workday,wd1/nisource/NiSource,2026-11-01,40,0,0
 NI,,workday,wd1/nisource/NiSource,2026-11-02,37,0,0
+NI,,workday,wd1/nisource/NiSource,2026-11-03,29,0,0
 NKE,,workday,wd1/nike/nke,2026-10-02,811,0,0
 NKE,,workday,wd1/nike/nke,2026-10-03,817,0,0
 NKE,,workday,wd1/nike/nke,2026-10-04,811,0,0
@@ -9127,6 +9375,7 @@ NKE,,workday,wd1/nike/nke,2026-10-30,759,0,0
 NKE,,workday,wd1/nike/nke,2026-10-31,755,0,0
 NKE,,workday,wd1/nike/nke,2026-11-01,746,0,0
 NKE,,workday,wd1/nike/nke,2026-11-02,732,0,0
+NKE,,workday,wd1/nike/nke,2026-11-03,729,0,0
 NKE,,workday,wd1/nike/nke2,2026-10-02,419,0,0
 NKE,,workday,wd1/nike/nke2,2026-10-03,420,0,0
 NKE,,workday,wd1/nike/nke2,2026-10-04,421,0,0
@@ -9158,6 +9407,7 @@ NKE,,workday,wd1/nike/nke2,2026-10-30,502,0,0
 NKE,,workday,wd1/nike/nke2,2026-10-31,495,0,0
 NKE,,workday,wd1/nike/nke2,2026-11-01,495,0,0
 NKE,,workday,wd1/nike/nke2,2026-11-02,494,0,0
+NKE,,workday,wd1/nike/nke2,2026-11-03,500,0,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-09-15,,1,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-09-16,3820,0,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-09-17,3835,0,0
@@ -9205,11 +9455,13 @@ NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-10-30,3778,0,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-10-31,3781,0,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-11-01,3769,0,0
 NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-11-02,3754,0,0
+NOC,,workday,wd1/ngc/Northrop_Grumman_External_Site,2026-11-03,3725,0,0
 NRG,,successfactors,careers.nrgenergy.com,2026-10-29,248,0,0
 NRG,,successfactors,careers.nrgenergy.com,2026-10-30,245,0,0
 NRG,,successfactors,careers.nrgenergy.com,2026-10-31,244,0,0
 NRG,,successfactors,careers.nrgenergy.com,2026-11-01,243,0,0
 NRG,,successfactors,careers.nrgenergy.com,2026-11-02,243,0,0
+NRG,,successfactors,careers.nrgenergy.com,2026-11-03,241,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-10-03,291,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-10-04,292,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-10-05,292,0,0
@@ -9240,6 +9492,7 @@ NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-10-30,294,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-10-31,293,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-11-01,293,0,0
 NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-11-02,296,0,0
+NTAP,,eightfold,netapp.eightfold.ai/netapp.com/v2,2026-11-03,300,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-10-02,588,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-10-03,574,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-10-04,575,0,0
@@ -9271,6 +9524,7 @@ NTRS,,workday,wd1/ntrs/northerntrust,2026-10-30,655,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-10-31,618,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-11-01,618,0,0
 NTRS,,workday,wd1/ntrs/northerntrust,2026-11-02,629,0,0
+NTRS,,workday,wd1/ntrs/northerntrust,2026-11-03,639,0,0
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-09-15,2000,0,1
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-09-16,2000,0,1
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-09-17,2000,0,1
@@ -9318,6 +9572,7 @@ NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-10-30,2730,0,0
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-10-31,2684,0,0
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-11-01,2680,0,0
 NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-11-02,2692,0,0
+NVDA,,workday,wd5/nvidia/NVIDIAExternalCareerSite,2026-11-03,2756,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-09-15,47,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-09-16,46,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-09-17,46,0,0
@@ -9365,6 +9620,7 @@ NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-10-30,43,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-10-31,44,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-11-01,44,0,0
 NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-11-02,44,0,0
+NWSA,subsidiary,workday,wd1/dowjones/New_York_Post_Careers,2026-11-03,44,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-10-09,25,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-10-10,25,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-10-11,25,0,0
@@ -9390,6 +9646,7 @@ NWSA,,workday,wd1/dowjones/news_corp_careers,2026-10-30,23,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-10-31,22,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-11-01,22,0,0
 NWSA,,workday,wd1/dowjones/news_corp_careers,2026-11-02,21,0,0
+NWSA,,workday,wd1/dowjones/news_corp_careers,2026-11-03,21,0,0
 NXPI,,workday,wd3/nxp/careers,2026-09-15,762,0,0
 NXPI,,workday,wd3/nxp/careers,2026-09-16,759,0,0
 NXPI,,workday,wd3/nxp/careers,2026-09-17,792,0,0
@@ -9437,6 +9694,7 @@ NXPI,,workday,wd3/nxp/careers,2026-10-30,823,0,0
 NXPI,,workday,wd3/nxp/careers,2026-10-31,817,0,0
 NXPI,,workday,wd3/nxp/careers,2026-11-01,817,0,0
 NXPI,,workday,wd3/nxp/careers,2026-11-02,820,0,0
+NXPI,,workday,wd3/nxp/careers,2026-11-03,819,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-10-02,11,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-10-03,11,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-10-04,11,0,0
@@ -9468,6 +9726,7 @@ O,,workday,wd108/realtyincome/realty_income_careers,2026-10-30,15,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-10-31,15,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-11-01,15,0,0
 O,,workday,wd108/realtyincome/realty_income_careers,2026-11-02,15,0,0
+O,,workday,wd108/realtyincome/realty_income_careers,2026-11-03,13,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-10-02,222,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-10-03,212,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-10-04,210,0,0
@@ -9499,6 +9758,7 @@ ODFL,,workday,wd1/odfl/ODFL_Careers,2026-10-30,209,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-10-31,204,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-11-01,203,0,0
 ODFL,,workday,wd1/odfl/ODFL_Careers,2026-11-02,202,0,0
+ODFL,,workday,wd1/odfl/ODFL_Careers,2026-11-03,206,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-10-02,79,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-10-03,81,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-10-04,81,0,0
@@ -9530,6 +9790,7 @@ OKE,,workday,wd1/oneok/ONEOK,2026-10-30,88,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-10-31,92,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-11-01,92,0,0
 OKE,,workday,wd1/oneok/ONEOK,2026-11-02,91,0,0
+OKE,,workday,wd1/oneok/ONEOK,2026-11-03,100,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-09-15,213,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-09-16,214,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-09-17,217,0,0
@@ -9577,6 +9838,7 @@ OMC,subsidiary,greenhouse,mediabrands,2026-10-30,216,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-10-31,216,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-11-01,216,0,0
 OMC,subsidiary,greenhouse,mediabrands,2026-11-02,215,0,0
+OMC,subsidiary,greenhouse,mediabrands,2026-11-03,214,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-10-04,18868,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-10-05,18862,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-10-06,18891,0,0
@@ -9606,6 +9868,7 @@ ORLY,,phenom,careers.oreillyauto.com/us/en,2026-10-30,19107,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-10-31,19115,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-11-01,19068,0,0
 ORLY,,phenom,careers.oreillyauto.com/us/en,2026-11-02,19068,0,0
+ORLY,,phenom,careers.oreillyauto.com/us/en,2026-11-03,19143,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-10-02,1398,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-10-03,1392,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-10-04,1389,0,0
@@ -9637,6 +9900,7 @@ OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-10-30,1368,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-10-31,1354,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-11-01,1352,0,0
 OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-11-02,1361,0,0
+OTIS,,workday,wd504/otis/REC_Ext_Gateway,2026-11-03,1386,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-10-02,46,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-10-03,46,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-10-04,46,0,0
@@ -9668,6 +9932,7 @@ OXY,,workday,wd5/oxy/Corporate,2026-10-30,48,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-10-31,48,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-11-01,48,0,0
 OXY,,workday,wd5/oxy/Corporate,2026-11-02,48,0,0
+OXY,,workday,wd5/oxy/Corporate,2026-11-03,50,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-10-02,26,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-10-03,26,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-10-04,26,0,0
@@ -9699,6 +9964,7 @@ OXY,,workday,wd5/oxy/UniversityRelations,2026-10-30,20,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-10-31,20,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-11-01,20,0,0
 OXY,,workday,wd5/oxy/UniversityRelations,2026-11-02,20,0,0
+OXY,,workday,wd5/oxy/UniversityRelations,2026-11-03,20,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-09-15,1514,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-09-16,1513,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-09-17,1517,0,0
@@ -9746,6 +10012,7 @@ PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-10-30,1405,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-10-31,1398,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-11-01,1399,0,0
 PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-11-02,1396,0,0
+PANW,,workday,wd5/paloaltonetworks/panwexternalcareers,2026-11-03,1377,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-10-04,188,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-10-05,191,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-10-06,201,0,0
@@ -9775,6 +10042,7 @@ PCAR,,successfactors,jobs.paccar.com,2026-10-30,252,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-10-31,249,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-11-01,239,0,0
 PCAR,,successfactors,jobs.paccar.com,2026-11-02,239,0,0
+PCAR,,successfactors,jobs.paccar.com,2026-11-03,286,0,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-09-15,,1,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-09-16,548,0,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-09-17,542,0,0
@@ -9822,6 +10090,7 @@ PFE,,workday,wd1/pfizer/PfizerCareers,2026-10-30,589,0,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-10-31,560,0,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-11-01,547,0,0
 PFE,,workday,wd1/pfizer/PfizerCareers,2026-11-02,542,0,0
+PFE,,workday,wd1/pfizer/PfizerCareers,2026-11-03,569,0,0
 PG,,workday,wd5/pg/1000,2026-09-15,792,0,0
 PG,,workday,wd5/pg/1000,2026-09-16,791,0,0
 PG,,workday,wd5/pg/1000,2026-09-17,789,0,0
@@ -9869,6 +10138,7 @@ PG,,workday,wd5/pg/1000,2026-10-30,843,0,0
 PG,,workday,wd5/pg/1000,2026-10-31,836,0,0
 PG,,workday,wd5/pg/1000,2026-11-01,834,0,0
 PG,,workday,wd5/pg/1000,2026-11-02,842,0,0
+PG,,workday,wd5/pg/1000,2026-11-03,847,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-10-02,151,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-10-03,143,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-10-04,142,0,0
@@ -9900,6 +10170,7 @@ PHM,,workday,wd1/pultegroup/PGI,2026-10-30,116,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-10-31,117,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-11-01,116,0,0
 PHM,,workday,wd1/pultegroup/PGI,2026-11-02,116,0,0
+PHM,,workday,wd1/pultegroup/PGI,2026-11-03,118,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-10-02,67,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-10-03,67,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-10-04,67,0,0
@@ -9931,6 +10202,7 @@ PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-10-30,103,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-10-31,108,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-11-01,109,0,0
 PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-11-02,109,0,0
+PLD,,workday,wd5/prologis/Prologis_External_Careers,2026-11-03,113,0,0
 PLTR,,lever,palantir,2026-08-29,307,0,0
 PLTR,,lever,palantir,2026-08-30,307,0,0
 PLTR,,lever,palantir,2026-08-31,308,0,0
@@ -9993,9 +10265,11 @@ PLTR,,lever,palantir,2026-10-30,302,0,0
 PLTR,,lever,palantir,2026-10-31,299,0,0
 PLTR,,lever,palantir,2026-11-01,301,0,0
 PLTR,,lever,palantir,2026-11-02,301,0,0
+PLTR,,lever,palantir,2026-11-03,304,0,0
 PM,,phenom,join.pmicareers.com/gb/en,2026-10-31,689,0,0
 PM,,phenom,join.pmicareers.com/gb/en,2026-11-01,675,0,0
 PM,,phenom,join.pmicareers.com/gb/en,2026-11-02,669,0,0
+PM,,phenom,join.pmicareers.com/gb/en,2026-11-03,659,0,0
 PNC,,workday,wd5/pnc/External,2026-09-15,2000,0,1
 PNC,,workday,wd5/pnc/External,2026-09-16,2000,0,1
 PNC,,workday,wd5/pnc/External,2026-09-17,2000,0,1
@@ -10043,6 +10317,7 @@ PNC,,workday,wd5/pnc/External,2026-10-30,2095,0,0
 PNC,,workday,wd5/pnc/External,2026-10-31,2069,0,0
 PNC,,workday,wd5/pnc/External,2026-11-01,2067,0,0
 PNC,,workday,wd5/pnc/External,2026-11-02,2076,0,0
+PNC,,workday,wd5/pnc/External,2026-11-03,2125,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-10-02,123,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-10-03,124,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-10-04,124,0,0
@@ -10074,6 +10349,7 @@ PNR,,workday,wd5/pentair/Pentair_Careers,2026-10-30,134,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-10-31,133,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-11-01,133,0,0
 PNR,,workday,wd5/pentair/Pentair_Careers,2026-11-02,132,0,0
+PNR,,workday,wd5/pentair/Pentair_Careers,2026-11-03,136,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-10-09,209,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-10-10,209,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-10-11,209,0,0
@@ -10099,6 +10375,7 @@ PODD,,workday,wd5/insulet/insuletcareers,2026-10-30,181,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-10-31,167,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-11-01,167,0,0
 PODD,,workday,wd5/insulet/insuletcareers,2026-11-02,164,0,0
+PODD,,workday,wd5/insulet/insuletcareers,2026-11-03,166,0,0
 PRU,,workday,wd5/pru/Careers,2026-09-15,179,0,0
 PRU,,workday,wd5/pru/Careers,2026-09-16,184,0,0
 PRU,,workday,wd5/pru/Careers,2026-09-17,180,0,0
@@ -10146,6 +10423,7 @@ PRU,,workday,wd5/pru/Careers,2026-10-30,182,0,0
 PRU,,workday,wd5/pru/Careers,2026-10-31,182,0,0
 PRU,,workday,wd5/pru/Careers,2026-11-01,181,0,0
 PRU,,workday,wd5/pru/Careers,2026-11-02,180,0,0
+PRU,,workday,wd5/pru/Careers,2026-11-03,185,0,0
 PTC,,workday,wd1/ptc/PTC,2026-09-15,174,0,0
 PTC,,workday,wd1/ptc/PTC,2026-09-16,173,0,0
 PTC,,workday,wd1/ptc/PTC,2026-09-17,179,0,0
@@ -10193,11 +10471,13 @@ PTC,,workday,wd1/ptc/PTC,2026-10-30,178,0,0
 PTC,,workday,wd1/ptc/PTC,2026-10-31,179,0,0
 PTC,,workday,wd1/ptc/PTC,2026-11-01,179,0,0
 PTC,,workday,wd1/ptc/PTC,2026-11-02,178,0,0
+PTC,,workday,wd1/ptc/PTC,2026-11-03,178,0,0
 PWR,,icims,careers-quanta.icims.com,2026-10-29,523,0,0
 PWR,,icims,careers-quanta.icims.com,2026-10-30,522,0,0
 PWR,,icims,careers-quanta.icims.com,2026-10-31,524,0,0
 PWR,,icims,careers-quanta.icims.com,2026-11-01,524,0,0
 PWR,,icims,careers-quanta.icims.com,2026-11-02,524,0,0
+PWR,,icims,careers-quanta.icims.com,2026-11-03,523,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-10-03,288,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-10-04,288,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-10-05,285,0,0
@@ -10228,6 +10508,7 @@ PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-10-30,314,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-10-31,316,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-11-01,317,0,0
 PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-11-02,316,0,0
+PYPL,,eightfold,paypal.eightfold.ai/paypal.com/pcsx,2026-11-03,306,0,0
 Q,,workday,wd503/qnity/Jobs,2026-10-02,427,0,0
 Q,,workday,wd503/qnity/Jobs,2026-10-03,425,0,0
 Q,,workday,wd503/qnity/Jobs,2026-10-04,425,0,0
@@ -10259,6 +10540,7 @@ Q,,workday,wd503/qnity/Jobs,2026-10-30,422,0,0
 Q,,workday,wd503/qnity/Jobs,2026-10-31,418,0,0
 Q,,workday,wd503/qnity/Jobs,2026-11-01,420,0,0
 Q,,workday,wd503/qnity/Jobs,2026-11-02,422,0,0
+Q,,workday,wd503/qnity/Jobs,2026-11-03,429,0,0
 RDDT,,greenhouse,reddit,2026-08-29,150,0,0
 RDDT,,greenhouse,reddit,2026-08-30,150,0,0
 RDDT,,greenhouse,reddit,2026-08-31,150,0,0
@@ -10321,6 +10603,7 @@ RDDT,,greenhouse,reddit,2026-10-30,163,0,0
 RDDT,,greenhouse,reddit,2026-10-31,163,0,0
 RDDT,,greenhouse,reddit,2026-11-01,163,0,0
 RDDT,,greenhouse,reddit,2026-11-02,163,0,0
+RDDT,,greenhouse,reddit,2026-11-03,162,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-09-15,551,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-09-16,541,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-09-17,534,0,0
@@ -10368,6 +10651,7 @@ REGN,,workday,wd1/regeneron/Careers,2026-10-30,639,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-10-31,651,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-11-01,645,0,0
 REGN,,workday,wd1/regeneron/Careers,2026-11-02,645,0,0
+REGN,,workday,wd1/regeneron/Careers,2026-11-03,650,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-10-02,475,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-10-03,468,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-10-04,468,0,0
@@ -10399,6 +10683,7 @@ RF,,workday,wd5/regions/Regions_Careers,2026-10-30,496,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-10-31,499,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-11-01,500,0,0
 RF,,workday,wd5/regions/Regions_Careers,2026-11-02,501,0,0
+RF,,workday,wd5/regions/Regions_Careers,2026-11-03,490,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-09-15,321,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-09-16,324,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-09-17,331,0,0
@@ -10446,6 +10731,7 @@ RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-10-30,293,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-10-31,290,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-11-01,290,0,0
 RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-11-02,288,0,0
+RJF,,workday,wd1/raymondjames/RaymondJamesCareers,2026-11-03,292,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-09-15,231,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-09-16,231,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-09-17,229,0,0
@@ -10493,6 +10779,7 @@ RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-10-30,263,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-10-31,261,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-11-01,261,0,0
 RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-11-02,264,0,0
+RMD,,workday,wd3/resmed/ResMed_External_Careers,2026-11-03,270,0,0
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-09-15,398,0,0
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-09-16,395,0,0
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-09-17,406,0,0
@@ -10540,9 +10827,11 @@ ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-10-30,448,
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-10-31,427,0,0
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-11-01,428,0,0
 ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-11-02,435,0,0
+ROK,,workday,wd1/rockwellautomation/External_Rockwell_Automation,2026-11-03,,1,0
 ROST,,activate,jobs.rossstores.com,2026-10-31,7203,0,0
 ROST,,activate,jobs.rossstores.com,2026-11-01,7205,0,0
 ROST,,activate,jobs.rossstores.com,2026-11-02,7198,0,0
+ROST,,activate,jobs.rossstores.com,2026-11-03,7210,0,0
 RSG,,workday,wd5/republic/Republic,2026-09-15,1736,0,0
 RSG,,workday,wd5/republic/Republic,2026-09-16,1733,0,0
 RSG,,workday,wd5/republic/Republic,2026-09-17,1746,0,0
@@ -10590,6 +10879,7 @@ RSG,,workday,wd5/republic/Republic,2026-10-30,1649,0,0
 RSG,,workday,wd5/republic/Republic,2026-10-31,1656,0,0
 RSG,,workday,wd5/republic/Republic,2026-11-01,1655,0,0
 RSG,,workday,wd5/republic/Republic,2026-11-02,1654,0,0
+RSG,,workday,wd5/republic/Republic,2026-11-03,1644,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-09-15,4745,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-09-16,4775,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-09-17,4837,0,0
@@ -10637,6 +10927,7 @@ RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-10-30,4819,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-10-31,4710,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-11-01,4705,0,0
 RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-11-02,4692,0,0
+RTX,,workday,wd5/globalhr/REC_RTX_Ext_Gateway,2026-11-03,4685,0,0
 RVTY,,workday,wd103/revvity/External,2026-10-02,120,0,0
 RVTY,,workday,wd103/revvity/External,2026-10-03,126,0,0
 RVTY,,workday,wd103/revvity/External,2026-10-04,125,0,0
@@ -10668,23 +10959,29 @@ RVTY,,workday,wd103/revvity/External,2026-10-30,144,0,0
 RVTY,,workday,wd103/revvity/External,2026-10-31,149,0,0
 RVTY,,workday,wd103/revvity/External,2026-11-01,149,0,0
 RVTY,,workday,wd103/revvity/External,2026-11-02,150,0,0
+RVTY,,workday,wd103/revvity/External,2026-11-03,150,0,0
 SBAC,,workday,wd5/sbasite/SBA_Communications_Careers,2026-10-31,53,0,0
 SBAC,,workday,wd5/sbasite/SBA_Communications_Careers,2026-11-01,53,0,0
 SBAC,,workday,wd5/sbasite/SBA_Communications_Careers,2026-11-02,53,0,0
+SBAC,,workday,wd5/sbasite/SBA_Communications_Careers,2026-11-03,52,0,0
 SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-10-29,2277,0,0
 SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-10-30,2276,0,0
 SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-10-31,2264,0,0
 SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-11-01,2255,0,0
 SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-11-02,2200,0,0
+SHW,,oracle,ejhp.fa.us6.oraclecloud.com/CX_2,2026-11-03,2319,0,0
 SJM,,workday,wd5/smucker/Canada_External_Careers,2026-10-31,1,0,0
 SJM,,workday,wd5/smucker/Canada_External_Careers,2026-11-01,1,0,0
 SJM,,workday,wd5/smucker/Canada_External_Careers,2026-11-02,1,0,0
+SJM,,workday,wd5/smucker/Canada_External_Careers,2026-11-03,1,0,0
 SJM,,workday,wd5/smucker/US_External_Careers,2026-10-31,127,0,0
 SJM,,workday,wd5/smucker/US_External_Careers,2026-11-01,127,0,0
 SJM,,workday,wd5/smucker/US_External_Careers,2026-11-02,127,0,0
+SJM,,workday,wd5/smucker/US_External_Careers,2026-11-03,121,0,0
 SLB,subsidiary,workday,wd1/championx/ChampionX_External,2026-10-31,138,0,0
 SLB,subsidiary,workday,wd1/championx/ChampionX_External,2026-11-01,138,0,0
 SLB,subsidiary,workday,wd1/championx/ChampionX_External,2026-11-02,139,0,0
+SLB,subsidiary,workday,wd1/championx/ChampionX_External,2026-11-03,140,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-10-04,1023,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-10-05,958,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-10-06,999,0,0
@@ -10714,11 +11011,13 @@ SMCI,,successfactors,jobs.supermicro.com,2026-10-30,1057,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-10-31,1029,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-11-01,1018,0,0
 SMCI,,successfactors,jobs.supermicro.com,2026-11-02,998,0,0
+SMCI,,successfactors,jobs.supermicro.com,2026-11-03,1002,0,0
 SNA,,icims,careers-snapon.icims.com,2026-10-29,215,0,0
 SNA,,icims,careers-snapon.icims.com,2026-10-30,218,0,0
 SNA,,icims,careers-snapon.icims.com,2026-10-31,212,0,0
 SNA,,icims,careers-snapon.icims.com,2026-11-01,212,0,0
 SNA,,icims,careers-snapon.icims.com,2026-11-02,211,0,0
+SNA,,icims,careers-snapon.icims.com,2026-11-03,210,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-09-15,403,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-09-16,396,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-09-17,405,0,0
@@ -10766,6 +11065,7 @@ SOLV,,workday,wd1/healthcare/Search,2026-10-30,441,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-10-31,435,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-11-01,435,0,0
 SOLV,,workday,wd1/healthcare/Search,2026-11-02,440,0,0
+SOLV,,workday,wd1/healthcare/Search,2026-11-03,434,0,0
 SPG,,workday,wd1/simon/Simon,2026-09-15,182,0,0
 SPG,,workday,wd1/simon/Simon,2026-09-16,183,0,0
 SPG,,workday,wd1/simon/Simon,2026-09-17,183,0,0
@@ -10813,6 +11113,7 @@ SPG,,workday,wd1/simon/Simon,2026-10-30,162,0,0
 SPG,,workday,wd1/simon/Simon,2026-10-31,166,0,0
 SPG,,workday,wd1/simon/Simon,2026-11-01,166,0,0
 SPG,,workday,wd1/simon/Simon,2026-11-02,166,0,0
+SPG,,workday,wd1/simon/Simon,2026-11-03,170,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-09-15,302,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-09-16,301,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-09-17,300,0,0
@@ -10860,11 +11161,13 @@ SPGI,,workday,wd5/spgi/SPGI_Careers,2026-10-30,316,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-10-31,344,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-11-01,352,0,0
 SPGI,,workday,wd5/spgi/SPGI_Careers,2026-11-02,355,0,0
+SPGI,,workday,wd5/spgi/SPGI_Careers,2026-11-03,365,0,0
 STLD,,icims,careers-aluminumdynamics.icims.com,2026-10-29,56,0,0
 STLD,,icims,careers-aluminumdynamics.icims.com,2026-10-30,55,0,0
 STLD,,icims,careers-aluminumdynamics.icims.com,2026-10-31,54,0,0
 STLD,,icims,careers-aluminumdynamics.icims.com,2026-11-01,54,0,0
 STLD,,icims,careers-aluminumdynamics.icims.com,2026-11-02,54,0,0
+STLD,,icims,careers-aluminumdynamics.icims.com,2026-11-03,53,0,0
 STT,,workday,wd1/statestreet/Global,2026-09-15,1220,0,0
 STT,,workday,wd1/statestreet/Global,2026-09-16,1262,0,0
 STT,,workday,wd1/statestreet/Global,2026-09-17,1296,0,0
@@ -10912,6 +11215,7 @@ STT,,workday,wd1/statestreet/Global,2026-10-30,1255,0,0
 STT,,workday,wd1/statestreet/Global,2026-10-31,1100,0,0
 STT,,workday,wd1/statestreet/Global,2026-11-01,1092,0,0
 STT,,workday,wd1/statestreet/Global,2026-11-02,1089,0,0
+STT,,workday,wd1/statestreet/Global,2026-11-03,1136,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-10-02,83,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-10-03,86,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-10-04,86,0,0
@@ -10943,6 +11247,7 @@ STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-10-30,81,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-10-31,84,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-11-01,84,0,0
 STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-11-02,85,0,0
+STZ,,workday,wd5/cbrands/CBI_External_Careers,2026-11-03,85,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-09-15,659,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-09-16,662,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-09-17,663,0,0
@@ -10990,6 +11295,7 @@ SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-10-30,604,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-10-31,592,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-11-01,590,0,0
 SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-11-02,588,0,0
+SWK,,workday,wd1/sbdinc/Stanley_Black_Decker_Career_Site,2026-11-03,585,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-10-02,39,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-10-03,37,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-10-04,36,0,0
@@ -11021,6 +11327,7 @@ SYF,,workday,wd5/synchronyfinancial/careers,2026-10-30,41,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-10-31,36,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-11-01,36,0,0
 SYF,,workday,wd5/synchronyfinancial/careers,2026-11-02,37,0,0
+SYF,,workday,wd5/synchronyfinancial/careers,2026-11-03,38,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-09-15,1462,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-09-16,1450,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-09-17,1459,0,0
@@ -11068,6 +11375,7 @@ SYK,,workday,wd1/stryker/StrykerCareers,2026-10-30,1479,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-10-31,1470,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-11-01,1468,0,0
 SYK,,workday,wd1/stryker/StrykerCareers,2026-11-02,1461,0,0
+SYK,,workday,wd1/stryker/StrykerCareers,2026-11-03,1442,0,0
 SYY,,workday,wd5/sysco/syscocareers,2026-10-02,1999,0,1
 SYY,,workday,wd5/sysco/syscocareers,2026-10-03,2000,0,1
 SYY,,workday,wd5/sysco/syscocareers,2026-10-04,2000,0,1
@@ -11099,6 +11407,7 @@ SYY,,workday,wd5/sysco/syscocareers,2026-10-30,2000,0,1
 SYY,,workday,wd5/sysco/syscocareers,2026-10-31,2084,0,0
 SYY,,workday,wd5/sysco/syscocareers,2026-11-01,2073,0,0
 SYY,,workday,wd5/sysco/syscocareers,2026-11-02,2069,0,0
+SYY,,workday,wd5/sysco/syscocareers,2026-11-03,2090,0,0
 T,,workday,wd1/att/ATTGeneral,2026-09-15,1213,0,0
 T,,workday,wd1/att/ATTGeneral,2026-09-16,1227,0,0
 T,,workday,wd1/att/ATTGeneral,2026-09-17,1239,0,0
@@ -11146,6 +11455,7 @@ T,,workday,wd1/att/ATTGeneral,2026-10-30,1100,0,0
 T,,workday,wd1/att/ATTGeneral,2026-10-31,1131,0,0
 T,,workday,wd1/att/ATTGeneral,2026-11-01,1107,0,0
 T,,workday,wd1/att/ATTGeneral,2026-11-02,1095,0,0
+T,,workday,wd1/att/ATTGeneral,2026-11-03,1122,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-09-15,712,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-09-16,718,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-09-17,711,0,0
@@ -11193,6 +11503,7 @@ TDY,subsidiary,workday,wd1/flir/flircareers,2026-10-30,768,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-10-31,768,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-11-01,767,0,0
 TDY,subsidiary,workday,wd1/flir/flircareers,2026-11-02,765,0,0
+TDY,subsidiary,workday,wd1/flir/flircareers,2026-11-03,769,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-10-09,89,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-10-10,88,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-10-11,88,0,0
@@ -11218,6 +11529,7 @@ TECH,,workday,wd5/biotechne/biotechne,2026-10-30,85,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-10-31,85,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-11-01,85,0,0
 TECH,,workday,wd5/biotechne/biotechne,2026-11-02,85,0,0
+TECH,,workday,wd5/biotechne/biotechne,2026-11-03,80,0,0
 TER,,successfactors,jobs.teradyne.com,2026-10-04,488,0,0
 TER,,successfactors,jobs.teradyne.com,2026-10-05,490,0,0
 TER,,successfactors,jobs.teradyne.com,2026-10-06,494,0,0
@@ -11247,6 +11559,7 @@ TER,,successfactors,jobs.teradyne.com,2026-10-30,589,0,0
 TER,,successfactors,jobs.teradyne.com,2026-10-31,579,0,0
 TER,,successfactors,jobs.teradyne.com,2026-11-01,578,0,0
 TER,,successfactors,jobs.teradyne.com,2026-11-02,575,0,0
+TER,,successfactors,jobs.teradyne.com,2026-11-03,570,0,0
 TFC,,workday,wd1/truist/Careers,2026-09-15,1119,0,0
 TFC,,workday,wd1/truist/Careers,2026-09-16,1124,0,0
 TFC,,workday,wd1/truist/Careers,2026-09-17,1104,0,0
@@ -11294,6 +11607,7 @@ TFC,,workday,wd1/truist/Careers,2026-10-30,1483,0,0
 TFC,,workday,wd1/truist/Careers,2026-10-31,1477,0,0
 TFC,,workday,wd1/truist/Careers,2026-11-01,1474,0,0
 TFC,,workday,wd1/truist/Careers,2026-11-02,1473,0,0
+TFC,,workday,wd1/truist/Careers,2026-11-03,1455,0,0
 TGT,,workday,wd5/target/targetcareers,2026-09-15,2000,0,1
 TGT,,workday,wd5/target/targetcareers,2026-09-16,1998,0,1
 TGT,,workday,wd5/target/targetcareers,2026-09-17,1998,0,1
@@ -11341,6 +11655,7 @@ TGT,,workday,wd5/target/targetcareers,2026-10-30,14212,0,0
 TGT,,workday,wd5/target/targetcareers,2026-10-31,14175,0,0
 TGT,,workday,wd5/target/targetcareers,2026-11-01,14165,0,0
 TGT,,workday,wd5/target/targetcareers,2026-11-02,14186,0,0
+TGT,,workday,wd5/target/targetcareers,2026-11-03,14213,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-10-03,10016,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-10-04,10020,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-10-05,10016,0,0
@@ -11371,6 +11686,7 @@ TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-10-30,11198,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-10-31,10454,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-11-01,10410,0,0
 TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-11-02,10082,0,0
+TJX,,workday,wd1/tjx/TJX_EXTERNAL,2026-11-03,10755,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-09-15,28,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-09-16,25,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-09-17,26,0,0
@@ -11418,6 +11734,7 @@ TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-10-30,24,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-10-31,24,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-11-01,24,0,0
 TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-11-02,24,0,0
+TKO,subsidiary,workday,wd5/wwecorp/IMG,2026-11-03,23,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-09-15,2888,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-09-16,2857,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-09-17,2827,0,0
@@ -11465,6 +11782,7 @@ TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-10-30,3143,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-10-31,3143,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-11-01,3138,0,0
 TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-11-02,3144,0,0
+TMO,,workday,wd5/thermofisher/ThermoFisherCareers,2026-11-03,3185,0,0
 TMUS,,workday,wd1/tmobile/External,2026-09-15,2000,0,1
 TMUS,,workday,wd1/tmobile/External,2026-09-16,2000,0,1
 TMUS,,workday,wd1/tmobile/External,2026-09-17,2000,0,1
@@ -11512,6 +11830,7 @@ TMUS,,workday,wd1/tmobile/External,2026-10-30,2000,0,1
 TMUS,,workday,wd1/tmobile/External,2026-10-31,2382,0,0
 TMUS,,workday,wd1/tmobile/External,2026-11-01,2382,0,0
 TMUS,,workday,wd1/tmobile/External,2026-11-02,2376,0,0
+TMUS,,workday,wd1/tmobile/External,2026-11-03,2444,0,0
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-09-15,2000,0,1
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-09-16,2000,0,1
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-09-17,2000,0,1
@@ -11559,6 +11878,7 @@ TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-10-30,2000,0,1
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-10-31,2000,0,1
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-11-01,2000,0,1
 TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-11-02,2000,0,1
+TPR,,workday,wd108/tapestry/Tapestry_Careers,2026-11-03,2000,0,1
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-09-15,233,0,0
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-09-16,243,0,0
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-09-17,251,0,0
@@ -11606,6 +11926,7 @@ TRMB,,workday,wd1/trimble/TrimbleCareers,2026-10-30,219,0,0
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-10-31,218,0,0
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-11-01,218,0,0
 TRMB,,workday,wd1/trimble/TrimbleCareers,2026-11-02,215,0,0
+TRMB,,workday,wd1/trimble/TrimbleCareers,2026-11-03,129,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-09-15,137,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-09-16,139,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-09-17,141,0,0
@@ -11653,6 +11974,7 @@ TROW,,workday,wd5/troweprice/TRowePrice,2026-10-30,133,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-10-31,131,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-11-01,131,0,0
 TROW,,workday,wd5/troweprice/TRowePrice,2026-11-02,131,0,0
+TROW,,workday,wd5/troweprice/TRowePrice,2026-11-03,134,0,0
 TRV,,workday,wd5/travelers/External,2026-09-15,341,0,0
 TRV,,workday,wd5/travelers/External,2026-09-16,344,0,0
 TRV,,workday,wd5/travelers/External,2026-09-17,348,0,0
@@ -11700,6 +12022,7 @@ TRV,,workday,wd5/travelers/External,2026-10-30,405,0,0
 TRV,,workday,wd5/travelers/External,2026-10-31,401,0,0
 TRV,,workday,wd5/travelers/External,2026-11-01,401,0,0
 TRV,,workday,wd5/travelers/External,2026-11-02,401,0,0
+TRV,,workday,wd5/travelers/External,2026-11-03,397,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-09-15,617,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-09-16,648,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-09-17,649,0,0
@@ -11747,6 +12070,7 @@ TSN,,workday,wd5/tysonfoods/TSN,2026-10-30,707,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-10-31,628,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-11-01,627,0,0
 TSN,,workday,wd5/tysonfoods/TSN,2026-11-02,609,0,0
+TSN,,workday,wd5/tysonfoods/TSN,2026-11-03,697,0,0
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-10-02,1682,0,0
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-10-03,1685,0,0
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-10-04,1683,0,0
@@ -11778,6 +12102,7 @@ TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-10-30,1742,0,
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-10-31,1738,0,0
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-11-01,1738,0,0
 TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-11-02,1733,0,0
+TT,,workday,wd12/tranetechnologies/Trane_Technologies_Careers,2026-11-03,1733,0,0
 TTD,,greenhouse,thetradedesk,2026-09-15,126,0,0
 TTD,,greenhouse,thetradedesk,2026-09-16,122,0,0
 TTD,,greenhouse,thetradedesk,2026-09-17,120,0,0
@@ -11825,9 +12150,11 @@ TTD,,greenhouse,thetradedesk,2026-10-30,110,0,0
 TTD,,greenhouse,thetradedesk,2026-10-31,107,0,0
 TTD,,greenhouse,thetradedesk,2026-11-01,107,0,0
 TTD,,greenhouse,thetradedesk,2026-11-02,108,0,0
+TTD,,greenhouse,thetradedesk,2026-11-03,106,0,0
 TXT,,taleo,textron.taleo.net/textron/8140753014,2026-10-31,643,0,0
 TXT,,taleo,textron.taleo.net/textron/8140753014,2026-11-01,574,0,0
 TXT,,taleo,textron.taleo.net/textron/8140753014,2026-11-02,574,0,0
+TXT,,taleo,textron.taleo.net/textron/8140753014,2026-11-03,552,0,0
 UAL,,phenom,careers.united.com/us/en,2026-10-04,134,0,0
 UAL,,phenom,careers.united.com/us/en,2026-10-05,128,0,0
 UAL,,phenom,careers.united.com/us/en,2026-10-06,129,0,0
@@ -11857,11 +12184,13 @@ UAL,,phenom,careers.united.com/us/en,2026-10-30,123,0,0
 UAL,,phenom,careers.united.com/us/en,2026-10-31,125,0,0
 UAL,,phenom,careers.united.com/us/en,2026-11-01,122,0,0
 UAL,,phenom,careers.united.com/us/en,2026-11-02,114,0,0
+UAL,,phenom,careers.united.com/us/en,2026-11-03,115,0,0
 UNP,,successfactors,up.jobs,2026-10-29,95,0,0
 UNP,,successfactors,up.jobs,2026-10-30,93,0,0
 UNP,,successfactors,up.jobs,2026-10-31,81,0,0
 UNP,,successfactors,up.jobs,2026-11-01,77,0,0
 UNP,,successfactors,up.jobs,2026-11-02,74,0,0
+UNP,,successfactors,up.jobs,2026-11-03,79,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-09-15,1524,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-09-16,1561,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-09-17,1573,0,0
@@ -11909,6 +12238,7 @@ UPS,,workday,wd5/hcmportal/Search,2026-10-30,2119,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-10-31,2105,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-11-01,2088,0,0
 UPS,,workday,wd5/hcmportal/Search,2026-11-02,2045,0,0
+UPS,,workday,wd5/hcmportal/Search,2026-11-03,2099,0,0
 URI,,workday,wd1/ur/URcareers,2026-09-15,1344,0,0
 URI,,workday,wd1/ur/URcareers,2026-09-16,1341,0,0
 URI,,workday,wd1/ur/URcareers,2026-09-17,1351,0,0
@@ -11956,6 +12286,7 @@ URI,,workday,wd1/ur/URcareers,2026-10-30,1264,0,0
 URI,,workday,wd1/ur/URcareers,2026-10-31,1252,0,0
 URI,,workday,wd1/ur/URcareers,2026-11-01,1252,0,0
 URI,,workday,wd1/ur/URcareers,2026-11-02,1250,0,0
+URI,,workday,wd1/ur/URcareers,2026-11-03,1242,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-09-15,1313,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-09-16,1324,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-09-17,1351,0,0
@@ -12003,6 +12334,7 @@ USB,,workday,wd1/usbank/US_Bank_Careers,2026-10-30,1156,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-10-31,1145,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-11-01,1130,0,0
 USB,,workday,wd1/usbank/US_Bank_Careers,2026-11-02,1100,0,0
+USB,,workday,wd1/usbank/US_Bank_Careers,2026-11-03,1165,0,0
 V,,workday,wd5/visa/Visa,2026-09-15,755,0,0
 V,,workday,wd5/visa/Visa,2026-09-16,762,0,0
 V,,workday,wd5/visa/Visa,2026-09-17,777,0,0
@@ -12050,6 +12382,7 @@ V,,workday,wd5/visa/Visa,2026-10-30,848,0,0
 V,,workday,wd5/visa/Visa,2026-10-31,837,0,0
 V,,workday,wd5/visa/Visa,2026-11-01,836,0,0
 V,,workday,wd5/visa/Visa,2026-11-02,829,0,0
+V,,workday,wd5/visa/Visa,2026-11-03,836,0,0
 VEEV,,lever,veeva,2026-08-29,839,0,0
 VEEV,,lever,veeva,2026-08-30,839,0,0
 VEEV,,lever,veeva,2026-08-31,837,0,0
@@ -12112,9 +12445,11 @@ VEEV,,lever,veeva,2026-10-30,888,0,0
 VEEV,,lever,veeva,2026-10-31,892,0,0
 VEEV,,lever,veeva,2026-11-01,892,0,0
 VEEV,,lever,veeva,2026-11-02,891,0,0
+VEEV,,lever,veeva,2026-11-03,860,0,0
 VLO,,taleo,valero.taleo.net/2/101430233,2026-10-31,42,0,0
 VLO,,taleo,valero.taleo.net/2/101430233,2026-11-01,43,0,0
 VLO,,taleo,valero.taleo.net/2/101430233,2026-11-02,42,0,0
+VLO,,taleo,valero.taleo.net/2/101430233,2026-11-03,39,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-10-02,112,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-10-03,109,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-10-04,109,0,0
@@ -12146,6 +12481,7 @@ VLTO,,workday,wd1/veralto/HachJobs,2026-10-30,101,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-10-31,98,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-11-01,100,0,0
 VLTO,,workday,wd1/veralto/HachJobs,2026-11-02,101,0,0
+VLTO,,workday,wd1/veralto/HachJobs,2026-11-03,104,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-10-02,14,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-10-03,15,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-10-04,15,0,0
@@ -12177,6 +12513,7 @@ VLTO,,workday,wd1/veralto/X-RiteJobs,2026-10-30,25,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-10-31,24,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-11-01,24,0,0
 VLTO,,workday,wd1/veralto/X-RiteJobs,2026-11-02,23,0,0
+VLTO,,workday,wd1/veralto/X-RiteJobs,2026-11-03,23,0,0
 VRSN,,greenhouse,verisign,2026-08-29,20,0,0
 VRSN,,greenhouse,verisign,2026-08-30,20,0,0
 VRSN,,greenhouse,verisign,2026-08-31,19,0,0
@@ -12239,11 +12576,13 @@ VRSN,,greenhouse,verisign,2026-10-30,16,0,0
 VRSN,,greenhouse,verisign,2026-10-31,16,0,0
 VRSN,,greenhouse,verisign,2026-11-01,16,0,0
 VRSN,,greenhouse,verisign,2026-11-02,16,0,0
+VRSN,,greenhouse,verisign,2026-11-03,16,0,0
 VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-10-29,2301,0,0
 VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-10-30,2277,0,0
 VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-10-31,2271,0,0
 VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-11-01,2273,0,0
 VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-11-02,2318,0,0
+VRT,,oracle,egup.fa.us2.oraclecloud.com/CX,2026-11-03,2295,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-10-09,307,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-10-10,307,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-10-11,307,0,0
@@ -12269,6 +12608,7 @@ VRTX,,workday,wd501/vrtx/vertex_careers,2026-10-30,298,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-10-31,297,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-11-01,297,0,0
 VRTX,,workday,wd501/vrtx/vertex_careers,2026-11-02,290,0,0
+VRTX,,workday,wd501/vrtx/vertex_careers,2026-11-03,284,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-10-02,166,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-10-03,163,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-10-04,163,0,0
@@ -12300,6 +12640,7 @@ VST,,workday,wd5/vst/vistra_careers,2026-10-30,156,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-10-31,153,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-11-01,153,0,0
 VST,,workday,wd5/vst/vistra_careers,2026-11-02,152,0,0
+VST,,workday,wd5/vst/vistra_careers,2026-11-03,157,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-10-02,6,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-10-03,6,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-10-04,6,0,0
@@ -12331,6 +12672,7 @@ VTR,,workday,wd503/ventas/ventas_careers,2026-10-30,8,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-10-31,8,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-11-01,8,0,0
 VTR,,workday,wd503/ventas/ventas_careers,2026-11-02,8,0,0
+VTR,,workday,wd503/ventas/ventas_careers,2026-11-03,8,0,0
 VTRS,,workday,wd5/viatris/External,2026-09-15,363,0,0
 VTRS,,workday,wd5/viatris/External,2026-09-16,367,0,0
 VTRS,,workday,wd5/viatris/External,2026-09-17,376,0,0
@@ -12378,6 +12720,7 @@ VTRS,,workday,wd5/viatris/External,2026-10-30,349,0,0
 VTRS,,workday,wd5/viatris/External,2026-10-31,354,0,0
 VTRS,,workday,wd5/viatris/External,2026-11-01,353,0,0
 VTRS,,workday,wd5/viatris/External,2026-11-02,351,0,0
+VTRS,,workday,wd5/viatris/External,2026-11-03,340,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-10-02,1049,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-10-03,1055,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-10-04,1031,0,0
@@ -12409,6 +12752,7 @@ VZ,,workday,wd12/verizon/verizon-careers,2026-10-30,1205,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-10-31,1149,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-11-01,1127,0,0
 VZ,,workday,wd12/verizon/verizon-careers,2026-11-02,1112,0,0
+VZ,,workday,wd12/verizon/verizon-careers,2026-11-03,1214,0,0
 WBD,,workday,wd5/warnerbros/global,2026-09-15,320,0,0
 WBD,,workday,wd5/warnerbros/global,2026-09-16,322,0,0
 WBD,,workday,wd5/warnerbros/global,2026-09-17,325,0,0
@@ -12456,6 +12800,7 @@ WBD,,workday,wd5/warnerbros/global,2026-10-30,243,0,0
 WBD,,workday,wd5/warnerbros/global,2026-10-31,249,0,0
 WBD,,workday,wd5/warnerbros/global,2026-11-01,249,0,0
 WBD,,workday,wd5/warnerbros/global,2026-11-02,248,0,0
+WBD,,workday,wd5/warnerbros/global,2026-11-03,243,0,0
 WDAY,,workday,wd5/workday/Workday,2026-09-15,374,0,0
 WDAY,,workday,wd5/workday/Workday,2026-09-16,378,0,0
 WDAY,,workday,wd5/workday/Workday,2026-09-17,384,0,0
@@ -12503,6 +12848,7 @@ WDAY,,workday,wd5/workday/Workday,2026-10-30,378,0,0
 WDAY,,workday,wd5/workday/Workday,2026-10-31,375,0,0
 WDAY,,workday,wd5/workday/Workday,2026-11-01,373,0,0
 WDAY,,workday,wd5/workday/Workday,2026-11-02,360,0,0
+WDAY,,workday,wd5/workday/Workday,2026-11-03,362,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-09-15,1706,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-09-16,1812,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-09-17,1849,0,0
@@ -12550,6 +12896,7 @@ WFC,,workday,wd1/wf/wellsfargojobs,2026-10-30,1517,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-10-31,1532,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-11-01,1487,0,0
 WFC,,workday,wd1/wf/wellsfargojobs,2026-11-02,1359,0,0
+WFC,,workday,wd1/wf/wellsfargojobs,2026-11-03,1533,0,0
 WMB,,workday,wd5/williams/External,2026-10-02,123,0,0
 WMB,,workday,wd5/williams/External,2026-10-03,125,0,0
 WMB,,workday,wd5/williams/External,2026-10-04,125,0,0
@@ -12581,6 +12928,7 @@ WMB,,workday,wd5/williams/External,2026-10-30,109,0,0
 WMB,,workday,wd5/williams/External,2026-10-31,115,0,0
 WMB,,workday,wd5/williams/External,2026-11-01,115,0,0
 WMB,,workday,wd5/williams/External,2026-11-02,113,0,0
+WMB,,workday,wd5/williams/External,2026-11-03,114,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-10-02,40,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-10-03,40,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-10-04,40,0,0
@@ -12612,6 +12960,7 @@ WMB,,workday,wd5/williams/PowerExternal,2026-10-30,22,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-10-31,23,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-11-01,23,0,0
 WMB,,workday,wd5/williams/PowerExternal,2026-11-02,22,0,0
+WMB,,workday,wd5/williams/PowerExternal,2026-11-03,24,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-10-06,1955,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-10-07,1979,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-10-09,1986,0,0
@@ -12639,16 +12988,19 @@ WMT,,workday,wd504/walmart/WalmartExternal,2026-10-30,1948,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-10-31,1823,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-11-01,1887,0,0
 WMT,,workday,wd504/walmart/WalmartExternal,2026-11-02,1970,0,0
+WMT,,workday,wd504/walmart/WalmartExternal,2026-11-03,1779,0,0
 WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-10-29,1109,0,0
 WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-10-30,1114,0,0
 WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-10-31,1116,0,0
 WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-11-01,1115,0,0
 WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-11-02,1116,0,0
+WSM,,oracle,ehac.fa.us6.oraclecloud.com/CX_1,2026-11-03,1118,0,0
 WST,,successfactors,careers.westpharma.com,2026-10-29,263,0,0
 WST,,successfactors,careers.westpharma.com,2026-10-30,271,0,0
 WST,,successfactors,careers.westpharma.com,2026-10-31,260,0,0
 WST,,successfactors,careers.westpharma.com,2026-11-01,260,0,0
 WST,,successfactors,careers.westpharma.com,2026-11-02,261,0,0
+WST,,successfactors,careers.westpharma.com,2026-11-03,263,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-09-15,237,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-09-16,240,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-09-17,249,0,0
@@ -12696,6 +13048,7 @@ XEL,,workday,wd1/xcelenergy/External,2026-10-30,116,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-10-31,104,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-11-01,103,0,0
 XEL,,workday,wd1/xcelenergy/External,2026-11-02,97,0,0
+XEL,,workday,wd1/xcelenergy/External,2026-11-03,120,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-09-15,547,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-09-16,551,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-09-17,551,0,0
@@ -12743,6 +13096,7 @@ XYL,,workday,wd5/xylem/xylem-careers,2026-10-30,482,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-10-31,479,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-11-01,479,0,0
 XYL,,workday,wd5/xylem/xylem-careers,2026-11-02,477,0,0
+XYL,,workday,wd5/xylem/xylem-careers,2026-11-03,502,0,0
 XYZ,,greenhouse,block,2026-08-29,191,0,0
 XYZ,,greenhouse,block,2026-08-30,191,0,0
 XYZ,,greenhouse,block,2026-08-31,191,0,0
@@ -12805,6 +13159,7 @@ XYZ,,greenhouse,block,2026-10-30,204,0,0
 XYZ,,greenhouse,block,2026-10-31,204,0,0
 XYZ,,greenhouse,block,2026-11-01,204,0,0
 XYZ,,greenhouse,block,2026-11-02,204,0,0
+XYZ,,greenhouse,block,2026-11-03,205,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-09-15,237,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-09-16,245,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-09-17,247,0,0
@@ -12852,6 +13207,7 @@ ZBRA,,workday,wd501/zebra/Zebra_careers,2026-10-30,244,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-10-31,245,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-11-01,245,0,0
 ZBRA,,workday,wd501/zebra/Zebra_careers,2026-11-02,244,0,0
+ZBRA,,workday,wd501/zebra/Zebra_careers,2026-11-03,248,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-09-15,116,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-09-16,123,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-09-17,128,0,0
@@ -12899,3 +13255,4 @@ ZTS,,workday,wd5/zoetis/zoetis,2026-10-30,148,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-10-31,148,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-11-01,147,0,0
 ZTS,,workday,wd5/zoetis/zoetis,2026-11-02,145,0,0
+ZTS,,workday,wd5/zoetis/zoetis,2026-11-03,145,0,0
