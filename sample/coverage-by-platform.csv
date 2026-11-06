@@ -1,18 +1,18 @@
 ats,boards,roles_fetched,vendor_publishes_count,boards_verified_complete,boards_count_mismatch,boards_unreachable
-greenhouse,3576,139650,yes,3446,0,130
-bamboohr,3492,26008,yes,3450,0,42
-ashby,2486,50027,no,0,0,72
-workable,1875,53369,no,0,0,11
-workday,1371,527012,yes,1214,10,97
-recruitee,1043,17617,no,0,0,16
-personio,866,9159,no,0,0,21
+greenhouse,3576,139526,yes,3446,0,130
+bamboohr,3492,25980,yes,3450,0,42
+ashby,2486,49968,no,0,0,73
+workable,1875,53446,no,0,0,11
+workday,1371,538117,yes,1310,9,16
+recruitee,1043,17610,no,0,0,16
+personio,866,9195,no,0,0,21
 rippling,864,8383,no,0,0,24
-lever,163,8486,no,0,0,1
-oracle,18,22875,yes,15,3,0
-successfactors,18,5683,yes,17,0,1
-eightfold,8,6998,yes,5,3,0
-icims,5,2317,no,0,0,0
-phenom,5,20062,yes,5,0,0
-taleo,3,1178,yes,1,2,0
-activate,1,7194,yes,1,0,0
-TOTAL,15794,906018,8492 of 15794 = 53.8%,8154,18,415
+lever,163,8497,no,0,0,1
+oracle,18,22921,yes,15,3,0
+successfactors,18,6309,yes,18,0,0
+eightfold,8,7006,yes,7,1,0
+icims,5,2320,no,0,0,0
+phenom,5,20060,yes,5,0,0
+taleo,3,1191,yes,1,2,0
+activate,1,7205,yes,1,0,0
+TOTAL,15794,917734,8492 of 15794 = 53.8%,8253,15,334
