@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-07",
+  "generated": "2026-11-08",
   "boards": 15794,
   "boards_on_count_publishing_platforms": 8492,
   "provable_share": 53.8,
   "platforms": 16,
   "history_first_day": "2026-08-29",
-  "history_last_day": "2026-11-07",
-  "history_days_recorded": 67,
+  "history_last_day": "2026-11-08",
+  "history_days_recorded": 68,
   "change_events_in_sample": 999,
   "postings_rows": 921589,
   "unique_roles_after_dedup": 825981,
@@ -24,9 +24,9 @@
   "checkable_count_mismatch": 8,
   "checkable_unreachable": 187,
   "checkable_no_vendor_total": 37,
-  "sp500_boards": 357,
-  "sp500_tickers": 336,
-  "sp500_daily_rows": 14685,
+  "sp500_boards": 358,
+  "sp500_tickers": 337,
+  "sp500_daily_rows": 15163,
   "sp500_boards_left_out": 13,
-  "sp500_rows_at_cap": 274
+  "sp500_rows_at_cap": 278
 }

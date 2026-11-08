@@ -66,7 +66,7 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
 
   <h1>The sample pack</h1>
   <p class="sub">The whole evaluation set, free, no signup and no order. Six
-  files cut from the index on 2026-11-07 &mdash; including the board-by-board
+  files cut from the index on 2026-11-08 &mdash; including the board-by-board
   completeness verdicts, which is the file the argument actually rests on.
   <a href="provable-hiring-data.html">What the index proves, and what it does
   not</a>, is the page to read beside them.</p>
@@ -75,7 +75,7 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
     <div><b>15,794</b><span>boards listed</span></div>
     <div><b>53.8%</b><span>count-verifiable</span></div>
     <div><b>825,981</b><span>unique roles</span></div>
-    <div><b>67</b><span>days recorded</span></div>
+    <div><b>68</b><span>days recorded</span></div>
   </div>
 
   <section>
@@ -109,13 +109,13 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
       <h3><a href="sample/snapshot-series.csv">snapshot-series.csv</a></h3>
       <p class="lede">The history, including its holes</p>
       <p>Every recorded day since the first. Short history is a known limitation and the days that failed to record are visible rather than interpolated. Its two board columns count boards that returned at least one role, which is why they read lower than the directory total above; the difference is the reachable-but-empty boards and the unreachable ones.</p>
-      <p class="meta">67 rows &middot; 4 KB &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">68 rows &middot; 4 KB &middot; UTF-8, LF, RFC 4180</p>
     </li>
     <li>
       <h3><a href="sample/sp500-daily.csv">sp500-daily.csv</a></h3>
       <p class="lede">The S&amp;P 500, one row per board per recorded day</p>
       <p>Every constituent with a board here, keyed by ticker, with the roles observed on each recorded day. A day the board could not be read is flagged and left blank rather than written as zero; a subsidiary's board is marked as one. Join to the directory on ats and token.</p>
-      <p class="meta">14,685 rows &middot; 813 KB &middot; UTF-8, LF, RFC 4180</p>
+      <p class="meta">15,163 rows &middot; 839 KB &middot; UTF-8, LF, RFC 4180</p>
     </li>
     </ul>
     <p class="note" style="margin-top:1rem">Deterministic: the same index
@@ -144,7 +144,7 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
     and <code>verdict = complete</code> to see them.</p>
     <p>921,589 posting rows collapse to 825,981 unique roles, a 10.4%
     dedup collapse across 16 platforms. History runs 2026-08-29 to
-    2026-11-07, 67 days recorded, forward-only: it is not backfilled and
+    2026-11-08, 68 days recorded, forward-only: it is not backfilled and
     cannot be.</p>
     <p class="note">No personal data. The stored schema is company, ATS token,
     job id, title, location, department, updated date and URL &mdash; no
@@ -167,8 +167,8 @@ footer{border-top:1px solid var(--rule);margin-top:3rem;padding-top:1.2rem;
   </section>
 
   <footer>
-    Cut from the index on 2026-11-07 &middot; 15,794 boards &middot;
-    67 days of change history &middot; regenerated nightly<br>
+    Cut from the index on 2026-11-08 &middot; 15,794 boards &middot;
+    68 days of change history &middot; regenerated nightly<br>
     UTF-8, LF line endings, RFC 4180 quoting &middot; sourced from public ATS APIs
   </footer>
 
